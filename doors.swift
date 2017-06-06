@@ -1,7 +1,11 @@
 import Foundation
-import Darwin
 
-var doors = [Int]()
+enum DoorState:String {
+    case Opened = "1"
+    case Closed = "0"
+}
+/* declare list of doors state and initialize them */
+var doorsStateList = [DoorState](repeating: DoorState.Closed, count: 100)
 
 func printd(_ doors: [Int]) {
   print("Would you like to Print the doors?")
@@ -31,16 +35,20 @@ func initopen(_ doors: [Int]) -> [Int] {
   return doors
 }
 
-func evenopen(_ doors: [Int]) -> [Int] {
-  var doors = doors
-  var j: Int
-  for i in 2...doors.count-1 {
-    j = i
-    if j % 2 == 0 {
-
+func open(_ doors: [Int]) -> [Int] {
+    var doors = doors
+    var max = 0
+    let i = 2
+    let x = 0
+    var doorsopen = [Int]()
+    while i <= doors.count {
+        max = 100 / i
+        
     }
-  }
 }
+
+
 doors = create(doors)
 doors = initopen(doors)
 printd(doors)
+open(doors)

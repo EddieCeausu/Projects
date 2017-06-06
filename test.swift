@@ -4,7 +4,8 @@ import Darwin
 var random = arc4random_uniform(UInt32.max)
 func asdf() {
     let done = false
-    var j = 0
+    var j: Int
+    j = 0
     while !done {
       j += 1
       print(j)
@@ -22,6 +23,10 @@ func asdf() {
           let k = Int.max
           while k > Int(count) {
           j += Int(arc4random_uniform(UInt32.max))
+          print(j)
+          if Double(j) > (15348863094911697.0) {
+            j *= Int(arc4random_uniform(UInt32.max))
+          }
         }
         }
       }
@@ -33,7 +38,7 @@ func asdf() {
 
 func qwer() {
   var j = 0
-  
+
 }
 
 func menu() -> Int {
