@@ -1,11 +1,12 @@
 import Foundation
-
+import Darwin
+/*
 enum DoorState:String {
     case Opened = "1"
     case Closed = "0"
 }
 /* declare list of doors state and initialize them */
-var doorsStateList = [DoorState](repeating: DoorState.Closed, count: 100)
+var doors = [Int]()
 
 func printd(_ doors: [Int]) {
   print("Would you like to Print the doors?")
@@ -35,20 +36,17 @@ func initopen(_ doors: [Int]) -> [Int] {
   return doors
 }
 
-func open(_ doors: [Int]) -> [Int] {
-    var doors = doors
-    var max = 0
-    let i = 2
-    let x = 0
-    var doorsopen = [Int]()
-    while i <= doors.count {
-        max = 100 / i
-        
+After doing math and figuring out that the doors that would be open are the ones that are prefect squares. The following function was created in result to that.
+*/
+func open2() {
+    var state: String
+    for i in 1...100 {
+        if pow(Double(i), 0.5).truncatingRemainder(dividingBy: 1) == 0 {
+            state = "open"
+        }
+        else {
+            state = "close"
+        }
+        print("Door \(i):\(state)")
     }
-}
-
-
-doors = create(doors)
-doors = initopen(doors)
-printd(doors)
-open(doors)
+}; open2()
