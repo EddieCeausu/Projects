@@ -13,7 +13,7 @@ import Quartz
 //
 // *********************************************************************
 func strinput() -> String {
-    return String(readLine()!)
+  return String(readLine()!)
 } // end of function strinput
 // *********************************************************************
 //
@@ -21,7 +21,7 @@ func strinput() -> String {
 //
 // *********************************************************************
 func doubleinput() -> Double {
-    return Double(readLine()!)!
+  return Double(readLine()!)!
 } // end of function doubleinput
 // *********************************************************************
 //
@@ -29,11 +29,10 @@ func doubleinput() -> Double {
 //
 // *********************************************************************
 func intinput() -> Int {
-    return Int(readLine()!)!
+  return Int(readLine()!)!
 } // end of function intinput
 // *********************************************************************
 // *********************************************************************
-
 func Uintinput() -> UInt32 {
   return UInt32(readLine()!)!
 } // end of function intinput
@@ -46,43 +45,42 @@ var intlist = [Int] ()
 var done: Bool = false
 var select: Int
 
-func menu() ->Int {
+func menu() -> Int {
         print("Selection Sort Program")
         print("Sorting Program")
         print("Load                   1")
         print("Sort array             2")
         print("Insertion sort         3")
         print("Print array            4")
-        print("Binary search          5")
-        print("Find Number            6")
+        print("Clear")
+        print("            6")
         print("Quit                   0")
         print("Enter option: ", terminator: "")
         return intinput()
     }
 
-func create()-> [Int] {
+func create(_ intlist: [Int])-> [Int] {
     var arraysize: Int
     var upperlimit: UInt32
+    var intlist = intlist
     //  Loading and Sorting array
     print("Enter array size: ");
-
-    // Enter a line of code which reads a response from the console, and assigns it to
-    // variable arraysize.  See worksheet question3.h.
     arraysize = intinput()
     print("Enter Upper Limit: ")
     upperlimit = Uintinput()
+
     let starttime = CACurrentMediaTime()
     print("Loading array with random numbers...");
     for i in 0...arraysize {
         intlist.append(Int(arc4random_uniform(upperlimit)))
     }
     let endtime = CACurrentMediaTime()
+
     print("Sort Execution time is ", endtime-starttime, " sec")
-    print(intlist)
     return intlist
 }
 
-func sort(intlist: [Int]) -> [Int] {
+func sort(_ intlist: [Int]) -> [Int] {
   print("\n Sorting Array...")
   print("")
   print(intlist)
@@ -101,7 +99,7 @@ func sort(intlist: [Int]) -> [Int] {
   return intlist2
 }
 
-func insert(intlist: [Int]) -> [Int] {
+func insert(_ intlist: [Int]) -> [Int] {
   var insert: Int
   var respone: String
   var intlist = intlist
@@ -112,7 +110,7 @@ func insert(intlist: [Int]) -> [Int] {
   respone = strinput()
   if (respone == "Y")
   {
-    sort(intlist: intlist)
+    sort(intlist)
   }
   return intlist
 }
@@ -121,20 +119,18 @@ while !done {
   var select = menu()
     switch(select) {
     case 1:
-        var intlist = create()
+      intlist = create(intlist)
     case 2:
-      var mum = sort(intlist)
-      var intlist = mum.0
+      sort(intlist)
          break
     case 3:
-      var mum2 = insert(intlist: intlist)
-      var intlist = mum2.0
+      insert(intlist)
         break
     case 4:
-        print(intlist)
+      print(intlist)
         break
     case 5:
-        intlist.removeAll()
+      intlist.removeAll()
         break
     default: print("Please choose a better option")
 
