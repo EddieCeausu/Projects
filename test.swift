@@ -37,8 +37,15 @@ func asdf() {
 }
 
 func qwer() {
-  var j = 0
+var i = 1.0
 
+  while !done {
+    print(String(i))
+    i *= 2
+    if i == Double.infinity {
+      break
+    }
+  }
 }
 
 func menu() -> Int {
