@@ -43,7 +43,7 @@ dateFormatter.timeStyle = .medium
 while total < 1000000000 {
     number += 2
     total += 1
-    gettime()
+
     var prime: Bool = true
     var i = 3
     while(Double(i * i) <= number) {
@@ -67,7 +67,7 @@ while total < 1000000000 {
     }
 
     if primes.count == Int(j) {
-        
+        gettime()
         ex = Int(arc4random_uniform(UInt32(primes.count - 50)))
         print("\n Example of prime # \(Int(ex)): \(primes[ex])")
         file = "\(Int(j)) primes.txt"
