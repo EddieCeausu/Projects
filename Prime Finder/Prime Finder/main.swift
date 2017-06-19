@@ -11,7 +11,6 @@
 // Imports
 // **********************************************************************
 import Foundation
-import Quartz
 // **********************************************************************
 // End Imports
 // **********************************************************************
@@ -35,11 +34,12 @@ func gettime() {
   let dateFormatter = DateFormatter()
 dateFormatter.timeStyle = .medium
 
-    print("The time is: \(dateFormatter.string(from: Date()))")
+    print("\(dateFormatter.string(from: Date()))")
 }
 // **********************************************************************
 // Main Function
-//*********************************************************************
+//***********************************************************************
+print("Time start is \(gettime())")
 while total < 1000000000 {
     number += 2
     total += 1
@@ -67,7 +67,7 @@ while total < 1000000000 {
     }
 
     if primes.count == Int(j) {
-        gettime()
+        print("The Time is: \(gettime())")
         ex = Int(arc4random_uniform(UInt32(primes.count - 50)))
         print("\n Example of prime # \(Int(ex)): \(primes[ex])")
         file = "\(Int(j)) primes.txt"
