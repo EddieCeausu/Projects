@@ -60,9 +60,9 @@ func printfile(_ primes: [Double],_ ainit: Int) {
 //***********************************************************************
 print("Time start is: \(gettime())")
 while total < 100000000000 { // will run until 100 billion
-    number += 2                //|
-    var prime: Bool = true    // |  Variables set
-    var i = 3                //  |
+    number += 2             //   |
+    var prime: Bool = true //    |  Variables set
+    var i = 3             //     |
     while(Double(i * i) <= number) { // Check to see if number is prime up to its sqrt
 
         if number.truncatingRemainder(dividingBy: Double(i)) == 0 {
