@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 // removes the need for std::
 using namespace std;
 
@@ -9,17 +10,16 @@ int main()
   // std::cout prints out to the console while endl ends the line in the console
 	cout << "Hello world!" << endl;
   int x;
-  char N = 'N';
+  string N("N");
   // std::cin reads a line from the console
   cout << "Please enter a value: ";
   cin >> x;
-  char response = '';
-  cout << "Would you like to print the number entered? (Y/N)" << endl;
+  int response;
+  cout << "Would you like to print the number entered? (1/2)" << endl;
   cin << response;
   // throws away enter from c-in
-  cin.ignore();
 
-  if(response != 'N') {
+  if(response != 2) {
     cout << "Entered Value: " << x << endl;
   }
 	return 0;
