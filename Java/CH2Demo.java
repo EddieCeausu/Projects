@@ -1,6 +1,6 @@
 /************************************************
  *  File:		Ch2Demo
- *  Author:		J.Foy
+ *  Author:		Edmond Ceausu
  *  Date:		8/2017
  *  Demos several Chapter 2 concepts
  *  Revision History
@@ -15,6 +15,7 @@
 //         it is only printed once.
 //  Nr 3:  For the final prompt about average, try answering with different versions of "yes" and "no", i.e.
 //         Yes, YES, yes, No, NO, no.  Does code behave the same way for intended response?
+//            Yes the code has a different response for yes and no
 //  Nr 4:  The rows of course names and grades are not aligned when the group is printed out.  Experiment with
 //         the tab escape character found in Figure 2.3 on page 60 to make them align
 //  Nr 5:  Using example Listing 2.10 on page 87, modify the grade random number generator found in line 74 so
@@ -77,9 +78,11 @@ public class CH2Demo
     	finalgrades[i] = 100 * Math.random();
      }  // end of random loading
 
+     System.out.println(" Course Name    Final Grade");
+
     for (i = 0; i < nrApHonors; i++)
     {
-     System.out.println(" Course Name    Final Grade");
+
   // See example in textbook on page 94, format method is listed
   // on page 95, Figure 2.15
      System.out.println("  " + cnames[i] + "  " + fmt.format(finalgrades[i]));
@@ -93,7 +96,7 @@ public class CH2Demo
     // String methods listed in Figure 2.5 on page 78
     System.out.print("Is this correct? (Enter yes or no) ");
     response = invalue.next();
-
+    response.toUpperCase();
     // if statement is described in Chapter 3
     if (response.equals("NO"))
      System.out.println("OK they are not equal");
