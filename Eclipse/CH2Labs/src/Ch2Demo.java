@@ -1,6 +1,6 @@
 /************************************************
  *  File:		Ch2Demo
- *  Author:		J.Foy
+ *  Author:		Edmond Ceausu
  *  Date:		8/2017
  *  Demos several Chapter 2 concepts
  *  Revision History
@@ -48,7 +48,7 @@ public class Ch2Demo
     Random rgen = new Random();
     DecimalFormat fmt = new DecimalFormat("##.##");
 
-	// First position in an array is at location 0, not location 1
+	// First position in an array is at index 0, not index 1
 	for (i = 0; i < 8; i++)
 	{
 		cnames[i] = "";
@@ -76,10 +76,10 @@ public class Ch2Demo
      {
     	finalgrades[i] = 100 * Math.random();
      }  // end of random loading
-
+     System.out.println(" Course Name    Final Grade");
     for (i = 0; i < nrApHonors; i++)
     {
-     System.out.println(" Course Name    Final Grade");
+     
   // See example in textbook on page 94, format method is listed
   // on page 95, Figure 2.15
      System.out.println("  " + cnames[i] + "  " + fmt.format(finalgrades[i]));

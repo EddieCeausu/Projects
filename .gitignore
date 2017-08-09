@@ -8,5 +8,9 @@
 ehthumbs.db
 Thumbs.db
 
+# Compiler Generated Files #
+############################
 .xcodeproj
-
+.metadata
+.recommenders
+RemoteSystemsTempFiles
