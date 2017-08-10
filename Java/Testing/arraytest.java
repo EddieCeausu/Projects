@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.stream.*;
 
-public class JJ {
+public class arraytest {
 
   public static void main(String[] args) {
 
