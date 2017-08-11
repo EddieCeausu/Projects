@@ -6,6 +6,7 @@
  *  Revision History
  *  	Rev 0:	Initial Release
  *      1:  Modified for school year 2017
+ * 			2:  Changed based on expectations of Explorations
  */
 
 //  Explorations:
@@ -69,7 +70,7 @@ public class CH2Demo
 		course = invalue.next();
 		cnames[i] = course;
 	// the backslash-n is an escape sequence.  See textbook Figure 2.3 on page 60
-		System.out.print("\n");
+		// System.out.print("\n");
 	 }  // end of for loop
 
 	 //  random method in Math class is listed in Figure 2.12 on page 88
@@ -89,8 +90,13 @@ public class CH2Demo
     } // end of print out
 
     // integer math is different than in your math classes
-    sum = 6 + 6 + 8;
-    average = sum / 3;
+    double total_nums = Math.random() * 10;
+		double numbers;
+		for(int j = 0; j <= int(total_nums); j++){
+			numbers = 10 * Math.random();
+			sum += numbers;
+		}
+    average = sum / total_nums;
     System.out.println("Average of integers 6, 6 and 8 is " + average);
 
     // String methods listed in Figure 2.5 on page 78
