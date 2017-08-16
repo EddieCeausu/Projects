@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class TempConverter {
+
+  public static void main(String[] args) {
+  String degree;
+  double temp;
+  double finaltemp = 0.0;
+  Scanner scan = new Scanner (System.in);
+  final String FAHRENHEIT = "F";
+  final String CELSIUS = "C";
+
+  System.out.print("Is your degree mesurement Fahrenheit or Celsius: ");
+  degree = scan.next().toUpperCase();
+  System.out.print("What is your Tempature: ");
+  temp = scan.nextDouble();
+
+  if(degree.equals("F"))
+    finaltemp = (temp - 32) * (5.0/9.0);
+  if(degree.equals("C"))
+    finaltemp = temp * (9.0/5.0) + 32;
+
+  System.out.println((int)(finaltemp) + "°" + degree);
+  }
+}

@@ -88,7 +88,7 @@ while total < 100000000000 { // will run until 100 billion
       print("\n \(gettime())")
       ex = Int(arc4random_uniform(UInt32(primes.count - 50)))
       print("\n Example of prime # \(Int(ex)): \(primes[ex])")
-      printfile(primes, ainit)
+      //printfile(primes, ainit)
       primes.removeAll()
       j += 49000000
       ainit = Int(a)
@@ -97,7 +97,7 @@ while total < 100000000000 { // will run until 100 billion
       print("\n \(gettime())")
       ex = Int(arc4random_uniform(UInt32(primes.count - 50)))
       print("\n Example of prime # \(Int(ex)): \(primes[ex])")
-      printfile(primes, ainit)
+      //printfile(primes, ainit)
       primes.removeAll()
       ainit = Int(a)
     }
@@ -105,7 +105,7 @@ while total < 100000000000 { // will run until 100 billion
       print("\n \(gettime())")
       ex = Int(arc4random_uniform(UInt32(primes.count - 50)))
       print("\n Example of prime # \(Int(ex)): \(primes[ex])")
-      printfile(primes, ainit)
+      //printfile(primes, ainit)
       primes.removeAll()
       ainit = Int(a)
       j = total
