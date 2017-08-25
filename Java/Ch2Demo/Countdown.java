@@ -5,10 +5,6 @@ public class Countdown {
     Scanner invalue = new Scanner(System.in);
 
     System.out.printf("\tThree... ");
-
-    i = invalue.next();
-
-    System.out.println(i);
     System.out.print("Two... ");
     System.out.print("One... ");
     System.out.print("Zero... ");

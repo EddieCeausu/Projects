@@ -27,6 +27,7 @@ var j = 1000000.0
 var a = 100_000.0
 var ainit = 0
 var ex: Int
+var i = 3
 // **********************************************************************
 // End Global Variabels
 // **********************************************************************
@@ -58,14 +59,17 @@ func printfile(_ primes: [Double],_ ainit: Int) {
 // **********************************************************************
 // Main Function
 //***********************************************************************
+print("What is your upperlimit?")
+var upperlimit = Double(readLine()!)!
 print("Time start is: \(gettime())")
-while total < 100000000000 { // will run until 100 billion
+while total <= upperlimit { // will run until total == upperlimit
     number += 2             //   |
-    var prime: Bool = true //    |  Variables set
-    var i = 3             //     |
+    var prime: Bool = true
+    if number.truncatingRemainder(dividingBy: 2.0) == 0{
+      number += 1
+    }
     while(Double(i * i) <= number) { // Check to see if number is prime up to its sqrt
-
-        if number.truncatingRemainder(dividingBy: Double(i)) == 0 {
+        if(number.truncatingRemainder(dividingBy: Double(i)) == 0) {
             prime = false
             break
         }
@@ -76,6 +80,7 @@ while total < 100000000000 { // will run until 100 billion
             primes.append(number)
             totalprimes.append(number)
             total += 1
+            i = 3
     }
 
 
@@ -83,7 +88,10 @@ while total < 100000000000 { // will run until 100 billion
         print("\(a) prime numbers found")
         a += 100_000.0
     }
-
+    if total == 100_000_000.0 {
+        printfile(primes, ainit)
+    }
+/*
     if total == j {
       print("\n \(gettime())")
       ex = Int(arc4random_uniform(UInt32(primes.count - 50)))
@@ -110,5 +118,5 @@ while total < 100000000000 { // will run until 100 billion
       ainit = Int(a)
       j = total
       j += 250000000
-    }
+    }*/
 }
