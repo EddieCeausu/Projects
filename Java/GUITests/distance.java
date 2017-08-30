@@ -36,7 +36,7 @@ public class distance extends JFrame {
 
     CalculateButton = new JButton("Calculate");
   	add(CalculateButton);
-    
+
     output1 = new JTextField(10);
     add(output1);
 
