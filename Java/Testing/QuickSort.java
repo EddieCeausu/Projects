@@ -65,7 +65,7 @@ public static void main(String args[]){
     {
         input[i] = (random.nextInt(1234567891));
     }
-    input.removeAll(Arrays.asList(0));
+    //input.removeAll(Arrays.asList(0));
     sorter.sort(input);
     System.out.print("Done!");
 }
