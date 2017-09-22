@@ -1,0 +1,16 @@
+4) An error in the compiler appears due to sumgrades not being
+   initialized
+5) The while loops enters an infinite loop. This is due to done being
+   a boolean and being intialized as false and starting the while loop
+   as false. Done would become true when answer equals the string
+   yes. If this never occurs the while loop never ends.
+6) The initial while loop will not finish. This occurs from done
+   only becoming true if answer = "yes" all lowercase. Any other
+   instance will result the while to loop again. EZ fix would be to
+   call .toLowerCase() on answer.
+7) No the for loop skips over the first class entered
+8) if (!senior && goodgrade && nrabsences) {
+	System.out.println("You can drop your lowest 100 point grade.");
+  } else {
+  System.out.println("You cannont drop your lowest 100 point grade.");
+  }
