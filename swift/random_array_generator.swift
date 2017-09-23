@@ -9,7 +9,7 @@ func arraygen() -> [Int] {
     for _ in 0...arraysize {
       array.append(Int(arc4random_uniform(upperlimit)))
     }
-    return array
+    return array.sorted()
 }
 func randomnum() -> Int {
   print("What is the upperlimit of the number?")
@@ -29,11 +29,26 @@ while !done {
     var rdmnum = randomnum()
     print(rdmnum)
   }
-  if response == "array" || response == "random array" {
+  else if response == "array" || response == "random array" {
       var intlist = arraygen()
-      print(intlist)
+        if intlist.count >= 5000 {
+            file = "random_array-\(intlist.count)"
+            contents = String(describing: intlist).replacingOccurrences(of: "]", with: "").replacingOccurrences(of: "[", with: "").replacingOccurrences(of: ",", with: " ")
+            
+            if let directory = NSSearchPathForDirectoriesInDomains(FileManager.SearchPathDirectory.documentDirectory, FileManager.SearchPathDomainMask.allDomainsMask, true).first {
+                path = URL(fileURLWithPath: directory).appendingPathComponent(file)
+                print("File was placed at: \(path) under \(file)")
+                //writing
+                do {
+                    try contents.write(to: path, atomically: false, encoding: String.Encoding.utf8)
+                }
+                catch {print("Unable to write to: \(path)")}
+            }
+        } else {
+            print(intlist)
     }
-  if((response != "number" || response != "random number") && (response != "array" || response != "random array")) {
+    }
+  else if((response != "number" || response != "random number") && (response != "array" || response != "random array")) {
     print("Try again")
   }
 }

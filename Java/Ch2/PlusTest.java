@@ -31,11 +31,10 @@ Compile and run the program. For each of the last three output statements
 (the ones dealing with 8 plus 5) write down what was printed.
 Now for each explain why the computer printed what it did given that the
 following rules are used for +. Write out complete explanations.
-	If both operands are numbers + is treated as ordinary addition.
+If both operands are numbers + is treated as ordinary addition.
 (NOTE: in the expression a + b the a and b are called the operands.)
-	If at least one operand is a string the other operand is converted to a string
-and + is the concatenation operator.
-	If an expression contains more than one operation expressions inside parentheses are evaluated first.
+If at least one operand is a string the other operand is converted to a string
+and + is the concatenation operator.If an expression contains more than one operation expressions inside parentheses are evaluated first.
 If there are no parentheses the expression is evaluated left to right.
 d.	The statement about when the computer was invented is too scrunched up. How should that be fixed?
 */

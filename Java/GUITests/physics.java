@@ -74,20 +74,20 @@ public double jtext2double(JTextField str) {
           tmaxa = ViV / ACCEL;
           t = tmaxa * 2;
           altmax.setText(decf.format((ViV * tmaxa) - (ACCEL * 0.5 * Math.pow(tmaxa, 2))));
-          range.setText(decf.format((ViV * t)));
+          range.setText(decf.format((ViH * t)));
 
           // popup box message
           wmessage = "Initial horizontal velocity: " + decf.format(ViH) + "\nInitial vertical velocity: " + decf.format(ViV) + "\nTime to max altitude: " + decf.format(tmaxa);
           if (true) JOptionPane.showMessageDialog(null, wmessage, null, JOptionPane.PLAIN_MESSAGE);
         }
         catch (NumberFormatException s) {
-            if(true) JOptionPane.showMessageDialog(null, errorm, error, JOptionPane.PLAIN_MESSAGE);
+            if(true) JOptionPane.showMessageDialog(null, errorm, error, JOptionPane.PLAIN_MESSAGE); // error message
         }
           String mS = new String("vertical horizontal velocity changes does not change because of zero accleration direction");
           //vertical velocity changes because of vertical acceleration
           // horizontal velocity does not change because of zero acceleration
           System.out.println(mS.substring(0,8) + mS.substring(19,37) + mS.substring(53, 64) + mS.substring(0, 8) + mS.substring(68, 80) + "\n" + mS.substring(9, 29) + mS.substring(37, 80));
-      
+
 
       } // end action preformed
     }); // end Calculate button listener
