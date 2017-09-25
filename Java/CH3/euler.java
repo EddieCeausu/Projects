@@ -27,7 +27,7 @@ public class euler {
     // Foy Method
     for(int i = 1; i <= digits*20; i++) {
       // e += 1.0 / factorial(i);
-      e = e.add(new BigDecimal(Double.toString((1.0 / factorial(i)))));
+      e = e.add(new BigDecimal(Double.toString(1.0 / factorial(i))));
 
     }
     //BigDecimal _e = new BigDecimal(e);

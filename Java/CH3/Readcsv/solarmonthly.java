@@ -46,7 +46,7 @@ public class solarmonthly {
 	      return thisLine;
 	}
 
-  public void getlines(File file) {
+  public void getlines(File file) { /*
     String cvsSplitBy = ",";
     BufferedReader br = null; // needs to be initialized outside of try for Following
     // catch statements
@@ -76,7 +76,7 @@ public class solarmonthly {
                     e.printStackTrace();
                 }
             }
-        }
+        } */
   }
 
   public static void main(String[] args) {
