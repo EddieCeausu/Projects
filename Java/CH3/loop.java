@@ -8,7 +8,7 @@ public class loop {
       System.out.println("Would you like a Set or Random amount of rows");
       response = scan.next();
       response.toLowerCase();
-      if((response == "set amount") || (response == "set"));
+      if((response == "set amount") || (response == "set")) assert true;
       String hash = "#";
 
       System.out.println("How many rows?");
@@ -27,7 +27,6 @@ public class loop {
         System.out.print("");
       }
 
-      if((response == "random amount") || (response == "random"));
         // random();
     }
 

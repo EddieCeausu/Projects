@@ -82,7 +82,7 @@ public class solarmonthly {
   public static void main(String[] args) {
     String cvsSplitBy = ",";
     double[] spdarray, NOX_array, CO2_array, SO2_array, ACPWR_array = null;
-    double xsum, ysum, xsqsum, ysqsum,xyprod, pwrsum, noxsum, co2sum, so2sum, pwravg, pwrsq = 0;
+    double xsum= 0, ysum= 0, xsqsum= 0, ysqsum= 0,xyprod= 0, pwrsum= 0, noxsum= 0, co2sum= 0, so2sum= 0, pwravg= 0, pwrsq = 0;
     double pwrnoxprod, pwrco2prod, pwrso2prod, coeffa_co2, coeffb_co2, coeffa_so2, coeffb_so2, coeffa_nox, coeffb_nox = 0;
     double denominator, sum, average = 0;
     int spdcntr, hdrlines, nrlines, nrdays;
