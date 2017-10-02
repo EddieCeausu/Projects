@@ -23,9 +23,9 @@ public static void fileprint(int[] array, Scanner scan) {
     bw = new BufferedWriter(fw);
     bw.write(consoleprint(array, scan));
 
-    println("File was written to class directory under filename: " + FILENAME);
+    System.out.println("File was written to class directory under filename: " + FILENAME);
   } catch(IOException e) {
-      println("Writing to file failed.");
+      System.out.println("Writing to file failed.");
     }
   finally {
       try {
@@ -38,11 +38,6 @@ public static void fileprint(int[] array, Scanner scan) {
     }
 }
 
-  final static void println(Object line){
-    if (line == null) System.out.println();
-    else System.out.println(line);
-  } // This function is becuase im lazy
-
   final static int searchinx(int[] array, int n) {
     for(int i = 0; i < array.length; i++)
       if(array[i] == n) return i;
@@ -53,8 +48,8 @@ public static void fileprint(int[] array, Scanner scan) {
       int[] intarray = array;
       int count = 0;
       String str = new String();
-      println("How many integers per line?");
-      int nrlines = scan.nextInt(); println(" ");
+      System.out.println("How many integers per line?");
+      int nrlines = scan.nextInt(); System.out.println(" ");
 
       for(int j = 0; j < intarray.length; j++) {
         str += (intarray[j] + " ");
@@ -71,7 +66,7 @@ public static void fileprint(int[] array, Scanner scan) {
    static int[] createarray(Scanner scan, Random random) {
     int array[] = new int[1000]; //init of array
 
-    println("What is your upperlimit?");
+    System.out.println("What is your upperlimit?");
     int upperlimit = scan.nextInt();
     for(int i = 0; i < array.length; i++) {// cycle through array
       array[i] = random.nextInt(upperlimit) + 1; // creation of number
@@ -80,27 +75,27 @@ public static void fileprint(int[] array, Scanner scan) {
   }
 
   final static void printarray(int[] array, Scanner scan) {
-    println("Would you like to print to a new file(NF) or to the console(C).");
+    System.out.println("Would you like to print to a new file(NF) or to the console(C).");
     String response = scan.next();
 
     if("c".equalsIgnoreCase(response)) {
       String str = consoleprint(array, scan);
-      println(str);
+      System.out.println(str);
     }
     if("nf".equalsIgnoreCase(response)) fileprint(array, scan);
 }
 
   final static void SearchNr(int[] array, Scanner scan) {
     int count = 0;
-    println("What number are you looking for?");
+    System.out.println("What number are you looking for?");
     int response  = scan.nextInt();
-    println("\n");
+    System.out.println("\n");
       for(int i = 0; i < array.length; i++)
         if(array[i] == response) {
-          println(response + " was found at index: " + i);
+          System.out.println(response + " was found at index: " + i);
           count++;
       }
-      println(response + " was found a total of " + count + " time(s).");
+      System.out.println(response + " was found a total of " + count + " time(s).");
   }
 
   final static void interlab(int[] array, Scanner scan, DecimalFormat df) {
@@ -108,26 +103,26 @@ public static void fileprint(int[] array, Scanner scan) {
     Boolean done = false, done2 = false;
     // Scan for lowerlimit with dummy proof
     while(!done){
-    println("Please enter the lower limit between 1 & 500");
+    System.out.println("Please enter the lower limit between 1 & 500");
     lowerLimit = scan.nextInt();
-    if((lowerLimit > 500) || (lowerLimit < 1)) println("Try again"); // dummy proof
+    if((lowerLimit > 500) || (lowerLimit < 1)) System.out.println("Try again"); // dummy proof
     else done = true;
   }
     // Scan for upperlimit with dummy proof
     while(!done2){
-    println("Please enter the upper limit between 501 & " + array.length);
+    System.out.println("Please enter the upper limit between 501 & " + array.length);
     upperLimit = scan.nextInt();
-    if((upperLimit > 1000) || (upperLimit < 501)) println("Try again."); // dummy proof
+    if((upperLimit > 1000) || (upperLimit < 501)) System.out.println("Try again."); // dummy proof
     else done2 = true;
   }
     int sumarr[] = new int[lowerLimit + upperLimit];
     // for loop searches through limits
     for(int i = lowerLimit; i <= upperLimit; i++){
-      println("index: " + i + " | value: " + array[i] + "| sqrt: " + df.format((Math.sqrt((double)(array[i])))));
+      System.out.println("index: " + i + " | value: " + array[i] + "| sqrt: " + df.format((Math.sqrt((double)(array[i])))));
       for(int j = 0; j < sumarr.length; j++) sumarr[j] = array[i];
     }
     int sum = IntStream.of(sumarr).sum();
-    println("Sum of values from index " + lowerLimit + " to " + upperLimit + " is: " + sum);
+    System.out.println("Sum of values from index " + lowerLimit + " to " + upperLimit + " is: " + sum);
   }
 
   final static void enhlab(int[] array, Scanner scan) {
@@ -136,8 +131,8 @@ public static void fileprint(int[] array, Scanner scan) {
         if(min >= array[i]) min = array[i];
         if(max <= array[i]) max = array[i];
       }
-      println("Max value is: " + max + " | index: " + searchinx(array, max));
-      println("Min value is: " + min + " | index: " + searchinx(array, min));
+      System.out.println("Max value is: " + max + " | index: " + searchinx(array, max));
+      System.out.println("Min value is: " + min + " | index: " + searchinx(array, min));
   }
 
 // *************************************************************
@@ -151,17 +146,18 @@ public static void fileprint(int[] array, Scanner scan) {
       DecimalFormat df = new DecimalFormat("###.###");
       Random random = new Random();
       Boolean done = false;
-      println("Welcome to Chapter 3 design lab. A fully functional java program.");
+      System.out.println("Welcome to Chapter 3 design lab. A fully functional java program.");
+
       while(!done) { // main while loop
-        println("\nPlease select an option: ");
-        println("Create array\t\t1");
-        println("Printarray\t\t2");
-        println("SearchNr\t\t3");
-        println("Intermediate lab\t4");
-        println("Enhanced Lab\t\t5");
-        println("Quit\t\t\t6");
+        System.out.println("\nPlease select an option: ");
+        System.out.println("Create array\t\t1");
+        System.out.println("Printarray\t\t2");
+        System.out.println("SearchNr\t\t3");
+        System.out.println("Intermediate lab\t4");
+        System.out.println("Enhanced Lab\t\t5");
+        System.out.println("Quit\t\t\t6");
         int response = scan.nextInt();
-        println(" ");
+        System.out.println(" ");
         // Switch case with methods prefered over while loop. This prevents
         // errors with SearchNr and the Intermediate Lab.
         switch(response) {
@@ -187,12 +183,12 @@ public static void fileprint(int[] array, Scanner scan) {
             break;
 
           case 6:
-            println("Good-Bye!");
+            System.out.println("Good-Bye!");
             done = true;
             break;
 
           default:
-            println("Not an option; Try again.");
+            System.out.println("Not an option; Try again.");
 
         }// end switch;
       } //end while
