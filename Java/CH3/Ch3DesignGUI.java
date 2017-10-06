@@ -148,18 +148,19 @@ public static void fileprint() {
 // *************************************************************
 
    public static int[] createarray(Random random) {
-     int upperlimit;
+     int upperlimit = 0;
      int[] array = arrayf;
      while(true) {
        try {
          String ulimit = JOptionPane.showInputDialog("What is your upperlimit?");
          upperlimit = Integer.valueOf(ulimit);
          break;
-       } catch((NumberFormatException e) | (IllegalArgumentException e)) {
+       } catch(Exception e) {
          if(upperlimit > 0)
            JOptionPane.showMessageDialog(null, "Try again");
           else
          JOptionPane.showMessageDialog(null, "Number must be greater than 0");
+       }
      }
      for(int i = 0; i < array.length; i++) { // cycle through array
        array[i] = random.nextInt(upperlimit) + 1; // creation of number
