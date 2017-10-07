@@ -155,11 +155,8 @@ public static void fileprint() {
          String ulimit = JOptionPane.showInputDialog("What is your upperlimit?");
          upperlimit = Integer.valueOf(ulimit);
          break;
-       } catch(Exception e) {
-         if(upperlimit > 0)
+       } catch(Exception ex) {
            JOptionPane.showMessageDialog(null, "Try again");
-          else
-         JOptionPane.showMessageDialog(null, "Number must be greater than 0");
        }
      }
      for(int i = 0; i < array.length; i++) { // cycle through array
@@ -172,7 +169,8 @@ public static void fileprint() {
       int response = JOptionPane.showConfirmDialog(null, "Would you like to print to a New File?", null, JOptionPane.YES_OPTION);
       if(response == JOptionPane.NO_OPTION) {
         String str = consoleprint();
-        JOptionPane.showMessageDialog(null, str);
+        JOptionPane.showMessageDialog(null, "check the console");
+        System.out.println(str);
       }
       if(response == JOptionPane.YES_OPTION) fileprint();
     }// end printarray
@@ -218,7 +216,8 @@ public static void fileprint() {
 
       for(int j = 0; j < sumarr.length; j++) sumarr[j] = arrayf[i];
     }
-    JOptionPane.showMessageDialog(null, str);
+    JOptionPane.showMessageDialog(null, "\ncheck the console\n");
+    System.out.println("\n" + str);
     int sum = IntStream.of(sumarr).sum();
     str = "Sum of values from index " + lowerLimit + " to " + upperLimit + " is: " + sum;
     JOptionPane.showMessageDialog(null, str);
