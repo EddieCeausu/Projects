@@ -18,9 +18,3 @@ echo "
 ##       ##     ## ##     ##  ##  ##
 ######## ########  ########  #### ########
 "
-echo "Would you like to head to Projects/Java/CH3?"
-read response
-
-if [ "$response" == "yes" ]; then
-  cd Projects/Java/CH3
-fi
