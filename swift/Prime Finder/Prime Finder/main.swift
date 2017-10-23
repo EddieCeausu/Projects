@@ -28,6 +28,8 @@ var a = 100_000.0
 var ainit = 0
 var ex: Int
 var i = 3
+let nf = NumberFormatter()
+nf.numberStyle = NumberFormatter.Style.decimal
 // **********************************************************************
 // End Global Variabels
 // **********************************************************************
@@ -59,64 +61,67 @@ func printfile(_ primes: [Double],_ ainit: Int) {
 // **********************************************************************
 // Main Function
 //***********************************************************************
-print("What is your upperlimit?")
-var upperlimit = Double(readLine()!)!
-print("Time start is: \(gettime())")
-while total <= upperlimit { // will run until total == upperlimit
-    number += 2             //   |
-    var prime: Bool = true
-    if number.truncatingRemainder(dividingBy: 2.0) == 0{
-      number += 1
-    }
-    while(Double(i * i) <= number) { // Check to see if number is prime up to its sqrt
-        if(number.truncatingRemainder(dividingBy: Double(i)) == 0) {
-            prime = false
-            break
+func main() {
+    print("What is your upperlimit?")
+    let upperlimit = Double(readLine()!)!
+    print("Time start is: \(gettime())")
+    while total <= upperlimit { // will run until total == upperlimit
+        number += 2             //   |
+        var prime: Bool = true
+        if number.truncatingRemainder(dividingBy: 2.0) == 0{
+          number += 1
         }
-        i += 2
-    }
+        while(Double(i * i) <= number) { // Check to see if number is prime up to its sqrt
+            if(number.truncatingRemainder(dividingBy: Double(i)) == 0) {
+                prime = false
+                break
+            }
+            i += 2
+        }
 
-    if prime != false {
-            primes.append(number)
-            totalprimes.append(number)
-            total += 1
-            i = 3
-    }
+        if prime != false {
+                primes.append(number)
+                total += 1
+                i = 3
+        }
 
 
-    if total == a {// display rough prime number count
-        print("\(a) prime numbers found")
-        a += 100_000.0
+        if total == a { // display rough prime number count
+            let a1 = nf.String(describing: NSNumber(value:a))
+            print("\(a1) prime numbers found")
+            a += 100_000.0
+        }
+        if total == 100_000_000.0 {
+            printfile(primes, ainit)
+        }
+    /*
+        if total == j {
+          print("\n \(gettime())")
+          ex = Int(arc4random_uniform(UInt32(primes.count - 50)))
+          print("\n Example of prime # \(Int(ex)): \(primes[ex])")
+          //printfile(primes, ainit)
+          primes.removeAll()
+          j += 49000000
+          ainit = Int(a)
+        }
+        if total == (j - 1000000){
+          print("\n \(gettime())")
+          ex = Int(arc4random_uniform(UInt32(primes.count - 50)))
+          print("\n Example of prime # \(Int(ex)): \(primes[ex])")
+          //printfile(primes, ainit)
+          primes.removeAll()
+          ainit = Int(a)
+        }
+        if total == 250000000 {
+          print("\n \(gettime())")
+          ex = Int(arc4random_uniform(UInt32(primes.count - 50)))
+          print("\n Example of prime # \(Int(ex)): \(primes[ex])")
+          //printfile(primes, ainit)
+          primes.removeAll()
+          ainit = Int(a)
+          j = total
+          j += 250000000
+        }*/
     }
-    if total == 100_000_000.0 {
-        printfile(primes, ainit)
-    }
-/*
-    if total == j {
-      print("\n \(gettime())")
-      ex = Int(arc4random_uniform(UInt32(primes.count - 50)))
-      print("\n Example of prime # \(Int(ex)): \(primes[ex])")
-      //printfile(primes, ainit)
-      primes.removeAll()
-      j += 49000000
-      ainit = Int(a)
-    }
-    if total == (j - 1000000){
-      print("\n \(gettime())")
-      ex = Int(arc4random_uniform(UInt32(primes.count - 50)))
-      print("\n Example of prime # \(Int(ex)): \(primes[ex])")
-      //printfile(primes, ainit)
-      primes.removeAll()
-      ainit = Int(a)
-    }
-    if total == 250000000 {
-      print("\n \(gettime())")
-      ex = Int(arc4random_uniform(UInt32(primes.count - 50)))
-      print("\n Example of prime # \(Int(ex)): \(primes[ex])")
-      //printfile(primes, ainit)
-      primes.removeAll()
-      ainit = Int(a)
-      j = total
-      j += 250000000
-    }*/
 }
+main()

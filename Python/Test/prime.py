@@ -1,4 +1,4 @@
-## Copyright Jakob Ligget ##
+## © Jakob Ligget ##
 
 def primesVanilla(n):
     r = [True] * n ##Array of true prime bools length of N
