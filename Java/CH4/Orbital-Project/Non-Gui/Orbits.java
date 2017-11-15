@@ -8,9 +8,10 @@ public class Orbits {
   public static Satellite[] sat = new Satellite[5];
   public static Satellite csat;
   static int res = 0;
+  
   public static void menu() {
 
-    System.out.println("\n\tSatellite control Panel");
+    System.out.println("\n    Satellite control Panel");
     System.out.println("|*********************************|");
     System.out.println("| Print all Satellites\t\t1 |");
     System.out.println("| Select a Satellite\t\t2 |");
@@ -32,14 +33,14 @@ public class Orbits {
         satsel();
       break;
 
-      case 3:
+      case 3: // Mass and Radius select for the proper Velocity and Period calculations
         csat.MassRadsel();
         csat.oVelocity__period();
       break;
 
       case 4:
-      String newOrbit;
-        while(true) {
+        String newOrbit = "";
+        while(true) { // This will allow the user to select a new orbit planet
           System.out.println("Change orbit to which planet?");
           System.out.println("Earth\t\t1\nMars\t\t2\nSun\t\t3\n");
           res = scan.nextInt();
@@ -51,9 +52,11 @@ public class Orbits {
           }
           break;
         }
-        csat.oSel(newOrbit);
+        csat.oSel(newOrbit); // changes orbit type in satellite file
       break;
+
       case 5:
+        csat.setPwrType();
       break;
 
       case 0:
@@ -64,10 +67,9 @@ public class Orbits {
       default:
         System.out.println("You stupid");
       break;
-
     }
-
   }
+
   public static void satsel() {
 
     while(true) { // while is here so switch doesn't end after default
@@ -118,6 +120,7 @@ public class Orbits {
       sat[4] = new Satellite("ChinaSat", 3.58e7, "Geo Sationary", "Earth");
     }
     satsel(); // init csat selection
+    csat.setPwrType(); // init power type selection
 
     while(true) menu(); // will run indefinatly
 
