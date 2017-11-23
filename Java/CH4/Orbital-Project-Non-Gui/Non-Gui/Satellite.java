@@ -1,5 +1,3 @@
-
-
 import java.util.InputMismatchException;
 public class Satellite {
   String sName, oName;
@@ -9,14 +7,12 @@ public class Satellite {
   private String powerType; //"battery", "solar", "nuclear"
   public String[] powerTypeSel = {"battery", "solar", "nuclear"};
   final static double ERADIUS = 6.638e6;
-  final static double EMASS = 5.972e24;
+  final static double EMASS = 5.98e24;
   final static double UGRAV = 6.673e-11;
   final static double SRADIUS = 6.96E8;
   final static double SMASS = 1.99e30;
-  final static double MRADIUS = 3.389e6;
-  final static double MMASS = 6.39e23;
-  final static double PMASS = 1.30900e22;
-  final static double PRADIUS = 1.18705e6;
+  final static double MRADIUS = 3.386e6;
+  final static double MMASS = 6.4171e23;
 
   // Constructor
   public Satellite(String name, double alt, String oname, String otype) {
@@ -77,8 +73,10 @@ public class Satellite {
   }
 
   public void oVelocity__period() {
-    oVelocity = Math.sqrt((UGRAV * mass) / radius );
-    oPeriod = (2 * Math.PI * radius) / oVelocity;
+    oVelocity = Math.sqrt((UGRAV * mass) / (radius + altitude));
+    oPeriod = (2.0 * Math.PI * (radius + altitude)) / oVelocity;
+//    System.out.println(oVelocity + " " + oPeriod);
+
     System.out.println("Orbital Velocity: " + Orbits.dfmt.format(oVelocity) + " m/s or " + Orbits.dfmt.format(mps2mph(oVelocity)) + " mph");
     System.out.println("Orbital Period: " + Orbits.dfmt.format(oPeriod) + " seconds or " + Orbits.dfmt.format(sec2min(oPeriod)) + " minutes");
   }

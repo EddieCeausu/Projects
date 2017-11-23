@@ -14,7 +14,7 @@ public class Interface extends JFrame{
 
   public final JLabel createL, printAL, searchL, interL, enhanL;
   public final JButton printAB, createB, searchB, interB, enhanB, quit;
-
+  
   Interface(DecimalFormat df, Random random) {
 
 

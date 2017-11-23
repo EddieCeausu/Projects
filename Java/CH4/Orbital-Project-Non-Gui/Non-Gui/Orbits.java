@@ -8,7 +8,7 @@ public class Orbits {
   public static Satellite[] sat = new Satellite[5];
   public static Satellite csat;
   static int res = 0;
-  
+
   public static void menu() {
 
     System.out.println("\n    Satellite control Panel");
@@ -74,7 +74,7 @@ public class Orbits {
 
     while(true) { // while is here so switch doesn't end after default
       System.out.println("Select a Satellite");
-      System.out.println("ISS\t\t1\nMRO\t\t2\nJWST/Webb\t3\nFoy\t\t4\nBoi\t\t5");
+      System.out.println("ISS\t\t1\nMRO\t\t2\nJWST/Webb\t3\nSkylab\t\t4\nChinaSat\t5");
       int response = scan.nextInt();
 
       switch(response) {
@@ -114,7 +114,7 @@ public class Orbits {
     // List of possible satellites saved to array sat[i]
     for(int i = 0; i < 5; i++) {
       sat[0] = new Satellite("ISS", 408000.0, "Low Earth Orbit", "Earth");
-      sat[1] = new Satellite("MRO", 400000.0, "Near-polar orbit", "Mars");
+      sat[1] = new Satellite("MRO", 2.85e5, "Near-polar orbit", "Mars");
       sat[2] = new Satellite("Webb", 1.609344e9, "Solar orbit", "Sun");
       sat[3] = new Satellite("Skylab", 234964, "Low Earth Orbit", "Earth");
       sat[4] = new Satellite("ChinaSat", 3.58e7, "Geo Sationary", "Earth");
