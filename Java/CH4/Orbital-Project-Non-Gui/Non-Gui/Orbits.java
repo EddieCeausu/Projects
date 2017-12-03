@@ -5,8 +5,8 @@ import java.lang.*;
 public class Orbits {
   public static Scanner scan = new Scanner(System.in);
   public static DecimalFormat dfmt = new DecimalFormat("###.###");
-  public static Satellite[] sat = new Satellite[5];
-  public static Satellite csat;
+  public static SatelliteG[] sat = new SatelliteG[5];
+  public static SatelliteG csat;
   static int res = 0;
 
   public static void menu() {
@@ -113,11 +113,11 @@ public class Orbits {
   public static void main(String[] args) {
     // List of possible satellites saved to array sat[i]
     for(int i = 0; i < 5; i++) {
-      sat[0] = new Satellite("ISS", 408000.0, "Low Earth Orbit", "Earth");
-      sat[1] = new Satellite("MRO", 2.85e5, "Near-polar orbit", "Mars");
-      sat[2] = new Satellite("Webb", 1.609344e9, "Solar orbit", "Sun");
-      sat[3] = new Satellite("Skylab", 234964, "Low Earth Orbit", "Earth");
-      sat[4] = new Satellite("ChinaSat", 3.58e7, "Geo Sationary", "Earth");
+      sat[0] = new SatelliteG("ISS", 408000.0, "Low Earth Orbit", "Earth");
+      sat[1] = new SatelliteG("MRO", 2.85e5, "Near-polar orbit", "Mars");
+      sat[2] = new SatelliteG("Webb", 1.609344e9, "Solar orbit", "Sun");
+      sat[3] = new SatelliteG("Skylab", 234964, "Low Earth Orbit", "Earth");
+      sat[4] = new SatelliteG("ChinaSat", 3.58e7, "Geo Sationary", "Earth");
     }
     satsel(); // init csat selection
     csat.setPwrType(); // init power type selection

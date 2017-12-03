@@ -1,5 +1,5 @@
 import java.util.InputMismatchException;
-public class Satellite {
+public class SatelliteG {
   String sName, oName;
   double radius = 0, mass = 0;
   private double altitude, oPeriod, oVelocity;
@@ -15,7 +15,7 @@ public class Satellite {
   final static double MMASS = 6.4171e23;
 
   // Constructor
-  public Satellite(String name, double alt, String oname, String otype) {
+  public SatelliteG(String name, double alt, String oname, String otype) {
     sName = name;
     //System.out.println(oName);
     altitude = alt;
