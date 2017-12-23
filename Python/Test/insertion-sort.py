@@ -18,6 +18,6 @@ def arraygen(n):
     return array
 
 array = arraygen(randint(0,50))
-print array,"\n" 
+print array,"\n"
 array = insertion(array)
 print array

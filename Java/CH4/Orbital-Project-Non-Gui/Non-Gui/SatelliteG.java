@@ -1,7 +1,9 @@
 import java.util.InputMismatchException;
+import java.text.DecimalFormat;
 public class SatelliteG {
   String sName, oName;
   double radius = 0, mass = 0;
+  public static DecimalFormat dfmt = new DecimalFormat("###.###");
   private double altitude, oPeriod, oVelocity;
   private String oType; // 0 = Solar orbit; 2 = Mars orbit
   private String powerType; //"battery", "solar", "nuclear"
@@ -72,14 +74,13 @@ public class SatelliteG {
     }
   }
 
-  public void oVelocity__period() {
-    oVelocity = Math.sqrt((UGRAV * mass) / (radius + altitude));
-    oPeriod = (2.0 * Math.PI * (radius + altitude)) / oVelocity;
-//    System.out.println(oVelocity + " " + oPeriod);
 
-    System.out.println("Orbital Velocity: " + Orbits.dfmt.format(oVelocity) + " m/s or " + Orbits.dfmt.format(mps2mph(oVelocity)) + " mph");
-    System.out.println("Orbital Period: " + Orbits.dfmt.format(oPeriod) + " seconds or " + Orbits.dfmt.format(sec2min(oPeriod)) + " minutes");
-  }
+    public void oVelocity__period() {
+      oVelocity = Math.sqrt((UGRAV * mass) / radius );
+      oPeriod = (2 * Math.PI * radius) / oVelocity;
+      System.out.println("Orbital Velocity: " + dfmt.format(oVelocity) + " m/s or " + dfmt.format(mps2mph(oVelocity)) + " mph");
+      System.out.println("Orbital Period: " + dfmt.format(oPeriod) + " seconds or " + dfmt.format(sec2min(oPeriod)) + " minutes");
+    }
 
   public void oSel(String newOrbit) { // change of orbit type inhibited by orbit file
     switch(newOrbit) {
