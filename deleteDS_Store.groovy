@@ -8,7 +8,7 @@ if (args.length < 1)
 }
 
 def directoryName = args[0]
-println "Remove .class files in ${directoryName} and its subdirectories..."
+println "Remove .DS_Store files in ${directoryName} and its subdirectories..."
 def directory = new File(directoryName)
 def classPattern = ~/.*\.DS_Store/
 directory.eachFileRecurse(groovy.io.FileType.FILES)
