@@ -1,23 +1,39 @@
-## © Jakob Ligget ##
+import threading, doctest, cProfile, time, random
+result = [2]
+counter = 1
 
-def primesVanilla(n):
-    r = [True] * n ##Array of true prime bools length of N
-    r[0] = r[1] = False ##Starting Values, 0 and 1 not prime
-    for i in range(n): ## For all numbers (generator)
-        if r[i]: ## If marked as prime
-            for j in range(i+i,n,i): ## Goto every number from double the current to the end, in increments of the current prime
-                r[j]=False ## Mark composite as false
-    return r
+def get_int(num):
+    for i in range(3, num):
+        yield i
 
-def primesVanillaConvert(r):
-	primenum = []
-	for x in range(len(r)-1):
-		if r[x]:
-			primenum.append(x)
-	return primenum
+def is_prime(num):
+    for j in range(2,int(num)):
+        if (num % j) == 0:
+            return False
+    result.append(num)
+    return True
 
-checkto = int(input('Check primes under x: '))
+def prime_calculator(nth):
+    lock = threading.Lock()
+    global result, counter, integer
+    while counter < (nth):
+        if is_prime(next(integer)):
+            lock.acquire()
+            try:
+                counter += 1
+            finally:
+                lock.release()
+        time.sleep(random.random()/1000)
 
-primes = primesVanilla(checkto)
-#trueprimes = ( primesVanillaConvert(primes) )
-print ('Done!')
+def prime(nth):
+    global integer, counter, result
+    integer = get_int(99999999)
+    threads = [threading.Thread(daemon=True, target=prime_calculator, args=(nth,)) for i in range(500)]
+    [thread.start() for thread in threads]
+    [thread.join() for thread in threads]
+    counter = 1
+    return result[-1]
+
+if __name__ == "__main__":
+    doctest.testmod()
+    cProfile.run('print(prime(1234567))')

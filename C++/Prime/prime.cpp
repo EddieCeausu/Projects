@@ -10,6 +10,7 @@ bool prime(float number){
     }
     return true;
 
+
 }
 
 void sprime() {
