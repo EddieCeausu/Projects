@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Prime {
   static boolean prime(BigInteger x) {
     BigInteger two = new BigInteger("2");
-    //check via BigInteger.isProbablePrime(certainty)
     if ( !(x.isProbablePrime(10)) ) return false;
     if(x.equals(two)) return true;
     if(x.mod(two).equals(BigInteger.ZERO)) return false;

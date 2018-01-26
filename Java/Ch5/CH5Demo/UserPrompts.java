@@ -3,10 +3,10 @@
 // to your two language class files
 public interface UserPrompts {
   public int menu();
+  public int languageMenu();
   public int idSwapNrs(int[] intlist);
   public String toString();
   public String printHeader();
   public String beforeSwap();
   public String afterSwap();
-
 } // end of interface UserPrompts

@@ -11,52 +11,27 @@ import java.util.Scanner;
 
 public class test {
   public static Scanner scan = new Scanner(System.in);
-  static void printA(ArrayList n) {
-    for(Object i : n) {
-      System.out.print(i + " ");
+
+  static boolean checkPrime(long prime) {
+    for(long i = 3; i * i < prime; i += 2) {
+      if(prime % i != 0) return false;
     }
-    System.out.print("\n\n");
+    return true;
   }
-  public static ArrayList rangePrime(BigInteger max) {
-    BigInteger TWO = new BigInteger("2");
-    BigInteger LENGTH = max.add(BigInteger.ONE);
 
-    if(max.compareTo (BigInteger.valueOf (Integer.MAX_VALUE) ) < 0) {
-    ArrayList<BigInteger> finArray = new ArrayList<BigInteger>();
-    // BigInteger array[] = new BigInteger[max.intValue() + 1];
-    ArrayList<BigInteger> array = new ArrayList<BigInteger>(Collection.nCopies(max.intValue + 1, BigInteger.ONE));
-}
-    array.add(0, BigInteger.ZERO);
-     array.add (1, BigInteger.ZERO);
-    //printA(array);
-
-    for(BigInteger i = TWO; i.multiply(i).compareTo(LENGTH) < 0 ; i.add(BigInteger.ONE)) {
-      if(array.get(i.intValue()).equals(BigInteger.ONE)){
-        for(BigInteger j = i; i.multiply(j).compareTo(LENGTH) < 0; j.add(BigInteger.ONE)){
-            array [j.multiply(i).intValue()] = BigInteger.ZERO;
-        }
-      }
-    }
-    //printA(array);
-
-    for(BigInteger i = BigInteger.ZERO; i.compareTo(LENGTH) < 0; i.add(BigInteger.ONE)) {
-      if(array [i.intValue()].equals(BigInteger.ONE)) {
-        finArray.add(i);
-      }
-    }
-
-    return finArray;
+  public static void rangePrime(long start) {
+    BigInteger two = new BigInteger("2");
+    if ( !(BigInteger.valueOf(start).isProbablePrime(10)) ) return;
+    if(checkPrime(start)) {
+      
+    } else System.out.printf("%d is not a prime!", start);
+    return;
   }
   public static void main(String[] args) {
-    ArrayList<BigInteger> array = new ArrayList<BigInteger>();
+    System.out.println("Prime Generator!!!!");
+    System.out.println("Enter a prime < 2^64 - 1 to start at: ");
+    long start = scan.nextlong();
+    rangePrime(start);
 
-    System.out.printf("Enter your max range: ");
-    BigInteger max = scan.nextBigInteger();
-    array = rangePrime(max);
-
-    scan.close();
-    System.out.printf("There are %d primes below %d\n", array.size(), max);
-    if(array.contains(max)) System.out.printf("%d is prime", max);
-    else System.out.printf("%d is not prime", max);
   }
 }
