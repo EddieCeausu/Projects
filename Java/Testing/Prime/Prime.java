@@ -1,5 +1,8 @@
 import java.math.BigInteger;
+import java.util.stream.LongStream;
 import java.util.Scanner;
+import java.util.concurrent.atomic.AtomicInteger;
+
 public class Prime {
   static boolean prime(BigInteger x) {
     BigInteger two = new BigInteger("2");
@@ -13,19 +16,33 @@ public class Prime {
     return true;
   }
   public static void main(String[] args) {
+    AtomicInteger count = new AtomicInteger(0);
+    //int count = 0;
     Scanner scan = new Scanner(System.in);
-    BigInteger input;
-    System.out.println("WELCOME TO PRIME CHECKER JAVA\nEnter your prime");
-    input = scan.nextBigInteger();
-    scan.close();
-    long startTime = System.currentTimeMillis();
+    BigInteger two = new BigInteger("2");
+    BigInteger start = new BigInteger(Long.toString(Long.MAX_VALUE));
+    BigInteger max = new BigInteger("22953686867719691230002707821868552601124472329080");
+    int input;
 
-    System.out.println(prime(input));
+    System.out.println("WELCOME TO PRIME CHECKER JAVA\n Enter 1 to start");
+    input = scan.nextInt();
 
-    long endTime = System.currentTimeMillis();
-
-    System.out.println("That took " + (endTime - startTime) + " milliseconds");
-
-
-  }
-}
+    if(input == 1) {
+      LongStream.rangeClosed(1L, Long.MAX_VALUE - 1L).parallel()
+      .forEach(i -> {
+        if(prime ( new BigInteger(Long.toString(i))) ) {
+	  count.getAndIncrement();
+          //if(count.equals(new AtomicInteger(10000))) 
+System.out.println(i); //count.set(0); 
+       }
+     });
+       for(BigInteger i = start; i.compareTo(max) < 1; i = i.add(two))
+         if(prime(i)){
+              //count.addAndGet(1);
+             // if(count.equals(new AtomicInteger(10))) { System.out.println(i); count.set(0);}
+            //count ++;
+            //if(count == 10) System.out.println(i);
+      }
+    }
+  } //end main
+}// end class
