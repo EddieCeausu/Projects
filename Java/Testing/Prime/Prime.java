@@ -32,8 +32,8 @@ public class Prime {
       .forEach(i -> {
         if(prime ( new BigInteger(Long.toString(i))) ) {
 	  count.getAndIncrement();
-          //if(count.equals(new AtomicInteger(10000))) 
-System.out.println(i); //count.set(0); 
+          //if(count.equals(new AtomicInteger(10000)))
+System.out.println(i); //count.set(0);
        }
      });
        for(BigInteger i = start; i.compareTo(max) < 1; i = i.add(two))
