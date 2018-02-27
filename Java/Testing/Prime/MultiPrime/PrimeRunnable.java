@@ -11,13 +11,15 @@ class PrimeRunnable extends Thread {
     public void run() {
       segmentedSieve(max);
     }
+    
     public PrimeRunnable(int max) { this.max = max; }
+
     static void simpleSieve(int limit, Vector<Integer> prime) {
         // Create a boolean array "mark[0..n-1]" and initialize
         // all entries of it as true. A value in mark[p] will
         // finally be false if 'p' is Not a prime, else true.
         boolean mark[] = new boolean[limit+1];
-
+        int count = 0;
         IntStream.range(0, mark.length).parallel().forEach(i -> {
           mark[i] = true;
         });
@@ -35,8 +37,9 @@ class PrimeRunnable extends Thread {
         for (int p=2; p<limit; p++) {
             if (mark[p] == true) {
                 prime.add(p);
+                count++;
                 System.out.print(p + "  ");
-            }
+
         }
     }
 
@@ -88,9 +91,10 @@ class PrimeRunnable extends Thread {
             }
 
             // Numbers which are not marked as false are prime
-            for (int i = low; i<high; i++)
-                if (mark[i - low] == true)
+            IntStream.range(low, high).parallel().forEach(i -> {
+                if (mark [i - low] == true)
                     System.out.print(i + "  ");
+                  });
 
             // Update low and high for next segment
             low  = low + limit;
