@@ -9,15 +9,16 @@ public class Sorting {
      for(int j = 0; j < list.length; j ++) {
          for(int i = j; i < list.length; i++) {
            if(list[j] >= list[i]) { // swap list[i] and list[min]
-             passes ++;
              temp = list[j];
              list[j] = list[i];
              list[i] = temp;
+             passes ++;
            }
          }
      }
      System.out.println("Sorting finished...Took " + passes + " passes");
   }
+
   public static void linearSearch(int[] list, int item) {
     long startTime = System.nanoTime();
      for(int i  = 0; i < list.length; i++)
@@ -26,25 +27,42 @@ public class Sorting {
     System.out.printf("Time to find through was %d nano seconds\n", endTime - startTime);
    }
 
-   public static void binarySearch(int[] list, int item) {
-     int max = list.length - 1, min = 0, middle, passes = 0;
-     long startTime = System.nanoTime();
-     while(min <= max) {
-       middle = (min + max) / 2;
-       passes ++;
-       if(list[middle] == item) {
-        long endTime = System.nanoTime();
-        System.out.println("Item found at index " + middle + "\nTook " + (endTime - startTime) + " nano seconds and " + passes + " passes");
-        return;
-      }
-      if(list[middle] > item)
-        max = middle - 1;
-      else
-        min = middle + 1;
-      }
-      System.out.println("Item not found");
+  public static void binarySearch(int[] list, int item) {
+   int max = list.length - 1, min = 0, middle, passes = 0;
+   long startTime = System.nanoTime();
+   while(min <= max) {
+     middle = (min + max) / 2;
+     passes ++;
+     if(list[middle] == item) {
+      long endTime = System.nanoTime();
+      System.out.println("Item found at index " + middle + "\nTook " + (endTime - startTime) + " nano seconds and " + passes + " passes");
+      return;
     }
+    if(list[middle] > item)
+      max = middle - 1;
+    else
+      min = middle + 1;
+    }
+    System.out.println("Item not found");
+  }
 
+  public static void create(int[] list) {
+    for(int i = 0; i < list.length; i++)
+      list[i] = rand.nextInt(50000);
+  }
+
+  public static String printArray(int[] list) {
+    String print = "[";
+
+    for(int i = 0; i < list.length; i++)
+      if(i != list.length - 1)
+        print += (list[i] + ", ");
+      else
+        print += (list[i] + "]");
+
+      return print;
+  }
+  
   public static int menu() {
     boolean done = false;
     int input = 0;
@@ -63,23 +81,6 @@ public class Sorting {
     else done = true;
     }
     return input;
-  }
-
-  public static void create(int[] list) {
-    for(int i = 0; i < list.length; i++)
-      list[i] = rand.nextInt(50000);
-  }
-
-  public static String printArray(int[] list) {
-    String print = "[";
-
-    for(int i = 0; i < list.length; i++)
-      if(i != list.length - 1)
-        print += (list[i] + ", ");
-      else
-        print += (list[i] + "]");
-
-      return print;
   }
 
   public static void main(String[] args) {
