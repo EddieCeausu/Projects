@@ -3,15 +3,16 @@ import java.util.*;
 public class Sorting {
   public static Scanner scan = new Scanner(System.in);
   public static Random rand = new Random();
+  public static int[] array = new int[500];
 
-  public static void SelectionSort(int[] list) {
+  static void SelectionSort() {
      int temp, passes = 0;
-     for(int j = 0; j < list.length; j ++) {
-         for(int i = j; i < list.length; i++) {
-           if(list[j] >= list[i]) { // swap list[i] and list[min]
-             temp = list[j];
-             list[j] = list[i];
-             list[i] = temp;
+     for(int j = 0; j < array.length; j ++) {
+         for(int i = j + 1; i < array.length; i ++) {
+           if(array[j] < array[i]) { // swap array[i] and array[min]
+             temp = array[j];
+             array[j] = array[i];
+             array[i] = temp;
              passes ++;
            }
          }
@@ -19,26 +20,32 @@ public class Sorting {
      System.out.println("Sorting finished...Took " + passes + " passes");
   }
 
-  public static void linearSearch(int[] list, int item) {
+  static void linearSearch(int item) {
     long startTime = System.nanoTime();
-     for(int i  = 0; i < list.length; i++)
-       if(list[i] == item) System.out.println("Item was found at index: " + i);
+    boolean found = false;
+     for(int i  = 0; i < array.length; i++)
+       if(array[i] == item) {
+         System.out.println("Item was found at index: " + i);
+         found = true;
+       }
     long endTime = System.nanoTime();
-    System.out.printf("Time to find through was %d nano seconds\n", endTime - startTime);
+    if(found)
+      System.out.printf("Time to find through was %d nano seconds\n", endTime - startTime);
+    else System.out.println("Item not found");
    }
 
-  public static void binarySearch(int[] list, int item) {
-   int max = list.length - 1, min = 0, middle, passes = 0;
+  static void binarySearch(int item) {
+   int max = array.length - 1, min = 0, middle, passes = 0;
    long startTime = System.nanoTime();
    while(min <= max) {
      middle = (min + max) / 2;
      passes ++;
-     if(list[middle] == item) {
+     if(array[middle] == item) {
       long endTime = System.nanoTime();
       System.out.println("Item found at index " + middle + "\nTook " + (endTime - startTime) + " nano seconds and " + passes + " passes");
       return;
     }
-    if(list[middle] > item)
+    if(array[middle] > item)
       max = middle - 1;
     else
       min = middle + 1;
@@ -46,24 +53,28 @@ public class Sorting {
     System.out.println("Item not found");
   }
 
-  public static void create(int[] list) {
-    for(int i = 0; i < list.length; i++)
-      list[i] = rand.nextInt(50000);
+  static void create() {
+    if(array.length <= 20000)
+    for(int i = 0; i < array.length; i++)
+      array[i] = rand.nextInt(50000);
+    else array = new Random().ints(array.length, 0, 500000).parallel().toArray();
   }
 
-  public static String printArray(int[] list) {
+  static String printArray() {
     String print = "[";
 
-    for(int i = 0; i < list.length; i++)
-      if(i != list.length - 1)
-        print += (list[i] + ", ");
+    for(int i = 0; i < array.length; i++) {
+      if(i % 10 == 0 && i != 0)
+        print += "\n";
+      if(i != array.length - 1)
+        print += (array[i] + ", ");
       else
-        print += (list[i] + "]");
-
+        print += (array[i] + "]");
+      }
       return print;
   }
-  
-  public static int menu() {
+
+  static int menu() {
     boolean done = false;
     int input = 0;
     while(!done) {
@@ -76,35 +87,34 @@ public class Sorting {
       System.out.println("Enter your choice: ");
       input = scan.nextInt();
 
-    if(input < 0 || input > 5)
-      System.out.println("Try again");
-    else done = true;
+      if(input < 0 || input > 5)
+        System.out.println("Try again");
+      else done = true;
     }
     return input;
   }
 
   public static void main(String[] args) {
-    int[] array = new int[100];
     int item;
-    while(true) {
+    do {
       switch(menu()) {
         case 0: System.exit(0); break;
-        case 1: create(array); break;
-        case 2: SelectionSort(array); break;
+        case 1: create(); break;
+        case 2: SelectionSort(); break;
         case 3:
           System.out.println("What item would you like to search for? ");
           item = scan.nextInt();
-          linearSearch(array, item);
+          linearSearch(item);
           break;
         case 4:
           System.out.println("What item would you like to search for? ");
           item = scan.nextInt();
-          binarySearch(array, item);
+          binarySearch(item);
           break;
 
-        case 5: System.out.println(printArray(array)); break;
+        case 5: System.out.println(printArray()); break;
         default: System.err.println("Thats not an option"); break;
       }
-    }
+    } while(true);
   }
 }
