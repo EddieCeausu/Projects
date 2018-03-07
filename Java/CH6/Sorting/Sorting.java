@@ -9,7 +9,7 @@ public class Sorting {
      int temp, passes = 0;
      for(int j = 0; j < array.length; j ++) {
          for(int i = j + 1; i < array.length; i ++) {
-           if(array[j] < array[i]) { // swap array[i] and array[min]
+           if(array[i] < array[j]) { // swap array[i] and array[min]
              temp = array[j];
              array[j] = array[i];
              array[i] = temp;
