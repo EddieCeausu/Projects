@@ -1,4 +1,3 @@
-package sorting;
 import java.util.*;
 import java.io.*;
 
@@ -12,7 +11,6 @@ public class Insertion {
     for(int i = 1; i < list.length; i++)
       for(int j = i; j > 0; j--)
         if(list[j] < list[j-1]) {
-          System.out.printf("j:%d, j-1%d",list[j], list[j-1]);
           list[j-1] ^= list[j];
           list[j] ^= list[j-1];
           list[j-1] ^= list[j];

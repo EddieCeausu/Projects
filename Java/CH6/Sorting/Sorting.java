@@ -3,13 +3,13 @@ import java.util.*;
 public class Sorting {
   public static Scanner scan = new Scanner(System.in);
   public static Random rand = new Random();
-  public static int[] array = new int[500];
+  public static int[] array = new int[50000];
 
   static void SelectionSort() {
      int temp, passes = 0;
      for(int j = 0; j < array.length; j ++) {
          for(int i = j + 1; i < array.length; i ++) {
-           if(array[j] < array[i]) { // swap array[i] and array[min]
+           if(array[j] > array[i]) { // swap array[i] and array[min]
              temp = array[j];
              array[j] = array[i];
              array[i] = temp;
@@ -19,16 +19,36 @@ public class Sorting {
      }
      System.out.println("Sorting finished...Took " + passes + " passes");
   }
+  static void checkForDups() {
+    int dups = 0;
+    int num = 0;
+    Map<Integer, Integer> map = new HashMap<Integer, Integer>();
 
+    for(int i : array) {
+      num = i;
+      dups = 0;
+      for(int j = 0; j < array.length; j++) {
+        if(i == array[j]) {
+          dups ++;
+        }
+        if(j == array.length - 1 && dups >= 2)
+          map.put(num, dups);
+      } // end j for
+
+    } // end i  for-each
+    System.out.println("Duplicate Items: " + map.toString());
+  }
   static void linearSearch(int item) {
-    long startTime = System.nanoTime();
     boolean found = false;
+    long startTime = System.nanoTime(), endTime = 0l;
      for(int i  = 0; i < array.length; i++)
        if(array[i] == item) {
+         endTime = System.nanoTime();
          System.out.println("Item was found at index: " + i);
          found = true;
+
        }
-    long endTime = System.nanoTime();
+
     if(found)
       System.out.printf("Time to find through was %d nano seconds\n", endTime - startTime);
     else System.out.println("Item not found");
@@ -57,7 +77,7 @@ public class Sorting {
     if(array.length <= 20000)
     for(int i = 0; i < array.length; i++)
       array[i] = rand.nextInt(50000);
-    else array = new Random().ints(array.length, 0, 500000).parallel().toArray();
+    else array = new Random().ints(array.length, 0, 50001).parallel().toArray();
   }
 
   static String printArray() {
@@ -83,11 +103,12 @@ public class Sorting {
       System.out.println("Linear Search\t\t3");
       System.out.println("Binary Search\t\t4");
       System.out.println("Print Array\t\t5");
+      System.out.println("Search for Duplicates\t6");
       System.out.println("Exit\t\t\t0");
       System.out.println("Enter your choice: ");
       input = scan.nextInt();
 
-      if(input < 0 || input > 5)
+      if(input < 0 || input > 6)
         System.out.println("Try again");
       else done = true;
     }
@@ -113,6 +134,7 @@ public class Sorting {
           break;
 
         case 5: System.out.println(printArray()); break;
+        case 6: checkForDups();
         default: System.err.println("Thats not an option"); break;
       }
     } while(true);
