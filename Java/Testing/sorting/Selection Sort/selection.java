@@ -4,16 +4,17 @@ public class selection {
   public static Random rand = new Random();
 
   static void SelectionSort(int[] array) {
-     int temp, passes = 0;
+     int temp, passes = 0, min;
      for(int j = 0; j < array.length; j ++) {
-         for(int i = j + 1; i < array.length; i ++) {
-           if(array[j] > array[i]) { // swap array[i] and array[min]
-             temp = array[j];
-             array[j] = array[i];
-             array[i] = temp;
+        min = j;
+         for(int i = j + 1; i < array.length; i ++)
+           if(array[min] > array[i])
+             min = i;
+             // swap array[i] and array[min]
+             temp = array[min];
+             array[min] = array[j];
+             array[j] = temp;
              passes ++;
-           }
-         }
      }
      System.out.println("Sorting finished...Took " + passes + " passes");
   }

@@ -4,61 +4,52 @@ import java.io.*;
 public class Insertion {
   public static Scanner scan = new Scanner(System.in);
   public static Random rand = new Random();
-  public static RandomStrings use = new RandomStrings();
 
-  static void sort(int[] list) {
+  static void sort(List<Integer> array) {
 
-    for(int i = 1; i < list.length; i++)
+    for(int i = 1; i < array.size(); i++)
       for(int j = i; j > 0; j--)
-        if(list[j] < list[j-1]) {
-          System.out.printf("j:%d, j-1%d",list[j], list[j-1]);
-          list[j-1] ^= list[j];
-          list[j] ^= list[j-1];
-          list[j-1] ^= list[j];
+        if( array.get(i).compareTo(array.get(j-1) ) < 0 ) {
+          array.add(j, array.get(j-1));
         }
 
   }
-
-  static void sort(String[] list) {
+/*
+  static void sort() {
     String temp;
     for(int i = 1; i < list.length; i++)
 
       for(int j = i; j > 0; j--)
-        if(list[j].compareToIgnoreCase(list[j-1]) < 0) {
+        if(list[j].compareTo(list[j-1]) < 0) {
           temp = list[j];
           list[j] = list[j-1];
           list[j-1] = temp;
         }
   }
+*/
 
-  static Boolean isSorted(int[] a) {
+  static Boolean isSorted(Object[] a) {
     for(int i = 0; i < a.length - 1; i++)
-      if(a[i] > a[i+1]) return false;
+      if(a[i].equals(a[i+1])) return false;
     return true;
   }
 
-  static Boolean isSorted(String[] a) {
-    for(int i = 0; i < a.length - 1; i++)
-      if(a[i].compareTo(a[i+1]) >= 0) return false;
-    return true;
+  static int[] toArray(List<Integer> list) {
+    int[] arry = new int[list.size() - 1];
+    for(int i = 0; i < list.size(); i++) {
+      arry[i] = list.get(i);
+    }
+    return arry;
   }
 
-  public static void printArray(String[] list) {
-    System.out.println("Before sort: ");
-    System.out.println(Arrays.toString(list) + "\n");
-    sort(list);
-    System.out.println("\nAfter sort: ");
-    System.out.println(Arrays.toString(list));
-    System.out.println("Check to see if array is sorted: " + isSorted(list));
-
-  }
   public static void printArray(int[] list) {
     System.out.println("Before sort: ");
     System.out.println(Arrays.toString(list) + "\n");
-    sort(list);
+    List<Integer> array = Arrays.stream(list).boxed().collect(java.util.stream.Collectors.toList());
+    sort(array);
     System.out.println("\nAfter sort: ");
-    System.out.println(Arrays.toString(list));
-    System.out.println("Check to see if array is sorted: " + isSorted(list));
+    System.out.println(Arrays.toString(array.toArray()));
+    System.out.println("Check to see if array is sorted: " + isSorted(array.toArray()));
 
   }
 
@@ -66,16 +57,8 @@ public class Insertion {
     //Size input
     System.out.println("Welcome to Bubble Sort\nEnter your list size: ");
     int max = scan.nextInt();
-    System.out.println("\nList of Integers(1) or Random Strings(2)?");
-    int input = scan.nextInt();
-    scan.close();
+    int[] list = new Random().ints(max, 0, max + 1).toArray();
+    printArray(list);
 
-    if(input == 1) {
-      int[] list = new Random().ints(max, 0, max + 1).toArray();
-      printArray(list);
-    } else {
-        String[] list = use.randomStrings(max);
-        printArray(list);
-    }
   }
 }

@@ -39,7 +39,7 @@ public class TestAccount {
     input = scan.nextInt();
     if(input == 1) createAccount();
     if(input == 2) Account.getAccounts();
-    //if(input == 3) 
+    //if(input == 3)
   }
   public static void main(String[] args) {
     	Account testAcct;

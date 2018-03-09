@@ -3,21 +3,22 @@ import java.util.*;
 public class Sorting {
   public static Scanner scan = new Scanner(System.in);
   public static Random rand = new Random();
-  public static int[] array = new int[50000];
+  public static int[] array = new int[30];
 
   static void SelectionSort() {
-     int temp, passes = 0;
-     for(int j = 0; j < array.length; j ++) {
-         for(int i = j + 1; i < array.length; i ++) {
-           if(array[j] > array[i]) { // swap array[i] and array[min]
-             temp = array[j];
-             array[j] = array[i];
-             array[i] = temp;
-             passes ++;
-           }
-         }
-     }
-     System.out.println("Sorting finished...Took " + passes + " passes");
+    int temp, swap = 0, min;
+    for(int j = 0; j < array.length; j ++) {
+       min = j;
+        for(int i = j + 1; i < array.length; i ++)
+          if(array[min] > array[i])
+            min = i;
+            // swap array[i] and array[min]
+            temp = array[min];
+            array[min] = array[j];
+            array[j] = temp;
+            swap ++;
+    }
+    System.out.println("Sorting finished...Took " + swap + " swaps");
   }
   static void checkForDups() {
     int dups = 0;
