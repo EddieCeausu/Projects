@@ -37,8 +37,9 @@ public class Sorting {
       } // end j for
 
     } // end i  for-each
-    System.out.println("Duplicate Items: " + map.toString());
+    System.out.println("Duplicate Items: Number = Number of Occurences\n" + map.toString());
   }
+
   static void linearSearch(int item) {
     boolean found = false;
     long startTime = System.nanoTime(), endTime = 0l;
@@ -77,7 +78,7 @@ public class Sorting {
   static void create() {
     if(array.length <= 20000)
     for(int i = 0; i < array.length; i++)
-      array[i] = rand.nextInt(50000);
+      array[i] = rand.nextInt(20);
     else array = new Random().ints(array.length, 0, 50001).parallel().toArray();
   }
 

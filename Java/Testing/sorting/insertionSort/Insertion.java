@@ -55,7 +55,7 @@ public class Insertion {
 
   public static void main(String[] args) {
     //Size input
-    System.out.println("Welcome to Bubble Sort\nEnter your list size: ");
+    System.out.println("Welcome to Insertion Sort\nEnter your list size: ");
     int max = scan.nextInt();
     int[] list = new Random().ints(max, 0, max + 1).toArray();
     printArray(list);
