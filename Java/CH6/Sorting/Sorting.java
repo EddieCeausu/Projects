@@ -1,9 +1,10 @@
 import java.util.*;
 
 public class Sorting {
-  public static Scanner scan = new Scanner(System.in);
-  public static Random rand = new Random();
-  public static int[] array = new int[30];
+  static Scanner scan = new Scanner(System.in);
+  static Random rand = new Random();
+  static int[] array = new int[30];
+  static String print;
 
   static void SelectionSort() {
     int temp, swap = 0, min;
@@ -21,9 +22,8 @@ public class Sorting {
     System.out.println("Sorting finished...Took " + swap + " swaps");
   }
   static void checkForDups() {
-    int dups = 0;
-    int num = 0;
-    Map<Integer, Integer> map = new HashMap<Integer, Integer>();
+    int dups = 0, num;
+    Map<Integer, Integer> map = new TreeMap<Integer, Integer>();
 
     for(int i : array) {
       num = i;
@@ -37,6 +37,7 @@ public class Sorting {
       } // end j for
 
     } // end i  for-each
+
     System.out.println("Duplicate Items: Number = Number of Occurences\n" + map.toString());
   }
 
@@ -57,22 +58,24 @@ public class Sorting {
    }
 
   static void binarySearch(int item) {
-   int max = array.length - 1, min = 0, middle, passes = 0;
-   long startTime = System.nanoTime();
-   while(min <= max) {
-     middle = (min + max) / 2;
-     passes ++;
-     if(array[middle] == item) {
-      long endTime = System.nanoTime();
-      System.out.println("Item found at index " + middle + "\nTook " + (endTime - startTime) + " nano seconds and " + passes + " passes");
-      return;
-    }
-    if(array[middle] > item)
-      max = middle - 1;
-    else
-      min = middle + 1;
-    }
-    System.out.println("Item not found");
+    int max = array.length - 1, min = 0, middle, passes = 0;
+    if(print.contains(Integer.toString(item))) {
+       long startTime = System.nanoTime();
+       while(min <= max) {
+         middle = (min + max) / 2;
+         passes ++;
+         if(array[middle] == item) {
+          long endTime = System.nanoTime();
+          System.out.println("Item found at index " + middle + "\nTook " + (endTime - startTime) + " nano seconds and " + passes + " passes");
+          return;
+        }
+        if(array[middle] > item)
+          max = middle - 1;
+        else
+          min = middle + 1;
+        }
+      }
+    System.out.printf("Item not found\nTook %d passes\n", passes);
   }
 
   static void create() {
@@ -82,8 +85,8 @@ public class Sorting {
     else array = new Random().ints(array.length, 0, 50001).parallel().toArray();
   }
 
-  static String printArray() {
-    String print = "[";
+  static void printArray() {
+    print = "[";
 
     for(int i = 0; i < array.length; i++) {
       if(i % 10 == 0 && i != 0)
@@ -93,7 +96,6 @@ public class Sorting {
       else
         print += (array[i] + "]");
       }
-      return print;
   }
 
   static int menu() {
@@ -122,8 +124,8 @@ public class Sorting {
     do {
       switch(menu()) {
         case 0: System.exit(0); break;
-        case 1: create(); break;
-        case 2: SelectionSort(); break;
+        case 1: create(); printArray(); break;
+        case 2: SelectionSort(); printArray(); break;
         case 3:
           System.out.println("What item would you like to search for? ");
           item = scan.nextInt();
@@ -135,7 +137,7 @@ public class Sorting {
           binarySearch(item);
           break;
 
-        case 5: System.out.println(printArray()); break;
+        case 5: System.out.println(print); break;
         case 6: checkForDups();
         default: System.err.println("Thats not an option"); break;
       }

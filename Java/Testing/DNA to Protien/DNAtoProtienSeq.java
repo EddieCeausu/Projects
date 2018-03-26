@@ -13,7 +13,7 @@ public class DNAtoProtienSeq {
       System.out.println("Enter your sequence: ");
       seq = new Scanner(System.in).nextLine();
       seq.replaceAll("\\s","");
-      if(Pattern.compile("[ATCG]").matcher(seq.toString()).find()) {
+      if(Pattern.compile("[ATCG]").matcher(seq.toString().find()) {
         //if(seq.length() % 3 == 0)
           done = true;
         } else
@@ -71,7 +71,7 @@ public class DNAtoProtienSeq {
     codonTable.put("GUU", "Val");
     codonTable.put("GUC", "Val");
     codonTable.put("GUA", "Val");
-    codonTable.put("Val", "GUG");
+    codonTable.put("GUG", "Val");
 
     codonTable.put("UCU", "Ser");
     codonTable.put("UCC", "Ser");
