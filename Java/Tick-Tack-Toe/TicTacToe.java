@@ -3,7 +3,7 @@ public class TicTacToe {
   public static Console console = System.console();
 
   void TwoPlayer() {
-
+    
   }
 
    public static void main(String[] args) {

@@ -95,7 +95,7 @@ public class twod {
     System.out.println("Sum of entire array is: " + sum);
   }
 
-  static boolean findDups(int n) { // to be used to find min, max values in minMax(); if dup of selected is found return true;
+  static boolean findDups(int n) { // to be used to find min & max values in minMax();
     int x = 0;
     for(int[] arry : list)
       for(int i = 0 ; i < arry.length; i++)
@@ -136,12 +136,13 @@ public class twod {
 
   static int menu() {
     System.out.println("Load\t\t\t1");
-    System.out.println("Sum of Row\t\t2");
-    System.out.println("Sum of Column\t\t3");
-    System.out.println("Find max\t\t4");
-    System.out.println("Sum of Array\t\t5");
-    System.out.println("Swap\t\t\t6");
-    System.out.println("Print\t\t\t7");
+    System.out.println("Sort\t\t\t2");
+    System.out.println("Sum of Row\t\t3");
+    System.out.println("Sum of Column\t\t4");
+    System.out.println("Find max\t\t5");
+    System.out.println("Sum of Array\t\t6");
+    System.out.println("Swap\t\t\t7");
+    System.out.println("Print\t\t\t8");
     System.out.println("Exit\t\t\t0");
     while(true) {
       try {
@@ -154,16 +155,17 @@ public class twod {
 
   public static void main(String[] args) {
     System.out.println("Welcome to 2-D Array Lab");
-    while(true){
+    while(true) {
       switch(menu()) {
         case 0: System.exit(0); break;
         case 1: load(); break;
-        case 2: sumRow(); break;
-        case 3: sumColumn(); break;
-        case 4: minMax(); break;
-        case 5: sumA(); break;
-        case 6: swap(); break;
-        case 7: System.out.println(print()); break;
+        case 2: sort(); break;
+        case 3: sumRow(); break;
+        case 4: sumColumn(); break;
+        case 5: minMax(); break;
+        case 6: sumA(); break;
+        case 7: swap(); break;
+        case 8: System.out.println(print()); break;
         default: System.err.println("You cant do that!!!");
       } // end while
     } // end switch
