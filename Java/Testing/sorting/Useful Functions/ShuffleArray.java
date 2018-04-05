@@ -15,7 +15,8 @@ public class ShuffleArray<T> {
     }
   }
   static void shuffle(int[] a) {
-
+    Integer[] what = Arrays.stream( data ).boxed().toArray( Integer[]::new );
+    shuffle(what);
   }
   
   public static void main(String[] args) {

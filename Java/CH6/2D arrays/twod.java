@@ -2,14 +2,15 @@ import java.util.*;
 public class twod {
   public static Scanner scan = new Scanner(System.in);
   public static Random rand = new Random();
-  static int[][] list = new int[15500][15500]; // int[rows][columns]
+  static int[][] list = new int[15][15]; // int[rows][columns]
 
   static void load() {
     for(int i = 0; i < list.length; i++)
       for(int j = 0; j < list[i].length; j++)
-        list[i][j] = rand.nextInt(100);
-  }
+        list[i][j] = rand.nextInt(101);
 
+  }
+  
   static void sort() {
     // Sort rows
     for (int row = 0; row < list.length; row++) {
@@ -26,16 +27,22 @@ public class twod {
     Boolean pass;
     do {
       pass = false;
-      for(int row = 0; row < list.length - 1; row++)
-      //int i = 0;
-        if(list[row][i] > list[row+1][i]) {
+      for(int row = 0; row < list.length - 1; row++) {
+        if(list[row][0] > list[row+1][0]) {
           pass = true;
           int[] temp = list[row];
           list[row] = list[row+1];
           list[row+1] = temp;
         }
+        if(list[row][0] == list[row+1][0] && (list[row][1] > list[row+1][1])) {
+            int[] temp = list[row];
+            list[row] = list[row+1];
+            list[row+1] = temp;
+        }
+      }
     } while(pass);
   }
+
 
   static void sumRow() {
     int row = 0;
@@ -78,10 +85,9 @@ public class twod {
     if(!findDups(max)) System.out.printf("One max value of %d found at: [%d,%d]\n",max, maxX, maxY);
     else {
       String print = "";
-      for(int i = 0; i < list.length; i++)
-        for (int j = 0; j < list[i].length; j++)
-          if(list[i][j] == max)
-            print += " [" + i + "," + j + "] ";
+      for (int i = 0 ; i < list.length ; i++)
+        for (int j = 0 ; j < list[i].length ; j++)
+          if (list[i][j] == max) print += " [" + i + "," + j + "] ";
 
       System.out.printf("Max value %d found at locations%s", max, print);
     }

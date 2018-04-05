@@ -61,7 +61,10 @@ public class Encrypt_str {
   }
 
   public static void main(String[] args) {
-    Encrypt_str foo = new Encrypt_str("Hello World!");
+    System.out.println("Enter a string to encrypt");
+    String input = new java.util.Scanner(System.in).next();
+
+    Encrypt_str foo = new Encrypt_str(input);
     System.out.printf("Encrypted: %s\nDecrypted: %s", foo.getEncrypted(), foo.decrypt());
   }
 }

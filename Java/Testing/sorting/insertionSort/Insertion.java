@@ -10,9 +10,8 @@ public class Insertion {
     for(int i = 1; i < array.size(); i++)
       for(int j = i; j > 0; j--)
         if( array.get(i).compareTo(array.get(j-1) ) < 0 ) {
-          array.add(j, array.get(j-1));
+          Collections.swap(array, i, j-1);
         }
-
   }
 /*
   static void sort() {

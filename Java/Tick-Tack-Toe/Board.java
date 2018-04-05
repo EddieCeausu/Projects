@@ -42,6 +42,7 @@ public class Board {
           j++;
       }
   }
+
   void move(int x, int y, Player p) {
     if(board[x][y] == Player.Blank)
       board[x][y] = p;
@@ -65,6 +66,36 @@ public class Board {
         return p;
       }
     }
+    // column checks
+    for(int i = 0; i < 3; i++){
+           if(board[x][i] != p)
+               break;
+           if(i == 2){
+               return p;
+           }
+       }
+     if(x == y){
+          //diagonal checks
+          for(int i = 0; i < 3; i++){
+              if(board[i][i] != p)
+                  break;
+              if(i == 2){
+                  return p;
+              }
+          }
+      }
+      // anti diagonal
+      if(x + y == 3 - 1){
+            for(int i = 0; i < 3; i++){
+                if(board[i][(2)-i] != p)
+                    break;
+                if(i == n-1){
+                    return p;
+                }
+            }
+        }
+  if(movesMade == (Math.pow(3, 2) - 1))
     return Player.Blank;
+
   }
 }
