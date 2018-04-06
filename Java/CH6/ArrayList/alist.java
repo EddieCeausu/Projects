@@ -9,36 +9,38 @@ public class alist {
   public static ArrayList<Integer> list = new ArrayList<Integer>();
 
   static void load_sort() {
-    int i, next = 0;
+    int i, next;
+    list.clear();
     System.out.println("Enter the number of items: ");
     length = scan.nextInt();
 
-    for(int j = 0 ; j < length; j ++) {
-      next = rand.nextInt(1001);
-      for(i = j; i > 0 && next < list.get(i - 1); i--);
-      list.add(i,next);
-    }
+    for (i = 0; i < length; i++)
+      next = insert(rand.nextInt(1001));
+
   }
 
   static void insert() {
     System.out.println("Enter your Integer to add: ");
     int input = scan.nextInt();
-    if(input < list.get(0)) {
+    if (input < list.get(0)) {
       list.add(0, input);
-      System.out.println("Item added to list at index 0");
+      System.out.println("Item added to list at index: 0");
       return;
     }
-    for(int i = 0; i < list.size()-1; i++)
-      if(input >= list.get(i) && input <= list.get(i+1)){
-        list.add(i+1, input);
-        System.out.println("Item added to list at index" + (i+1));
-        break;
-      }
+    System.out.println("Element added at index : " + insert(input));
+  }
 
+  static int insert(int n) {
+    int i;
+    for (i = list.size(); i > 0 && n < list.get(i - 1); i--)
+      ;
+    list.add(i, n);
+    return i;
   }
 
   static void removeInt() {
-    System.out.println("Enter the index of the item you would like to remove\n" + print() + "\nEnter removal location: ");
+    System.out
+        .println("Enter the index of the item you would like to remove\n" + print() + "\nEnter removal location: ");
     int input = scan.nextInt();
     list.remove(input);
     System.out.println("New size is: " + list.size());
@@ -46,31 +48,31 @@ public class alist {
 
   static String print() {
     String str = "[";
-    for(int i = 0; i < list.size(); i++) {
-      if(i % 10 == 0 && i != 0)
+    for (int i = 0; i < list.size(); i++) {
+      if (i % 10 == 0 && i != 0)
         str += "\n";
-      if(i != list.size() - 1)
+      if (i != list.size() - 1)
         str += (list.get(i) + ", ");
       else
         str += (list.get(i) + "]");
-      }
+    }
     return str;
   }
 
   static void sumA() {
     int sum = 0;
-    for(Integer i : list)
+    for (Integer i : list)
       sum += i;
     System.out.println("Sum of ArrayList is: " + sum);
   }
 
   static void biggerThan() {
-   int i, count = 0;
+    int i, count = 0;
     System.out.println("Enter the item you would like to compare: ");
     int input = scan.nextInt();
     System.out.println(print());
-    for(i = 0; i < list.size(); i++)
-      if(list.get(i) >= input)
+    for (i = 0; i < list.size(); i++)
+      if (list.get(i) >= input)
         count++;
     System.out.println("Number of items ≥ input: " + count);
   }
@@ -87,16 +89,32 @@ public class alist {
   }
 
   public static void main(String[] aris) {
-    while(true){
-      switch(menu()){
-        case 0: System.exit(0); break;
-        case 1: load_sort(); break;
-        case 2: insert(); break;
-        case 3: removeInt(); break;
-        case 4: sumA(); break;
-        case 5: biggerThan(); break;
-        case 6: System.out.println(print()); break;
-        default: System.err.println("That is not an option"); break;
+    while (true) {
+      switch (menu()) {
+      case 0:
+        System.exit(0);
+        break;
+      case 1:
+        load_sort();
+        break;
+      case 2:
+        insert();
+        break;
+      case 3:
+        removeInt();
+        break;
+      case 4:
+        sumA();
+        break;
+      case 5:
+        biggerThan();
+        break;
+      case 6:
+        System.out.println(print());
+        break;
+      default:
+        System.err.println("That is not an option");
+        break;
       }
     }
   }
