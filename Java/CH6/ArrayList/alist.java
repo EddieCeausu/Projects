@@ -36,6 +36,9 @@ public class alist {
       ;
     list.add(i, n);
     return i;
+    /*
+
+    */
   }
 
   static void removeInt() {
