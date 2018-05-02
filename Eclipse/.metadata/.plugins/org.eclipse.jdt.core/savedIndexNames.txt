@@ -1,3 +1,0 @@
-INDEX VERSION 1.130+/Users/eddieceausu/Projects/Eclipse/.metadata/.plugins/org.eclipse.jdt.core
-3665656385.index
-2747655393.index
