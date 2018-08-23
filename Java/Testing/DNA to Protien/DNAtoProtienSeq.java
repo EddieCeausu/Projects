@@ -1,3 +1,15 @@
+/**
+ * @Author: Edmond Ceausu <eddieceausu>
+ * @Date:   2018-02-23T15:55:20-05:00
+ * @Email:  eddieswim101@gmail.com
+ * @Filename: DNAtoProtienSeq.java
+ * @Last modified by:   eddieceausu
+ * @Last modified time: 2018-08-23T17:55:08-04:00
+ * @Copyright: © Edmond Ceausu 2018
+ */
+
+
+
 import java.util.*;
 import java.util.regex.Pattern;
 
@@ -12,8 +24,8 @@ public class DNAtoProtienSeq {
     do {
       System.out.println("Enter your sequence: ");
       seq = new Scanner(System.in).nextLine();
-      seq.replaceAll("\\s","");
-      if(Pattern.compile("[ATCG]").matcher(seq.toString().find()) {
+      seq.replaceAll("\\s","").replaceAll("[^A-Za-z0-9]","").toLowerCase();
+      if(Pattern.compile("[ATCG]").matcher(seq.toString()).find()) {
         //if(seq.length() % 3 == 0)
           done = true;
         } else
@@ -21,7 +33,7 @@ public class DNAtoProtienSeq {
     } while(!done);
 
     transcription();
-    System.out.println(translation());
+    System.out.println("\n " + translation().toUpperCase());
   }
 
   public static void transcription() {
@@ -104,9 +116,9 @@ public class DNAtoProtienSeq {
 
     codonTable.put("UGG", "Trp");
 
-    codonTable.put("UAA", "STOP");
-    codonTable.put("UAG", "STOP");
-    codonTable.put("UGA", "STOP");
+    codonTable.put("UAA", "STOP\n");
+    codonTable.put("UAG", "STOP\n");
+    codonTable.put("UGA", "STOP\n");
 
     codonTable.put("CAU", "His");
     codonTable.put("CAC", "His");
