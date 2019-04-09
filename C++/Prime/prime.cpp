@@ -1,6 +1,19 @@
+/**
+ * @Author: Edmond Ceausu <eddieceausu>
+ * @Date:   2017-12-27T20:24:04-05:00
+ * @Email:  eddieswim101@gmail.com
+ * @Filename: prime.cpp
+ * @Last modified by:   eddieceausu
+ * @Last modified time: 2018-10-17T10:39:28-04:00
+ * @Copyright: © Edmond Ceausu 2018
+ */
+
+
+
 #include <stdio.h>
 #include <iostream>
 #include <math.h>
+
 bool prime(float number){
     if(number < 2) return false;
     if(number == 2) return true;
@@ -9,8 +22,6 @@ bool prime(float number){
         if(fmod(number, i) == 0.0 ) return false;
     }
     return true;
-
-
 }
 
 void sprime() {
@@ -27,4 +38,5 @@ void sprime() {
 int main() {
 	std::cout << "WELCOME TO A PRIME TESTER!" << std::endl;
 	sprime();
+  return 0;
 }
