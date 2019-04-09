@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Test Rss reader </title>
+  <script src="https://static.sekandocdn.net/static/feednami/feednami-client-v1.1.js"></script>
+  <script src="test.js" charset="utf-8"></script>
+  <link rel="stylesheet" type="text/css" href="main.css"> </link>
+</head>
+
+<body>
+  <div id="placeHolder">
+    <button id="button">
+      <script>
+        const url = 'http://devblog.ricky.me/rss.xml'
+        const textarea = document.getElementById('rickys-blog-textarea')
+        feednami.load(url)
+          .then(feed => {
+            textarea.value = ''
+            console.log(feed)
+            for(let entry of feed.entries){
+              textarea.value += `${entry.title}\n${entry.link}\n\n`
+            }
+          })
+    </script>
+  </button>
+  </div>
+</body>
+
+</html>

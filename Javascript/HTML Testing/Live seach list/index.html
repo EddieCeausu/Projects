@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#myUL {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#myUL li {
+  border: 1px solid #ddd;
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #f6f6f6;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  display: block
+  background-color: #eee;
+}
+
+/*
+#buttons{
+    float:right;
+    position:relative;
+    left:-50%;
+    text-align: center;
+    border: 1px solid #ddd;
+    margin-top: -1px;
+    background-color: #f6f6f6;
+
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+}
+#buttons ul{
+    list-style:none;
+    position:relative;
+    left:50%;
+}
+
+#buttons li{
+  float:left;
+  position:relative;
+} */
+</style>
+</head>
+<body onload="createList()">
+
+<h2 style="text-align: center;">My Songs</h2>
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Filter" title="Type in a name">
+<!--
+<div id="buttons">
+  <ul id="header">
+    <li>TITLE</li>
+    <li>ARTIST</li>
+    <li>ALBUM</li>
+  </ul>
+</div> -->
+
+<ul id="myUL">
+
+</ul>
+
+<script>
+function createList() {
+  var values = ["Cherlyn Colby  ","Claris Curiel  ","Terrance Trivedi  ","Daine Delapena  ","Lynna Limbaugh  ","Hassie Haviland  ","Giuseppina Groce  ","Margorie Mogan  ","Nanci Naples  ","Tyesha Taormina  ","Arline Atkin  ","Bari Boucher  ","Danyell Denis  ","Cheree Cathey  ","Emogene Eusebio  ","Emily Edmiston  ","Cathryn Coplan  ","Eleonor Eatman  ","Gladis Gauna  ","Herb Hurston  ","Fausto Fitch  ","Jerry Jeppson  ","Shaniqua Sjogren  ","Remedios Rittenberry  ","Graciela Galati  ","Dona Das  ","Shaunte Shavers  ","Loreen Leatherwood  ","Luana Liverman  ","Sharita Sturgill  ","Paula Pons  ","Corrinne Chilcott  ","Darcie Dice  ","Steve Sandberg  ","Fernanda Felt  ","Elvie Eshbaugh  ","Levi Levesque  ","Eddie Emmerich  ","Marvis Mclennon  ","Danica Daulton  ","Arthur Allain  ","Corrina Conyer  ","Beverley Burbage  ","Scot Swinney  ","Alverta Arango  ","Ermelinda Elbert  ","Doris Dedmon  ","Gretchen Galicia  ","Pattie Peralez  ", "Elana Eutsler  "];
+  values.sort();
+  const list = document.getElementById("myUL");
+  for(var i = 0; i < values.length-1; i++) {
+    var text = document.createTextNode(values[i]);
+    var li = document.createElement("li");
+    li.appendChild(text);
+    list.appendChild(li);
+  }
+}
+
+function myFunction() {
+  // Declare variables
+  var input, filter, ul, li, a, i, txtValue;
+  input = document.getElementById('myInput');
+  filter = input.value.toUpperCase();
+  ul = document.getElementById("myUL");
+  li = ul.getElementsByTagName('li');
+
+  // Loop through all list items, and hide those who don't match the search query
+  for (i = 0; i < li.length; i++) {
+    a = li[i].getElementsByTagName("li")[0];
+    txtValue = a.textContent || a.innerText;
+    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+      li[i].style.display = "";
+    } else {
+      li[i].style.display = "none";
+    }
+  }
+}
+function searchName() {
+  var input;
+}
+</script>
+
+</body>
+</html>

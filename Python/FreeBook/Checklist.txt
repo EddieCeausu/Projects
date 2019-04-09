@@ -1,0 +1,13 @@
+stealing the books
+
+goto: https://reader.yuzu.com/#/ √
+login √
+continue reading button √
+for i <= 592
+  find <img id="pbk-page">
+  copy and store src
+  goto: https://jigsaw.yuzu.com/{src}
+  cmd + s
+  usrInput: i
+  cmd + w
+  find button xpath: (/html/body/div[1]/div/div[2]/div/div[3]/button).click()
