@@ -1,0 +1,368 @@
+ccd c  llsa[?1l>[?2004l
+klsa\total 29088
+drwxr-xr-x  9 eddieceausu  staff   306B Apr 22 21:10 [1m[36m.[39;49m[0m
+drwxr-xr-x  8 eddieceausu  staff   272B Apr 13 12:21 [1m[36m..[39;49m[0m
+-rw-r--r--@ 1 eddieceausu  staff   163B Apr 21 12:39 checklist.txt
+-rwxr-xr-x@ 1 eddieceausu  staff    14M Mar  6 20:22 [31mchromedriver[39;49m[0m
+-rw-r--r--  1 eddieceausu  staff    56K Apr 17 17:58 geckodriver.log
+-rw-r--r--  1 eddieceausu  staff   547B Apr 21 12:10 pageTest.py
+-rw-r--r--  1 eddieceausu  staff   7.4K Apr 21 16:15 quiz.py
+-rw-r--r--  1 eddieceausu  staff   2.2K Apr 20 12:45 quiztest.py
+-rw-r--r--  1 eddieceausu  staff     6B Apr 22 21:11 screenlog.0
+[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;32m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccd c  ppython3
+[0mpython3            python3.6          python3.6m                          
+[Jpython3-config     [Jpython3.6-config   [Jpython3.6m-config  [J                 MM[0m[23m[24m[37Cpython3[K
+[7mpython3          [0m  python3.6          python3.6m                          [K
+[Jpython3-config     [Jpython3.6-config   [Jpython3.6m-config  [J                 MM[0m[23m[24m[37Cpython3[K
+[7mpython3          [0m  [7mpython3          [0m  M[0m[23m[24m[37Cpython3[K-config
+[0mpython3            [1B[7mpython3-config   [0m  MM[0m[23m[24m[37Cpython3-config[K.6     
+[19C[7mpython3.6        [0m  [1Bpython3-config     MM[0m[23m[24m[37Cpython3.6[K-config
+[19C[0mpython3.6          [1B[7mpython3-config   [0m  MM[0m[23m[24m[37Cpython3-config[K       
+[7mpython3          [0m  [1Bpython3-config     MM[0m[23m[24m[37Cpython3[K
+[JM[44C[1m [0m[0m quiz.py[?1l>[?2004l
+[Jkpython3\logging in
+Which chapter would you like to begin at: 11
+Going to Networking Book
+going to chapter 11
+TotalQuestions: 12
+Terminating Current Quiz Session
+Before parsing: Answer D is correct.<br><br>Different UTP categories support different data rates over specific distances. If you are working with existing cable and want to determine its category, or if you simply want to test the supported frequency range (and therefore data throughput) of a cable, you can use a cable certifier.
+After parsing: d
+Before parsing: Answer D is correct.<br><br>Identifying exactly where the break exists in a long length of cable can be problematic. Fortunately, you can use a time domain reflectometer (TDR) for copper cabling or an optical time domain reflectometer (OTDR) for fiber-optic cabling to locate the cable fault.
+After parsing: d
+Before parsing: Answer A is correct.<br><br>Warnings are level 4 syslog alerts. They indicate a specific operation failed to complete successfully.
+After parsing: a
+Before parsing: Answer A is correct.<br><br>An ESD strap is critical to prevent damage to network and computer components when you are handling them.
+After parsing: a
+Before parsing: Answer B is correct.<br><br>Secure Shell (SSH) is the secure protocol to use in this situation.
+After parsing: b
+Before parsing: Answer A is correct.<br><br>A common measurement for bit errors is called <i>bit error rate</i> (BER), which is calculated as follows: BER = Bit errors / Bits transmitted
+After parsing: a
+Before parsing: Answers A, B, and D are correct.<br><br>SNMP messages include gets, sets, and traps.
+After parsing: abd
+Before parsing: Answer B is correct.<br><br>A toner probe comes in two pieces: the tone generator and the probe. Another common name for a toner probe is a <i>fox and hound</i>, where the tone generator is the fox, and the probe (which searches for the tone) is the hound.
+After parsing: b
+Before parsing: Answer D is correct.<br><br>A baseline is a look at typical network configuration or performance.
+After parsing: d
+Before parsing: Answer B is correct.<br><br>The name <i>butt set</i> (which is sometimes called a <i>butt in</i>) comes from the device's capability to butt in to (or interrupt) a conversation in progress.
+After parsing: b
+Before parsing: Answer C is correct.<br><br>The Management Information Base (MIB) stores the variables and their values for the applicable managed device in SNMP.
+After parsing: c
+Before parsing: Answer C is correct.<br><br>The Microsoft Event Viewer exists on client and server operating systems and is one of the key monitoring tools.
+After parsing: c
+Before parsing: Answer C is correct.<br><br>The Microsoft Event Viewer exists on client and server operating systems and is one of the key monitoring tools.
+After parsing: c
+Traceback (most recent call last):
+  File "quiz.py", line 182, in <module>
+    main()
+  File "quiz.py", line 177, in main
+    quiz()
+  File "quiz.py", line 111, in quiz
+    findXpath("//*[@id='next']").click()
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webelement.py", line 501, in _execute
+    return self._parent.execute(command, params)
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 311, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 237, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Element <button aria-label="Next" intro-id="item_next" data-position="top" type="submit" class="btn outline2 toolbar_enter close_pane last_item" vc="next" id="next" onname="action" onclick="sa(this.value);" value="learn-next" title="" accesskey="N" data-original-title="You are already on the last item" data-target="#modal-last-confirmation" data-toggle="modal">...</button> is not clickable at point (791, 867). Other element would receive the click: <div id="modal-confirmation" aria-live="assertive" class="modal show" tabindex="-1" style="display: block;">...</div>
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Mac OS X 10.12.6 x86_64)
+
+[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;31m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hpython3 quiz.py[?1l>[?2004l
+kpython3\logging in
+Which chapter would you like to begin at: 10
+Going to Networking Book
+going to chapter 10
+Traceback (most recent call last):
+  File "quiz.py", line 152, in completeCards
+    questionsTotal = int(browser.find_element_by_xpath("//*[@id='total_items_button']").get_attribute('innerHTML')[49:51])
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 368, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 858, in find_element
+    'value': value})['value']
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 311, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 237, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='total_items_button']"}
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Mac OS X 10.12.6 x86_64)
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "quiz.py", line 183, in <module>
+    main()
+  File "quiz.py", line 179, in main
+    completeCards()
+  File "quiz.py", line 155, in completeCards
+    except Exceptions as e:
+TypeError: catching classes that do not inherit from BaseException is not allowed
+[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;31m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hpython3 quiz.py[?1l>[?2004l
+kpython3\  File "quiz.py", line 184
+    global chapterGlobal
+    ^
+SyntaxError: name 'chapterGlobal' is assigned to before global declaration
+[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;31m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hpython3 quiz.py[?1l>[?2004l
+kpython3\logging in
+^CTraceback (most recent call last):
+  File "quiz.py", line 185, in <module>
+    main()
+  File "quiz.py", line 175, in main
+    login("https://www.ucertify.com/")
+  File "quiz.py", line 74, in login
+    browser.find_element_by_id("submit").click()
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webelement.py", line 501, in _execute
+    return self._parent.execute(command, params)
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 309, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 460, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 484, in _request
+    resp = self._conn.getresponse()
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1331, in getresponse
+    response.begin()
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+KeyboardInterrupt
+[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;31m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hpython3 quiz.py[?1l>[?2004l
+kpython3\logging in
+Which chapter would you like to begin at: 10
+Going to Networking Book
+going to chapter 10
+Quiz is 100% completed skipping to cards
+Cards are 100% completed
+Skipping chapter:  0
+Traceback (most recent call last):
+  File "quiz.py", line 186, in <module>
+    main()
+  File "quiz.py", line 183, in main
+    goToNextChapter(x+1)
+NameError: name 'goToNextChapter' is not defined
+[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;31m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hpython3 quiz.py[?1l>[?2004l
+kpython3\logging in
+Which chapter would you like to begin at: 10
+Going to Networking Book
+going to chapter 10
+Quiz is 100% completed skipping to cards
+Cards are 100% completed
+Skipping chapter:  0
+Quiz is 100% completed skipping to cards
+Cards are 100% completed
+Skipping chapter:  0
+TotalQuestions: 10
+Traceback (most recent call last):
+  File "quiz.py", line 186, in <module>
+    main()
+  File "quiz.py", line 181, in main
+    quiz()
+  File "quiz.py", line 111, in quiz
+    completeQuestion(browser)
+  File "quiz.py", line 127, in completeQuestion
+    el.send_keys(Keys.SPACE)
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webelement.py", line 352, in send_keys
+    'value': keys_to_typing(value)})
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webelement.py", line 501, in _execute
+    return self._parent.execute(command, params)
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 311, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 237, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Mac OS X 10.12.6 x86_64)
+
+[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;31m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004haatom[?1l>[?2004l
+katom\[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;32m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hatompython3 quiz.py[?1l>[?2004l
+kpython3\  File "quiz.py", line 37
+    except Exceptions.TimeoutException: ÷
+                                        ^
+SyntaxError: invalid character in identifier
+[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;31m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hpython3 quiz.py[?1l>[?2004l
+kpython3\logging in
+Which chapter would you like to begin at: 12
+Going to Networking Book
+going to chapter 12
+Quiz is 100% completed skipping to cards
+Cards are 100% completed
+Skipping chapter:  0
+Quiz is 100% completed skipping to cards
+Cards are 100% completed
+Skipping chapter:  0
+[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;32m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hpython3 quiz.py[?1l>[?2004l
+kpython3\logging in
+Which chapter would you like to begin at: 12
+Going to Networking Book
+going to chapter 12
+Quiz is 100% completed skipping to cards
+Cards are 100% completed
+Skipping chapter:  0
+Quiz is 100% completed skipping to cards
+Cards are 100% completed
+Skipping chapter:  0
+[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;32m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hpython3 quiz.py[?1l>[?2004l
+kpython3\logging in
+Which chapter would you like to begin at: 13 2
+Going to Networking Book
+going to chapter 12
+Traceback (most recent call last):
+  File "quiz.py", line 186, in <module>
+    main()
+  File "quiz.py", line 179, in main
+    openLibraryandChapter(chapter)
+  File "quiz.py", line 83, in openLibraryandChapter
+    goToChapter(chapter+1)
+  File "quiz.py", line 171, in goToChapter
+    WebDriverWait.until(EC.visibility_of_all_elements_located)
+TypeError: until() missing 1 required positional argument: 'method'
+[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;31m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hpython3 quiz.py[?1l>[?2004l
+kpython3\logging in
+Which chapter would you like to begin at: 12
+Going to Networking Book
+going to chapter 12
+Traceback (most recent call last):
+  File "quiz.py", line 186, in <module>
+    main()
+  File "quiz.py", line 179, in main
+    openLibraryandChapter(chapter)
+  File "quiz.py", line 83, in openLibraryandChapter
+    goToChapter(chapter+1)
+  File "quiz.py", line 171, in goToChapter
+    WebDriverWait.until(EC.visibility_of_all_elements_located((By.TAG_NAME, "body")))
+TypeError: until() missing 1 required positional argument: 'method'
+[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;31m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hpython3 quiz.py[?1l>[?2004l
+kpython3\logging in
+Which chapter would you like to begin at: 12
+Going to Networking Book
+going to chapter 12
+Traceback (most recent call last):
+  File "quiz.py", line 187, in <module>
+    main()
+  File "quiz.py", line 182, in main
+    quiz()
+  File "quiz.py", line 90, in quiz
+    browser.find_element_by_xpath("/html/body/div[6]/footer/div/div/div[2]/form/div[3]/div").click()
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 368, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 858, in find_element
+    'value': value})['value']
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 311, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 237, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[6]/footer/div/div/div[2]/form/div[3]/div"}
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Mac OS X 10.12.6 x86_64)
+
+[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;31m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hpython3 quiz.py[?1l>[?2004l
+kpython3\logging in
+Which chapter would you like to begin at: 12
+Going to Networking Book
+going to chapter 12
+Traceback (most recent call last):
+  File "quiz.py", line 187, in <module>
+    main()
+  File "quiz.py", line 182, in main
+    quiz()
+  File "quiz.py", line 90, in quiz
+    browser.find_element_by_xpath("/html/body/div[6]/footer/div/div/div[2]/form/div[3]/div").click()
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 368, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 858, in find_element
+    'value': value})['value']
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 311, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 237, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[6]/footer/div/div/div[2]/form/div[3]/div"}
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Mac OS X 10.12.6 x86_64)
+
+[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;31m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hpython3 quiz.py[?1l>[?2004l
+kpython3\  File "quiz.py", line 145
+    el = findXpath("//*[@id="frmchapter"]/div[3]/div/span")
+                                      ^
+SyntaxError: invalid syntax
+[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;31m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hpython3 quiz.py[?1l>[?2004l
+kpython3\logging in
+Which chapter would you like to begin at: 12
+Going to Networking Book
+going to chapter 12
+Traceback (most recent call last):
+  File "quiz.py", line 187, in <module>
+    main()
+  File "quiz.py", line 182, in main
+    quiz()
+  File "quiz.py", line 90, in quiz
+    browser.find_element_by_xpath("/html/body/div[6]/footer/div/div/div[2]/form/div[3]/div").click()
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 368, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 858, in find_element
+    'value': value})['value']
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 311, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 237, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[6]/footer/div/div/div[2]/form/div[3]/div"}
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Mac OS X 10.12.6 x86_64)
+
+[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;31m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hpython3 quiz.py[?1l>[?2004l
+kpython3\logging in
+Which chapter would you like to begin at: 12
+Going to Networking Book
+going to chapter 12
+TotalQuestions: 10
+Traceback (most recent call last):
+  File "quiz.py", line 187, in <module>
+    main()
+  File "quiz.py", line 182, in main
+    quiz()
+  File "quiz.py", line 111, in quiz
+    completeQuestion()
+  File "quiz.py", line 127, in completeQuestion
+    el.send_keys(Keys.SPACE) # see answer
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webelement.py", line 352, in send_keys
+    'value': keys_to_typing(value)})
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webelement.py", line 501, in _execute
+    return self._parent.execute(command, params)
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 311, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 237, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Mac OS X 10.12.6 x86_64)
+
+[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;31m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hpython3 quiz.py[15Datom           [11Dpython3 quiz.py[?1l>[?2004l
+kpython3\logging in
+Which chapter would you like to begin at: 12
+Going to Networking Book
+going to chapter 12
+TotalQuestions: 10
+Terminating Current Quiz Session
+Timed out after 20 seconds
+[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;32m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hpython3 quiz.py[?1l>[?2004l
+kpython3\logging in
+Which chapter would you like to begin at: 12
+Going to Networking Book
+going to chapter 12
+TotalQuestions: 10
+Terminating Current Quiz Session
+Timed out after 20 seconds
+[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;32m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004httop[?1l>[?2004l
+ktop\(B)0[?1049h[1;50r[m[4l[?1h=[H[JProcesses: 340 total, 5 running, 335 sleeping, 1724 threads[1;82H23:20:43[1BLoad Avg: 21.34, 9.03, 4.53  CPU usage: 16.51% user, 77.69% sys, 5.78% idle[1BSharedLibs: 114M resident, 30M data, 11M linkedit.[1BMemRegions: 67119 total, 2721M resident, 69M private, 954M shared.[1BPhysMem: 8074M used (1972M wired), 117M unused.[1BVM: 918G vsize, 627M framework vsize, 15755784(0) swapins, 16354732(0) swapouts.[1BNetworks: packets: 9464160/10G in, 4200969/941M out.[1BDisks: 3591991/121G read, 1428883/94G written.[2BPID    COMMAND[6C%CPU TIME     #TH   #WQ  #PORT MEM    PURG   CMPRS  PGRP  PPID[1B99697  chromedriver 0.0  00:00.38 9     1    105+  636K+  0B     4100K+ 99694 1[1B97789  mdworker     0.0  00:01.12 5     2    55+   12M+   0B     11M+   97789 1[1B97788  mdworker     0.0  00:01.55 4     1    55+   14M+   0B     7936K+ 97788 1[1B97787  mdworker     0.0  00:02.11 5     2    55+   13M+   0B     11M+   97787 1[1B97769  chromedriver 0.0  00:00.94 9     1    105+  764K+  0B     4452K+ 97766 1[1B97752  mdworker     0.0  00:01.90 4     1    54+   17M+   0B     9048K+ 97752 1[1B97724  zsh[17;21H0.0  00:00.30 1     0    16+   1612K+ 0B     1220K+ 97724 97723[1B97723  login[18;21H0.0  00:00.01 2     1    29+   12K+   0B     896K+  97723 97722[1B97722  screen[7C0.0  00:00.09 1     0    10+   216K+  0B     192K+  97722 97721[1B97721  screen[7C0.0  00:00.03 1     0    19+   52K+   0B     440K+  97721 97326[1B97326  zsh[21;21H0.0  00:00.37 1     0    16+   12K+   0B     2748K+ 97326 97325[1B97325  login[22;21H0.0  00:00.03 2     1    28+   12K+   0B     1048K+ 97325 30026[1B97190  netbiosd     0.0  00:00.12 2     2    31+   368K+  0B     2120K+ 97190 1[1B94362  plugin-conta 0.0  01:30.95 27    1    326+  165M+  0B     81M+   27270 27270[1B91931  Microsoft Wo 0.0  01:05.35 14    5    380+  17M+   64K+   106M+  91931 1[1B91926  com.apple.Sa 0.0  00:00.21 2     1    39+   12K+   0B     7040K+ 91926 1[1B91797  iCloudUserNo 0.0  00:00.02 2     1    41+   8192B+ 0B     1224K+ 91797 1[1B88389  CMFSyncAgent 0.0  00:00.09 2     1    44+   296K+  0B     872K+  88389 1[1B84344  chromedriver 0.0  00:01.02 9     1    105+  712K+  0B     4120K+ 84341 1[1B83988  chromedriver 0.0  00:01.03 9     1    105+  708K+  0B     4436K+ 83985 1[1B80780  chromedriver 0.0  00:01.02 9     1    105+  704K+  0B     4360K+ 80777 1[1B80275  chromedriver 0.0  00:01.00 9     1    105+  540K+  0B     4548K+ 80272 1[1B80145  chromedriver 0.0  00:00.56 9     1    105+  564K+  0B     4188K+ 80142 1[1B80018  chromedriver 0.0  00:00.57 9     1    105+  508K+  0B     4292K+ 80015 1[1B79853  chromedriver 0.0  00:00.55 9     1    105+  508K+  0B     4400K+ 79850 1[1B79726  chromedriver 0.0  00:00.57 9     1    105+  536K+  0B     4820K+ 79723 1[1B79598  chromedriver 0.0  00:00.54 9     1    105+  504K+  0B     4284K+ 79595 1[1B79115  chromedriver 0.0  00:01.01 9     1    105+  708K+  0B     4368K+ 79112 1[1B78963  chromedriver 0.0  00:00.29 9     1    65+   656K+  0B     1424K+ 78960 1[1B74776  DataDetector 0.0  00:00.02 2     1    25+   8192B+ 0B     2372K+ 74776 1[1B70411  chromedriver 0.0  00:01.10 9     1    105+  480K+  0B     4416K+ 70408 1[1B70284  chromedriver 0.0  00:00.74 9     1    105+  552K+  0B     4520K+ 70281 1[1B70252  chromedriver 0.0  00:00.67 9     1    105+  536K+  0B     4304K+ 70249 1[1B67537  usbmuxd[6C0.0  00:00.18 3     1    39+   72K+   0B     1148K+ 67537 1[1B65606  aslmanager   0.0  00:00.14 2     2    21+   312K+  0B     484K+  65606 1[1B54869  chromedriver 0.0  00:00.54 9     1    105+  488K+  0B     3696K+ 54866 1[1B54840  chromedriver 0.0  00:00.50 9     1    105+  564K+  0B     3452K+ 54837 1[1B54713  chromedriver 0.0  00:00.50 9     1    105+  476K+  0B     3088K+ 54710 1[1B54578  chromedriver 0.0  00:00.45 9     1    65+   556K+  0B     1996K+ 54575 1[1B54460  mdwrite[6C0.0  00:00.62 2     2    55+   812K+  0B     1668K+ 54460 1[1;13H5[1;23H6[1;35H44[1;50H33[37C5[2;12H0.83, 9.1[6C9[2;42H5.98[2;55H6.24[7C7.76[4;15H353[4;29H0[4;57H5[5;13H6[5;24H90[5;38H3[6;6H41[6;44H847(63) swapins, 16354732(0) swapouts.[7;24H20[7;39H1010[8;11H2002[8;30H9039[11;49H [6C [11;71H [12;48H [6C [12;69H [13;48H [6C [13;71H [14;48H [6C [14;69H [15;49H [6C [15;71H [16;48H [6C [16;71H [17;48H [17;57H [17;71H [18;48H [6C [18;70H [19;48H [7C [19;70H [20;48H [6C [20;70H [21;48H [6C [21;71H [22;48H [6C [22;71H [23;48H [7C [23;71H [24;33H6[24;49H [6C [24;69H [25;36H3    4    378-  17M-[6C [7C [26;48H [6C [26;71H [27;48H [27;57H [27;71H [28;48H [7C [28;70H [29;49H [6C [29;71H [30;49H [6C [30;71H [31;49H [6C [31;71H [32;49H [6C [32;71H [33;49H [6C [33;71H [34;49H [6C [34;71H [35;49H [6C [35;71H [36;49H [6C [36;71H [37;49H [6C [37;71H [38;49H [6C [38;71H [39;48H [7C [39;71H [40;48H [40;57H [40;71H [41;49H [6C [41;71H [42;49H [6C [42;71H [43;49H [6C [43;71H [44;48H [6C [44;71H [45;48H [7C [45;70H [46;49H [6C [46;71H [47;49H [6C [47;71H [48;49H [6C [48;71H [49;48H [7C [49;71H [50;48H [7C [50;71H [50;80H[1;50H49[37C7[2;42H9.97[2;55H4.33[7C5.68[5;13H7[5;24H72[5;38H2[6;48H0[1P[7;25H2[7;41H31[8;14H5[19;23H1[19;32H10[24;23H9[24;33H7[1B 14    5[6C9+  17M+[50;80H[1;13H4[1;23H3[1;35H37[1;51H5[37C9[2;42H8.50[2;55H2.17[7C9.32[4;15H090[4;28H18[5;13H8[6;6H18[7;25H34[7;41H45[8;13H11[19;23H0[5B2[24;33H8[25;49H   17M [50;80H[1;14H9[1;23H6[1;35H43[1;50H5[37C50[2;14H1[6C8, 4.63[2;42H6.4% user, 75.3% sys, 8.91[2P[4;15H331[4;28H20[5;12H82[5;37H08[6;6H39[7;25H65[7;41H82[8;12H116[8;32H64[50;80H[1;23H12 running, 337 sleeping, 1747 threads[28C3[2;41H21.31% user, 77.9% sys, 1.58% idle[5;12H9[5;25H7[5;36H9[1P[7;25H82[7;40H100[8;13H47[8;31H132[24;23H8[6C1.00[1B 13    4[6C8-  17M-[50;80H[1;23H26[1;36H23[1;51H58[36C5[2;12H2.04, 9.75, 4.86[2;42H5.77[2;55H3.99% sys, 0.23% idle[4;16H22[5;11H110[5;24H93[5;36H79[6;43H6546(699) swapins, 16354732(0) swapouts.[7;24H300[7;41H19[8;13H6[8;33H4[24;23H2[25;37H/2  4/1  378   17M [50;80H[1;23H30[1;36H19[51C7[2;42H4.5[2;55H5.42[2;68H0[1P[5;12H69[5;22H2020[5;36H22[6;43H8201(1655) swapins, 16354732(0) swapouts.[7;25H29[7;41H4[8;12H20[8;32H45[24;23H7[24;33H2[25;38H1[50;80H[1;23H42[1;36H07[1;52H4[33C1:00[2;12H6.44, 10.87, 5.29  CPU usage: 26.43% user, 73.56% sys, 0.0% idle[5;12H74[5;24H63[5;36H16[6;44H392(191[1P[7;25H58[7;41H7[8;13H19[24;23H2[25;38H2[50;80H[1;23H18[1;36H31[1;51H7[37C2[2;45H56[2;56H1.64[7C1.78% idle[5;13H2[5;25H4[5;37H7[6;44H456(64[1P[7;25H80[7;40H202[8;13H61[24;23H6[24;33H4[1B6 15    6/3  380+  17M+[50;80H[1;14H0[1;24H1[1;35H1 stuck, 328 sleeping, 1761 threads[19C5[2;45H8% user, 71.80% sys, 2.10[1P[3;15H2[1B090[4;28H18[5;13H3[5;24H50[6;6H18[6;48H0[1P[7;24H405[7;41H28[8;12H319[8;32H53[24;23H2[25;37H/3  6/2  380   17M [50;80H[1;13H39[1;24H0[1;35H329 sleeping, 1735 threads         [19C6[2;12H4.88[6C1[2;43H3.32% user, 73.38% sys, 3.28% idle[4;16H6[5;24H97[6;7H6[7;25H1[7;41H3[8;13H51[8;33H4[24;23H6[24;33H6[25;37H    6    381+[50;80H[1;13H41[1;24H7[1;37H4[1;51H4[37C9[2;43H4.60[2;56H5.7% sys, 0.31[1P[4;15H168[4;29H9[4;57H6[5;25H6[6;6H21[7;25H4[7;41H69[8;13H83[8;32H60[24;23H7[24;33H7[25;49H [41;36H/1[49;36H/1[50;80H[1;23H36[1;36H05[1;52H7[35C11[2;12H6.25, 11.32, 5.51[2;43H9.23[2;56H0.52% sys, 0.23% idle[5;12H60[5;24H70[5;36H30[7;25H6[7;41H92[8;13H9[8;33H4[15;36H/1[23;36H/1   2/1[24;23H3[24;33H8[25;37H/3[34;36H/1[41;36H  [49;36H  [50;80H[1;13H39[1;23H13[1;36H26[1;52H3[36C3[2;43H5.94[2;56H2.2% sys, 2.2[2P[4;15H060[4;29H8[5;12H58[5;24H69[5;37H3[6;6H16[7;25H81[7;40H308[8;12H422[15;36H  [19;33H1[23;23H1[23;35H3     3    32+   396K+[23;68H00K-[24;23H7[24;32H10[1B 14/3  6/3  379-  17M-[34;36H  [50;80H[1;23H6 running, 333 sleeping, 1750 threads [28C4[2;43H1.69[2;56H4.8[7C4.22% idle[5;13H6[5;37H5[7;24H53[7;41H55[8;13H41[8;32H7[12;23H7[12;33H3[12;55H+[13;23H4[13;55H+[23;23H0[23;48H [7C [23;71H [24;23H4[1B1[25;36H6    7    382+  18M+[50;80H[1;23H15 running, 324 sleeping, 1763 threads[28C9[2;12H5.51, 11.4[6C8[2;43H0.85[2;56H7.74% sys, 1.40% idle[5;12H69[5;23H132[5;36H21[7;25H94[7;40H418[8;13H6[8;31H360[12;21H1.0[12;33H5[12;55H [13;21H1.1[13;33H7[13;67H860K-[23;35H2     2    31-   388K-[24;21H1.6[24;33H3[24;56H-[24;69H-[25;23H2[25;33H7[25;49H [25;70H-[50;80H[1;23H8 running, 331 sleeping, 1740 threads [27C21[2;12H6.83, 11.92, 5.79[2;43H3.33[2;56H4.82[2;69H84[5;12H55[5;25H9[5;36H34[7;24H622[7;41H51[8;12H526[8;33H2[12;21H0.1[12;33H6[13;21H0.0[13;33H8[13;67H776[16;55H+[23;48H [7C [24;21H0.3[24;33H5[24;56H [24;69H [25;23H0[25;55H [25;70H [50;80H[50;1H[?1049l[?1l>[1m[3m%[23m[1m[0m                                                                                          k..ify Completer\]7;file://EdmondCeausu.local/Users/eddieceausu/Projects/Python/UCertify%20Completer[0m[23m[24m[J[01;32m➜  [36mUCertify Completer[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h                                                                               
+*** FINAL System shutdown message from eddieceausu@EdmondCeausu.local ***    
+System going down IMMEDIATELY                                                  
+                                                                               
+                                                                               

@@ -3,7 +3,7 @@
 # @Email:  eddieswim101@gmail.com
 # @Filename: main.py
 # @Last modified by:   eddieceausu
-# @Last modified time: 2019-01-13T00:27:55-05:00
+# @Last modified time: 2019-04-16T11:28:29-04:00
 # @Copyright: © Edmond Ceausu 2018
 from selenium import webdriver
 import pyautogui as pag
@@ -25,16 +25,14 @@ def send(object, mesg, wpm=14000, random_fuzzing=0.1):
 def login(browser, site):
     browser.get(site)
     #This will find the login box
-    #uName = input('Enter your username: ')
     element = browser.find_element_by_id("inputEmail3")
     element.click()
-    #element.send_keys("eceausu8746@ucumberlands.edu")
-    send(element, "eceausu8746@ucumberlands.edu")
-    #password = input('Enter your password: ')
+    uName = input("Enter UserName: ")
+    send(element, uName)
+    password = input('Enter your password: ')
     element = browser.find_element_by_id("password")
     element.click()
-    #element.send_keys("Elena@1971")
-    send(element, "Elena@1971")
+    send(element, password)
     # login
     browser.find_element_by_xpath('//*[@id="login"]/div[6]/img').click()
 

@@ -1,0 +1,7 @@
+login √
+open book √
+open chapter 9 √
+openQuiz √
+Quiz Completer 
+Card Completer  √
+swap chapters √
