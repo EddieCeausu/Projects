@@ -1,0 +1,2150 @@
+Biochemistry:
+Question: 1
+ In a neutral solution, most amino acids exist as:
+
+<li>A. positively charged compounds.</li>
+<li>B. zwitterions.</li>
+<li>C. negatively charged compounds.</li>
+<li>D. hydrophobic molecules.</li>
+
+Correct Answer:
+ B
+Explanation:
+Most amino acids (except the acidic and basic amino acids) have two sites for protonation: the carboxylic acid and the amine group. At neutral pH, the carboxylic acid will be deprotonated (–COO<sup>–</sup>), and the amine group will remain protonated (–NH<sub>3</sub><sup>+</sup>). This dipolar ion is a zwitterion, so <b>ch</b><b>oice(B)</b> is the correct answer.
+Question: 2
+ At pH 7, the charge on a glutamic acid molecule is:
+
+<li>A. –2.</li>
+<li>B. –1.</li>
+<li>C. 0</li>
+<li>D. 1</li>
+
+Correct Answer:
+ B
+Explanation:
+Glutamic acid is an acidic amino acid because it has an extra carboxyl group. At neutral pH, both carboxyl groups are deprotonated and thus negatively charged. The amino group has a positive charge because it remains protonated at pH 7. Overall, therefore, glutamic acid has a net charge of –1, and <b>choice (B)</b> is correct. Notice that you do not even need to know the pI values to solve this question; as an acidic amino acid, glutamic acid must have a pI below 7.
+Question: 3
+ Which of the following statements is most likely to be true of nonpolar R groups in aqueous solution?
+
+<li>A. They are hydrophilic and found buried within proteins.</li>
+<li>B. They are hydrophilic and found on protein surfaces.</li>
+<li>C. They are hydrophobic and found buried within proteins.</li>
+<li>D. They are hydrophobic and found on protein surfaces.</li>
+
+Correct Answer:
+ C
+Explanation:
+Nonpolar groups are not capable of forming dipoles or hydrogen bonds; this makes them hydrophobic. Burying hydrophobic R groups inside proteins means they don’t have to interact with water, which is polar. This makes <b>choice (C)</b> correct. <b>Choices (A)</b> and<b> (B)</b> are incorrect because nonpolar molecules are hydrophobic, not hydrophilic; <b>choice (D)</b> is incorrect because they are not generally found on protein surfaces.
+Question: 4
+ Which of these statements concerning peptide bonds is FALSE?
+
+<li>A. Their formation involves a reaction between an amino group and a carboxyl group.</li>
+<li>B. They are the primary bonds that hold amino acids together.</li>
+<li>C. They have partial double bond character.</li>
+<li>D. Their formation involves hydration reactions.</li>
+
+Correct Answer:
+ D
+Explanation:
+Peptide bonds are the primary covalent bond between the amino acids that make up proteins, making <b>choice (B)</b> incorrect. They involve a condensation reaction between the amino group of one amino acid and the carboxyl group of an adjacent amino acid, eliminating <b>choice (A)</b>. The peptide bond has a partial double bond character because the double bond can resonate between C=O and C=N. Thus, the peptide bond has a partial double bond character and exhibits limited rotation, eliminating <b>choice (C)</b>. By process of elimination, <b>choice (D)</b> is false: formation of the peptide bond is a condensation reaction—specifically a dehydration reaction involving the loss of water—not a hydration reaction involving the addition of water.
+Question: 5
+ How many distinct tripeptides can be formed from one valine molecule, one alanine molecule, and one leucine molecule?
+
+<li>A. 1</li>
+<li>B. 3</li>
+<li>C. 6</li>
+<li>D. 27</li>
+
+Correct Answer:
+ C
+Explanation:
+There are three choices for the first amino acid, leaving two choices for the second, and one choice for the third. Multiplying those numbers gives us a total of <span>3 × 2 × 1 = 6</span> distinct tripeptides. (Using the one-letter codes for valine (V), alanine (A), and leucine (L), those six tripeptides are VAL, VLA, ALV, AVL, LVA, and LAV.)
+Question: 6
+ Which of these is most likely to be preserved when a protein is denatured?
+
+<li>A. Primary structure</li>
+<li>B. Secondary structure</li>
+<li>C. Tertiary structure</li>
+<li>D. Quaternary structure</li>
+
+Correct Answer:
+ A
+Explanation:
+Denaturing a protein results in the loss of three-dimensional structure and function. Because the denaturation process does not normally result in breaking the peptide chain, the primary structure should be conserved. All of the other levels of structure can be disrupted.
+Question: 7
+ An <span><i>α</i></span>-helix is most likely to be held together by:
+
+<li>A. disulfide bonds.</li>
+<li>B. hydrophobic effects.</li>
+<li>C. hydrogen bonds.</li>
+<li>D. ionic attractions between side chains.</li>
+
+Correct Answer:
+ C
+Explanation:
+The <span><i>α</i></span>-helix is held together primarily by hydrogen bonds between the carboxyl groups and amino groups of amino acids. Disulfide bridges, <b>choice (A)</b>, and hydrophobic effects, <b>choice (B)</b>, are primarily involved in tertiary structures, not secondary. Even if they were charged, the side chains of amino acids are too far apart to participate in strong interactions in secondary structure.
+Question: 8
+ Which of the following is least likely to cause denaturation of proteins?
+
+<li>A. Heating the protein to 100°C</li>
+<li>B. Adding 8 <i>M</i> urea</li>
+<li>C. Moving it to a more hypotonic environment</li>
+<li>D. Adding a detergent such as sodium dodecyl sulfate</li>
+
+Correct Answer:
+ C
+Explanation:
+High salt concentrations and detergents can denature a protein, as can high temperatures. But moving a protein to a hypotonic environment—that is, a lower solute concentration—should not lead to denaturation.
+Question: 9
+ A particular <span><i>α</i></span>-helix is known to cross the cell membrane. Which of these amino acids is most likely to be found in the transmembrane portion of the helix?
+
+<li>A. Glutamate</li>
+<li>B. Lysine</li>
+<li>C. Phenylalanine</li>
+<li>D. Aspartate</li>
+
+Correct Answer:
+ C
+Explanation:
+An amino acid likely to be found in a transmembrane portion of an <span><i>α</i></span>-helix will be exposed to a hydrophobic environment, so we need an amino acid with a hydrophobic side chain. The only choice that has a hydrophobic side chain is <b>choice (C)</b>, phenylalanine. The other choices are all polar or charged.
+Question: 10
+ Which of these amino acids has a chiral carbon in its side chain?
+
+<li>A. I only</li>
+<li>B. II only</li>
+<li>C. II and III only</li>
+<li>D. I, II, and III</li>
+
+Correct Answer:
+I. Serine
+Explanation:
+III. Isoleucine
+Question: 11
+ Adding concentrated strong base to a solution containing an enzyme often reduces enzyme activity to zero. In addition to causing protein denaturation, which of the following is another plausible reason for the loss of enzyme activity?
+
+<li>A. Enzyme activity, once lost, cannot be recovered.</li>
+<li>B. The base can cleave peptide residues.</li>
+<li>C. Adding a base catalyzes protein polymerization.</li>
+<li>D. Adding a base tends to deprotonate amino acids on the surface of proteins.</li>
+
+Correct Answer:
+ B
+Explanation:
+Bases can catalyze peptide bond hydrolysis. <b>Choice (A)</b> is incorrect: enzyme activity can be recovered in at least some cases. <b>Choice (D)</b> is a true statement, but fails to explain the loss of enzyme activity.
+Question: 12
+ Which of these amino acids has a side chain that can become ionized in cells?
+
+<li>A. Histidine</li>
+<li>B. Leucine</li>
+<li>C. Proline</li>
+<li>D. Threonine</li>
+
+Correct Answer:
+ A
+Explanation:
+Histidine has an ionizable side chain: its imidazole ring has a nitrogen atom that can be protonated. None of the remaining answers have ionizable atoms in their side chains.
+Question: 13
+ In lysine, the p<i>K</i><sub>a</sub> of the side chain is about 10.5. Assuming that the p<i>K</i><sub>a</sub> of the carboxyl and amino groups are 2 and 9, respectively, the pI of lysine is closest to:
+
+<li>A. 5.5.</li>
+<li>B. 6.2.</li>
+<li>C. 7.4.</li>
+<li>D. 9.8.</li>
+
+Correct Answer:
+ D
+Explanation:
+Because lysine has a basic side chain, we ignore the p<i>K</i><sub>a</sub> of the carboxyl group, and average the p<i>K</i><sub>a</sub> of the side chain and the amino group; the average of 9 and 10.5 is 9.75, which is closest to <b>choice (D)</b>.
+Question: 14
+ Which of the following is a reason for conjugating proteins?
+
+<li>A. I only</li>
+<li>B. II only</li>
+<li>C. II and III only</li>
+<li>D. I, II, and III</li>
+
+Correct Answer:
+I. To direct their delivery to a particular organelle
+Explanation:
+III. To add a cofactor needed for their activity
+Question: 15
+ Collagen consists of three helices with carbon backbones that are tightly wrapped around one another in a "triple helix." Which of these amino acids is most likely to be found in the highest concentration in collagen?
+
+<li>A. Proline</li>
+<li>B. Glycine</li>
+<li>C. Threonine</li>
+<li>D. Cysteine</li>
+
+Correct Answer:
+ B
+Explanation:
+Because collagen has a triple helix, the carbon backbones are very close together. Thus, steric hindrance is a potential problem. To reduce that hindrance, we need small side chains; glycine has the smallest side chain of all: a hydrogen atom.
+Question: 16
+ Consider a biochemical reaction A <i>→</i> B, which is catalyzed by <i>A–B dehydrogenase</i>. Which of the following statements is true?
+
+<li>A. The reaction will proceed until the enzyme concentration decreases.</li>
+<li>B. The reaction will be most favorable at 0°C.</li>
+<li>C. A component of the enzyme is transferred from A to B.</li>
+<li>D. The free energy change (Δ<i>G</i>) of the catalyzed reaction is the same as for the uncatalyzed reaction.</li>
+
+Correct Answer:
+ D
+Explanation:
+Enzymes catalyze reactions by lowering their activation energy, and are not changed or consumed during the course of the reaction. While the activation energy is lowered, the free energy of the reaction, <span>Δ</span><i>G</i>, remains unchanged in the presence of an enzyme. A reaction will continue to occur in the presence or absence of an enzyme; it simply runs slower without the enzyme, eliminating <b>choice (A)</b>. Most physiological reactions are optimized at body temperature, 37°C, eliminating <b>choice (B)</b>. Finally, dehydrogenases catalyze oxidation–reduction reactions, not transfer reactions, eliminating <b>choice (C)</b>.
+Question: 17
+ Which of the following statements about enzyme kinetics is FALSE?
+
+<li>A. An increase in the substrate concentration (at constant enzyme concentration) leads to proportional increases in the rate of the reaction.</li>
+<li>B. Most enzymes operating in the human body work best at a temperature of 37°C.</li>
+<li>C. An enzyme–substrate complex can either form a product or dissociate back into the enzyme and substrate.</li>
+<li>D. Maximal activity of many human enzymes occurs around pH 7.4.</li>
+
+Correct Answer:
+ A
+Explanation:
+Most enzymes in the human body operate at maximal activity around a temperature of 37°C and a pH of 7.4, which is the pH of most body fluids. In addition, as characterized by the Michaelis–Menten equation, enzymes form an enzyme–substrate complex, which can either dissociate back into the enzyme and substrate or proceed to form a product. So far, we can eliminate <b>choices (B)</b>, <b>(C)</b>, and <b>(D)</b>, so let’s check <b>choice (A)</b>. An increase in the substrate concentration, while maintaining a constant enzyme concentration, leads to a proportional increase in the rate of the reaction only initially. However, once most of the active sites are occupied, the reaction rate levels off, regardless of further increases in substrate concentration. At high concentrations of substrate, the reaction rate approaches its maximal velocity and is no longer changed by further increases in substrate concentration.
+Question: 18
+ Some enzymes require the presence of a nonprotein molecule to behave catalytically. An enzyme devoid of this molecule is called a(n):
+
+<li>A. holoenzyme.</li>
+<li>B. apoenzyme.</li>
+<li>C. coenzyme.</li>
+<li>D. zymoenzyme.</li>
+
+Correct Answer:
+ B
+Explanation:
+An enzyme devoid of its necessary cofactor is called an apoenzyme and is catalytically inactive.
+Question: 19
+ Which of the following factors determine an enzyme's specificity?
+
+<li>A. The three-dimensional shape of the active site</li>
+<li>B. The Michaelis constant</li>
+<li>C. The type of cofactor required for the enzyme to be active</li>
+<li>D. The prosthetic group on the enzyme</li>
+
+Correct Answer:
+ A
+Explanation:
+An enzyme’s specificity is determined by the three dimensional shape of its active site. Regardless of which explanation for enzyme specificity we are discussing (lock and key or induced fit), the active site determines which substrate the enzyme will react with.
+Question: 20
+ Enzymes increase the rate of a reaction by:
+
+<li>A. decreasing the activation energy.</li>
+<li>B. increasing the overall free energy change of the reaction.</li>
+<li>C. increasing the activation energy.</li>
+<li>D. decreasing the overall free energy change of the reaction.</li>
+
+Correct Answer:
+ A
+Explanation:
+Enzymes increase the rate of a reaction by decreasing the activation energy. They do not affect the overall free energy, <span>Δ</span><i>G</i>, of the reaction.
+Question: 21
+ In the equation below, substrate C is an allosteric inhibitor to enzyme 1. Which of the following is another mechanism necessarily caused by substrate C?
+
+<li>A. Competitive inhibition</li>
+<li>B. Irreversible inhibition</li>
+<li>C. Feedback enhancement</li>
+<li>D. Negative feedback</li>
+
+Correct Answer:
+<img src="/images/mcat/biochem/1/00059.gif">
+Explanation:
+<strong>Explanation:</strong>
+Question: 22
+ The activity of an enzyme is measured at several different substrate concentrations, and the data are shown in the table below.
+
+<li>A. 0.5.</li>
+<li>B. 1</li>
+<li>C. 10</li>
+<li>D. 50</li>
+
+Correct Answer:
+<i>K</i><sub>m</sub> for this enzyme is approximately:
+Explanation:
+<strong>Explanation:</strong>
+Question: 23
+ Consider a reaction catalyzed by enzyme A with a <i>K</i><sub>m</sub> value of 5 × 10<sup>–6</sup> <i>M</i> and <i>v</i><sub>max</sub> of <img src="/images/mcat/biochem/1/00061.gif">
+
+<li>A. <img src="/images/mcat/biochem/1/00062.gif">.</li>
+<li>B. <img src="/images/mcat/biochem/1/00063.gif">.</li>
+<li>C. <img src="/images/mcat/biochem/1/00064.gif">.</li>
+<li>D. <img src="/images/mcat/biochem/1/00065.gif">.</li>
+
+Correct Answer:
+At a concentration of 5 × 10<sup>–6</sup> <i>M</i> substrate, the rate of the reaction will be:
+Explanation:
+<strong>Explanation:</strong>
+Question: 24
+ Consider a reaction catalyzed by enzyme A with a <i>K</i><sub>m</sub> value of 5 × 10<sup>–6</sup> <i>M</i> and <i>v</i><sub>max</sub> of <img src="/images/mcat/biochem/1/00061.gif">
+
+<li>A. <img src="/images/mcat/biochem/1/00066.gif">.</li>
+<li>B. <img src="/images/mcat/biochem/1/00067.gif">.</li>
+<li>C. <img src="/images/mcat/biochem/1/00068.gif">.</li>
+<li>D. <img src="/images/mcat/biochem/1/00069.gif">.</li>
+
+Correct Answer:
+At a concentration of 5 × 10<sup>–4</sup> <i>M</i> substrate, the rate of the reaction will be:
+Explanation:
+<strong>Explanation:</strong>
+Question: 25
+ The graph below shows kinetic data obtained for flu virus enzyme activity as a function of substrate concentration in the presence and absence of two antiviral drugs.
+
+<li>A. Both drugs are noncompetitive inhibitors of the viral enzyme.</li>
+<li>B. Tamiflu increases the <i>K</i><sub>m</sub> value for the substrate compared to Relenza.</li>
+<li>C. Relenza increases the <i>v</i><sub>max</sub> value for the substrate compared to Tamiflu.</li>
+<li>D. Both drugs are competitive inhibitors of the viral enzyme.</li>
+
+Correct Answer:
+<img src="/images/mcat/biochem/1/00070.jpeg" alt="">
+Explanation:
+<strong>Correct Answer:</strong> B
+Question: 26
+ The conversion of ATP to cyclic AMP and inorganic phosphate is most likely catalyzed by which class of enzyme?
+
+<li>A. Ligase</li>
+<li>B. Hydrolase</li>
+<li>C. Lyase</li>
+<li>D. Transferase</li>
+
+Correct Answer:
+ C
+Explanation:
+Lyases are responsible for the breakdown of a single molecule into two molecules without the addition of water or the transfer of electrons. Lyases often form cyclic compounds or double bonds in the products to accommodate this. Water was not a reactant, and no cofactor was mentioned; thus lyase, <b>choice (C)</b>, remains the best answer choice.
+Question: 27
+ Which of the following is NOT a method by which enzymes decrease the activation energy for biological reactions?
+
+<li>A. Modifying the local charge environment</li>
+<li>B. Forming transient covalent bonds</li>
+<li>C. Acting as electron donors or receptors</li>
+<li>D. Breaking bonds in the enzyme to provide energy</li>
+
+Correct Answer:
+ D
+Explanation:
+Enzymes are not altered by the process of catalysis. A molecule that breaks intramolecular bonds to provide activation energy would not be able to be reused.
+Question: 28
+ A certain cooperative enzyme has four subunits, two of which are bound to substrate. Which of the following statements can be made?
+
+<li>A. The affinity of the enzyme for the substrate has just increased.</li>
+<li>B. The affinity of the enzyme for the substrate has just decreased.</li>
+<li>C. The affinity of the enzyme for the substrate is at the average for this enzyme class.</li>
+<li>D. The affinity of the enzyme for the substrate is greater than with one substrate bound.</li>
+
+Correct Answer:
+ D
+Explanation:
+Cooperative enzymes demonstrate a change in affinity for the substrate depending on how many substrate molecules are bound and whether the last change was accomplished because a substrate molecule was bound or left the active site of the enzyme. Because we cannot determine whether the most recent reaction was binding or dissociation, <b>choices (A)</b> and <b>(B)</b> are eliminated. We can make absolute comparisons though. The unbound enzyme has the lowest affinity for substrate, and the enzyme with all but one subunit bound has the highest. The increase in affinity is not linear, and therefore <b>choice (C)</b> is not necessarily true. An enzyme with two subunits occupied must have a higher affinity for the substrate than the same enzyme with only one subunit occupied; thus, <b>choice (D)</b> is correct.
+Question: 29
+ Which of the following is LEAST likely to be required for a series of metabolic reactions?
+
+<li>A. Triglyceride acting as a coenzyme</li>
+<li>B. Oxidoreductase enzymes</li>
+<li>C. Magnesium acting as a cofactor</li>
+<li>D. Transferase enzymes</li>
+
+Correct Answer:
+ A
+Explanation:
+Triglycerides are unlikely to act as coenzymes for a few reasons, including their large size, neutral charge, and ubiquity in cells. Cofactors and coenzymes tend to be small in size, such as metal ions like <b>choice (C)</b> or small organic molecules. They can usually carry a charge by ionization, protonation, or deprotonation. Finally, they are usually in low, tightly regulated concentrations within cells. Metabolic pathways would be expected to include both oxidation–reduction reactions and movement of functional groups, thus eliminating <b>choices (B)</b> and <b>(D)</b>.
+Question: 30
+ How does the ideal temperature for a reaction change with and without an enzyme catalyst?
+
+<li>A. The ideal temperature is generally higher with a catalyst than without.</li>
+<li>B. The ideal temperature is generally lower with a catalyst than without.</li>
+<li>C. The ideal temperature is characteristic of the reaction, not the enzyme.</li>
+<li>D. No conclusion can be made without knowing the enzyme type.</li>
+
+Correct Answer:
+ B
+Explanation:
+The rate of reaction increases with temperature because of the increased kinetic energy of the reactants, but reaches a peak temperature because the enzyme denatures with the disruption of hydrogen bonds at excessively high temperatures. In the absence of enzyme, this peak temperature is generally much hotter. Heating a reaction provides molecules with an increased chance of achieving the activation energy, but the enzyme catalyst would typically reduce activation energy. Keep in mind that thermodynamics and kinetics are not interchangeable, so we are not considering the impact of heat on the equilibrium position.
+Question: 31
+ At what pH can protein A best be obtained through electrophoresis? (Note: MM = molar mass)
+
+<li>A. 2.5</li>
+<li>B. 3.5</li>
+<li>C. 4.5</li>
+<li>D. 5.5</li>
+
+Correct Answer:
+ D
+Explanation:
+In most electrophoresis experiments, we attempt to separate out one component from the others. Because we are attempting to isolate protein A only, a pH that causes protein A to be negative while proteins B and C are neutral or positive will be best. pH 5.5 accomplishes this goal; proteins B and C will be positively charged. A pH of 4.5, <b>choice (C)</b>, would make protein A neutral, and it would thus not migrate across the gel. Any neutral impurities would also remain in the well with protein A, making this pH not the best choice.
+Question: 32
+ What is the function of sodium dodecyl sulfate (SDS) in SDS-PAGE?
+
+<li>A. SDS stabilizes the gel matrix, improving resolution during electrophoresis.</li>
+<li>B. SDS solubilizes proteins to give them uniformly negative charges, so the separation is based purely on size.</li>
+<li>C. SDS raises the pH of the gel, separating multiunit proteins into individual subunits.</li>
+<li>D. SDS solubilizes proteins to give them uniformly positive charges, so separation is based purely on pH.</li>
+
+Correct Answer:
+ B
+Explanation:
+Sodium dodecyl sulfate is a detergent and will digest proteins to form micelles with uniform negative charges. Because the protein is sequestered within the micelle, other factors such as charge of the protein and shape have minimal roles during separation. In essence, the protein micelles can be modeled as being spheres, dependent only on size.
+Question: 33
+ Which of the following is NOT involved in cell migration?
+
+<li>A. Dynein</li>
+<li>B. Flagella</li>
+<li>C. Actin</li>
+<li>D. Centrioles</li>
+
+Correct Answer:
+ D
+Explanation:
+From the given choices, all of them are involved in cell movement with the exception of <b>choice (D)</b>. Centrioles are composed of microtubules, but are involved in mitosis, not cell motility.
+Question: 34
+ Which of the following proteins is most likely to be found extracellularly?
+
+<li>A. Tubulin</li>
+<li>B. Myosin</li>
+<li>C. Collagen</li>
+<li>D. Actin</li>
+
+Correct Answer:
+ C
+Explanation:
+The most prevalent extracellular proteins are keratin, elastin, and collagen. Tubulin and actin are the primary cytoskeletal proteins, while myosin is a motor protein.
+Question: 35
+ Hormones are found in the body in very low concentrations, but tend to have a strong effect. What type of receptor are hormones most likely to act on?
+
+<li>A. I only</li>
+<li>B. III only</li>
+<li>C. II and III only</li>
+<li>D. I, II, and III</li>
+
+Correct Answer:
+I. Ligand-gated ion channels
+Explanation:
+III. G protein-coupled receptors
+Question: 36
+ Which of the following is most likely to be found bound to a protein in the body?
+
+<li>A. Sodium</li>
+<li>B. Potassium</li>
+<li>C. Chloride</li>
+<li>D. Calcium</li>
+
+Correct Answer:
+ D
+Explanation:
+Ions that are not readily accessible in the cytoplasm or extracellular space are likely to be bound to a binding protein. Classically, calcium and magnesium are protein-bound. Without this background knowledge, the question can still be answered. Sodium, <b>choice (A)</b>, and potassium, <b>choice (B)</b>, must exist in their free states to participate in action potentials. Chloride, <b>choice (C)</b>, is readily excreted by the kidney, which would not be true if it were protein-bound. Calcium must be sequestered in both the bloodstream and intracellularly because calcium is used for muscle contraction, exocytosis (of neurotransmitters and other signals), and many other cellular processes that must be tightly regulated.
+Question: 37
+ Which of the following characteristics is NOT attributed to antibodies?
+
+<li>A. Antibodies bind to more than one distinct antigen.</li>
+<li>B. Antibodies label antigens for targeting by other immune cells.</li>
+<li>C. Antibodies can cause agglutination by interaction with antigen.</li>
+<li>D. Antibodies have two heavy chains and two light chains.</li>
+
+Correct Answer:
+ A
+Explanation:
+Antibodies are specific to a single antigen. Each B-cell produces a single type of antibody with a constant region that is specific to the host and a variable region that is specific to an antigen.
+Question: 38
+ Which ion channels are responsible for maintaining the resting membrane potential?
+
+<li>A. Ungated channels</li>
+<li>B. Voltage-gated channels</li>
+<li>C. Ligand-gated channels</li>
+<li>D. No ion channels are involved in maintenance of the resting membrane potential.</li>
+
+Correct Answer:
+ A
+Explanation:
+The resting membrane potential is displayed by cells that are not actively involved in signal transduction. Ungated or “leak” channels permit limited free flow of ions, while the sodium–potassium pump is also active and corrects for this leakage. Ligand-gated and voltage-gated channels are involved in cell signaling and in the pacemaker potentials of certain cells, but cause deviation from—not maintenance of—the resting membrane potential.
+Question: 39
+ Which of the following is NOT a component of all trimeric G proteins?
+
+<li>A. G<sub><i>α</i></sub></li>
+<li>B. G<sub><i>β</i></sub></li>
+<li>C. G<sub><i>γ</i></sub></li>
+<li>D. G<sub>i</sub></li>
+
+Correct Answer:
+ D
+Explanation:
+All trimeric G proteins have <span><i>α</i></span>, <span><i>β</i></span>, and <span><i>γ</i></span> subunits—<b>choices (A)</b>, <b>(B)</b>, and <b>(C)</b>, respectively. G<sub>s</sub>, G<sub>i</sub>, and G<sub>q</sub> are subtypes of the G<span><sub><i>α</i></sub></span> subunit of the trimeric G protein and differ depending on the G protein-coupled receptor’s function.
+Question: 40
+ Which of the following methods would be best to separate large quantities of the following proteins? (Note: MM = molar mass)
+
+<li>A. Ion-exchange chromatography</li>
+<li>B. Size-exclusion chromatography</li>
+<li>C. Isoelectric focusing</li>
+<li>D. Native PAGE</li>
+
+Correct Answer:
+ B
+Explanation:
+The proteins described in the question differ primarily in their molecular weights. Their pI values are very close, so ion-exchange chromatography, <b>choice (A)</b>, is not a good choice. The question specifies a large quantity, which is better processed through chromatography than through electrophoresis—<b>choices (C)</b> and <b>(D)</b>—because the gel can only handle a small volume of protein.
+Question: 41
+ Which amino acids contribute most significantly to the pI of a protein?
+
+<li>A. I only</li>
+<li>B. I and II only</li>
+<li>C. I and III only</li>
+<li>D. II and III only</li>
+
+Correct Answer:
+I. Lysine
+Explanation:
+III. Arginine
+Question: 42
+ How does the gel for isoelectric focusing differ from the gel for traditional electrophoresis?
+
+<li>A. Isoelectric focusing uses a gel with much larger pore sizes to allow for complete migration.</li>
+<li>B. Isoelectric focusing uses a gel with SDS added to encourage a uniform negative charge.</li>
+<li>C. Isoelectric focusing uses a gel with a pH gradient that encourages a variable charge.</li>
+<li>D. The gel is unchanged in isoelectric focusing; the protein mixture is treated before loading.</li>
+
+Correct Answer:
+ C
+Explanation:
+The gel in isoelectric focusing uses a pH gradient. When a protein is in a region with a pH above its pI, it is negatively charged and moves toward the anode. When it is in a pH region below its pI, it is positively charged and moves toward the cathode. When the pH equals the pI, the migration of the protein is halted.
+Question: 43
+ Which protein properties allow UV spectroscopy to be used as a method of determining concentration?
+
+<li>A. Proteins have partially planar characteristics in peptide bonds.</li>
+<li>B. Globular proteins cause scattering of light.</li>
+<li>C. Proteins contain aromatic groups in certain amino acids.</li>
+<li>D. All organic macromolecules can be assessed with UV spectroscopy.</li>
+
+Correct Answer:
+ C
+Explanation:
+UV spectroscopy is best used with conjugated systems of double bonds. While the double bond in the peptide bond does display resonance, this is not adequate for UV absorption. However, aromatic systems are conjugated, and phenylalanine, tyrosine, and tryptophan all contain aromatic ring structures.
+Question: 44
+ A protein collected through affinity chromatography displays no activity even though it is found to have a high concentration using the Bradford protein assay. What best explains these findings?
+
+<li>A. The Bradford reagent was prepared incorrectly.</li>
+<li>B. The active site is occupied by free ligand.</li>
+<li>C. The protein is bound to the column.</li>
+<li>D. The protein does not catalyze the reaction of interest.</li>
+
+Correct Answer:
+ B
+Explanation:
+Protein activity and concentration are generally correlated. Because we have a high concentration of protein, we expect a high activity unless the protein has been damaged or inactivated in some way. The protein could have been inactivated by experimental conditions like detergents, heat, or pH; however, these are not answer choices. Rather, we must consider how the experimental procedure works. Protein elutes off of an affinity column by binding free ligand. In this situation, the binding may not have been reversed and thus the free ligand competes for the active site of the enzyme, lowering its activity.
+Question: 45
+ What property of protein-digesting enzymes allows for a sequence to be determined without fully degrading the protein?
+
+<li>A. Selectivity</li>
+<li>B. Sensitivity</li>
+<li>C. Turnover</li>
+<li>D. Inhibition</li>
+
+Correct Answer:
+ A
+Explanation:
+The selective cleavage of proteins by digestive enzymes allows fragments of different lengths with known amino acid endpoints to be created. By cleaving the protein with several different enzymes, a basic outline of the amino acid sequence can be created.
+Question: 46
+ When glucose is in a straight-chain formation, it:
+
+<li>A. is an aldoketose.</li>
+<li>B. is a pentose.</li>
+<li>C. has five chiral carbons.</li>
+<li>D. is one of a group of 16 stereoisomers.</li>
+
+Correct Answer:
+ D
+Explanation:
+Glucose is an aldohexose, meaning that it has one aldehyde group and six carbons. Given this information, <b>choices (A)</b> and <b>(B)</b> can be eliminated. In aldose sugars, each nonterminal carbon is chiral. Therefore, glucose has four chiral centers, not five, as mentioned in <b>choice (C)</b>. The number of stereoisomers possible for a chiral molecule is 2<sup><i>n</i></sup>, where <i>n</i> is the number of chiral carbons. Because glucose has four chiral centers, there are <span>2<sup>4</sup> = 16</span> possible stereoisomers.
+Question: 47
+ All of the following are true of epimers EXCEPT:
+
+<li>A. they differ in configuration about only one carbon.</li>
+<li>B. they usually have slightly different chemical and physical properties.</li>
+<li>C. they are diastereomers (with the exception of glyceraldehyde).</li>
+<li>D. they always have equal but opposite optical activities.</li>
+
+Correct Answer:
+ D
+Explanation:
+Epimers are monosaccharide diastereomers that differ in their configuration about only one carbon. As with all diastereomers, epimers have different chemical and physical properties, and their optical activities have no relation to each other. Enantiomers have equal but opposite optical activities. Therefore, <b>choice (D)</b> is the only statement that does not apply to epimers.
+Question: 48
+ Aldonic acids are compounds that:
+
+<li>A. can be oxidized, and therefore act as reducing agents.</li>
+<li>B. can be reduced, and therefore act as reducing agents.</li>
+<li>C. have been oxidized, and have acted as reducing agents.</li>
+<li>D. have been oxidized, and have acted as oxidizing agents.</li>
+
+Correct Answer:
+ C
+Explanation:
+Aldonic acids form after the aldehyde group on a reducing sugar reduces another compound, becoming oxidized in the process.
+Question: 49
+ The formation of <i>α</i>-d-glucopyranose from <i>β</i>-d-glucopyranose is called:
+
+<li>A. glycosidation.</li>
+<li>B. mutarotation.</li>
+<li>C. enantiomerization.</li>
+<li>D. racemization.</li>
+
+Correct Answer:
+ B
+Explanation:
+Mutarotation is the interconversion between anomers of a compound. Enantiomerization and racemization, <b>choices (C)</b> and <b>(D)</b>, mean the same thing as each other: the formation of a mirror-image or optically inverted form of a compound. Glycosidation, <b>choice (A)</b>, is the addition of a sugar to another compound.
+Question: 50
+ Ketose sugars may have the ability to act as reducing sugars. Which process explains this?
+
+<li>A. Ketose sugars undergo tautomerization.</li>
+<li>B. The ketone group is oxidized directly.</li>
+<li>C. Ketose sugars undergo anomerization.</li>
+<li>D. The ketone group is reduced directly.</li>
+
+Correct Answer:
+ A
+Explanation:
+Ketose sugars undergo tautomerization, a rearrangement of bonds, to undergo <i>keto</i>-<i>enol</i> shifts. This forms an aldose, which then allows them to act as reducing sugars. A ketone group alone cannot be oxidized. Anomerization, mentioned in <b>choice (C)</b>, refers to ring closure of a monosaccharide, creating an anomeric carbon.
+Question: 51
+ What is the product of the following reaction?
+
+<li>A. <img src="/images/mcat/biochem/1/00116.jpeg" alt=""></li>
+<li>B. <img src="/images/mcat/biochem/1/00117.jpeg" alt=""></li>
+<li>C. <img src="/images/mcat/biochem/1/00118.jpeg" alt=""></li>
+<li>D. <img src="/images/mcat/biochem/1/00119.jpeg" alt=""></li>
+
+Correct Answer:
+<img src="/images/mcat/biochem/1/00115.jpeg" alt="">
+Explanation:
+<strong>Explanation:</strong>
+Question: 52
+ Which of the following enzymes cleaves polysaccharide chains and yields maltose exclusively?
+
+<li>A. <i>α</i>-Amylase</li>
+<li>B. <i>β</i>-Amylase</li>
+<li>C. Debranching enzyme</li>
+<li>D. Glycogen phosphorylase</li>
+
+Correct Answer:
+ B
+Explanation:
+<span><i>β</i></span>-Amylase cleaves amylose at the nonreducing end of the polymer to yield maltose exclusively, while <span><i>α</i></span>-amylase, <b>choice (A)</b>, cleaves amylose anywhere along the chain to yield short polysaccharides, maltose, and glucose. Debranching enzyme, <b>choice (C)</b>, removes oligosaccharides from a branch in glycogen or starches, while glycogen phosphorylase, <b>choice (D)</b>, yields glucose 1-phosphate.
+Question: 53
+ When the following straight-chain Fischer projection is converted to a chair or ring conformation, its structure will be:
+
+<li>A. <img src="/images/mcat/biochem/1/00121.gif" alt=""></li>
+<li>B. <img src="/images/mcat/biochem/1/00122.gif" alt=""></li>
+<li>C. <img src="/images/mcat/biochem/1/00123.gif" alt=""></li>
+<li>D. <img src="/images/mcat/biochem/1/00124.gif" alt=""></li>
+
+Correct Answer:
+<img src="/images/mcat/biochem/1/00120.gif" alt="">
+Explanation:
+<strong>Explanation:</strong>
+Question: 54
+ Why is the <i>α</i>-anomer of d-glucose less likely to form than the <i>β</i>-anomer?
+
+<li>A. The <i>β</i>-anomer is preferred for metabolism.</li>
+<li>B. The <i>β</i>-anomer undergoes less electron repulsion.</li>
+<li>C. The <i>α</i>-anomer is the more stable anomer.</li>
+<li>D. The <i>α</i>-anomer forms more in l-glucose.</li>
+
+Correct Answer:
+ B
+Explanation:
+The hydroxyl group on the anomeric carbon of the <span><i>β</i></span>-anomer is equatorial, thereby creating less steric hindrance than the <span><i>α</i></span>-anomer, which has the hydroxyl group of the anomeric carbon in axial position.
+Question: 55
+ Which two polysaccharides share all of their glycosidic linkage types in common?
+
+<li>A. Cellulose and amylopectin</li>
+<li>B. Amylose and glycogen</li>
+<li>C. Amylose and cellulose</li>
+<li>D. Glycogen and amylopectin</li>
+
+Correct Answer:
+ D
+Explanation:
+Glycogen and amylopectin are the only polysaccharide forms that demonstrate branching structure, making them most similar in terms of linkage. Both glycogen and amylopectin use <span><i>α</i></span>-1,4 and <span><i>α</i></span>-1,6 linkages. Cellulose uses <span><i>β</i></span>-1,4 linkages and amylose does not contain <span><i>α</i></span>-1,6 linkages.
+Question: 56
+ Which of the following is digestible by humans and is made up of only one type of monosaccharide?
+
+<li>A. Lactose</li>
+<li>B. Sucrose</li>
+<li>C. Maltose</li>
+<li>D. Cellobiose</li>
+
+Correct Answer:
+ C
+Explanation:
+While maltose and cellobiose both have the same glucose subunits, only maltose is digestible by humans because <span><i>β</i></span>-glycosidic linkages cannot be cleaved in the human body.
+Question: 57
+ The reaction below is an example of one step in:
+
+<li>A. aldehyde formation.</li>
+<li>B. hemiketal formation.</li>
+<li>C. mutarotation.</li>
+<li>D. glycosidic bond cleavage.</li>
+
+Correct Answer:
+<img src="/images/mcat/biochem/1/00125.gif" alt="">
+Explanation:
+<strong>Explanation:</strong>
+Question: 58
+ Galactose is the C-4 epimer of glucose, the structure of which is shown below. Which of the following structures is galactose?
+
+<li>A. <img src="/images/mcat/biochem/1/00127.gif" alt=""></li>
+<li>B. <img src="/images/mcat/biochem/1/00128.gif" alt=""></li>
+<li>C. <img src="/images/mcat/biochem/1/00129.gif" alt=""></li>
+<li>D. <img src="/images/mcat/biochem/1/00130.gif" alt=""></li>
+
+Correct Answer:
+<img src="/images/mcat/biochem/1/00126.gif" alt="">
+Explanation:
+<strong>Explanation:</strong>
+Question: 59
+ Andersen's disease (glycogen storage disease type IV) is a condition characterized by a deficiency in glycogen branching enzyme. Absence of this enzyme would be likely to cause all of the following effects EXCEPT:
+
+<li>A. decreased glycogen solubility in human cells.</li>
+<li>B. slower action of glycogen phosphorylase.</li>
+<li>C. less storage of glucose in the body.</li>
+<li>D. glycogen devoid of <i>α</i>-1,4 linkages.</li>
+
+Correct Answer:
+ D
+Explanation:
+In Andersen’s disease, glycogen is less branched than normal, thereby inducing lower solubility of glycogen. Branches reduce the interactions between adjacent chains of glycogen and encourage interactions with the aqueous environment. The smaller number of branches means that glycogen phosphorylase has fewer terminal glucose monomers on which to act, making enzyme activity slower than normal overall. Finally, without branches, the density of glucose monomers cannot be as high; therefore, the total glucose stored is lower than normal. Glycogen synthase is still functioning normally, so we would expect normal <span><i>α</i></span>-1,4 linkages in the glycogen of an individual with Andersen’s disease but few (if any) <span><i>α</i></span>-1,6 linkages.
+Question: 60
+ The cyclic forms of monosaccharides are:
+
+<li>A. I only</li>
+<li>B. III only</li>
+<li>C. I and II only</li>
+<li>D. I, II, and III</li>
+
+Correct Answer:
+I. hemiacetals.
+Explanation:
+III. acetals.
+Question: 61
+ Which of the following is NOT a type of glycolipid?
+
+<li>A. Cerebroside</li>
+<li>B. Globoside</li>
+<li>C. Ganglioside</li>
+<li>D. Sphingomyelin</li>
+
+Correct Answer:
+ D
+Explanation:
+Glycolipids contain sugar moieties connected to their backbone. Sphingomyelin is not a glycolipid, but rather a phospholipid. This class can either have phosphatidylcholine or phosphatidylethanolamine as a head group and therefore contains a phosphodiester, not glycosidic, bond.
+Question: 62
+ During saponification:
+
+<li>A. triacylglycerols undergo a condensation reaction.</li>
+<li>B. triacylglycerols undergo ester hydrolysis.</li>
+<li>C. fatty acid salts are produced using a strong acid.</li>
+<li>D. fatty acid salts are bound to albumin.</li>
+
+Correct Answer:
+ B
+Explanation:
+Saponification is the ester hydrolysis of triacylglycerol using a strong base like sodium or potassium hydroxide to form glycerol and fatty acid salts. This is not a condensation reaction, as in <b>choice (A)</b>, but a cleavage reaction. Fatty acids do travel in the body bound to serum albumin, as in <b>choice (D)</b>, but that is unrelated to the process of saponification.
+Question: 63
+ Which of the following best describes the structure of steroids?
+
+<li>A. Three cyclopentane rings, one cyclohexane ring</li>
+<li>B. Three cyclohexane rings, one cyclopentane ring</li>
+<li>C. Four carbon rings, differing in structure for each steroid</li>
+<li>D. Three cyclic carbon rings and a functional group</li>
+
+Correct Answer:
+ B
+Explanation:
+The basic backbone of steroid structure contains three cyclohexane rings and one cyclopentane ring. Although the oxidation status of these rings varies for different steroids, the overall structure does not, as in <b>choice (C)</b>.
+Question: 64
+ Soap bubbles form because fatty acid salts organize into:
+
+<li>A. lysosomes.</li>
+<li>B. micelles.</li>
+<li>C. phospholipid bilayers.</li>
+<li>D. hydrogen bonds.</li>
+
+Correct Answer:
+ B
+Explanation:
+Fatty acid salt micelles are responsible for the formation of soap bubbles. While phospholipids can form bilayers, as in <b>choice (C)</b>, the fatty acids in soap are free fatty acids, not phospholipids.
+Question: 65
+ Steroid hormones are steroids that:
+
+<li>A. I only</li>
+<li>B. III only</li>
+<li>C. I and II only</li>
+<li>D. I and III only</li>
+
+Correct Answer:
+I. have specific high-affinity receptors.
+Explanation:
+III. effect gene transcription by binding directly to DNA.
+Question: 66
+ Why are triacylglycerols used in the human body for energy storage?
+
+<li>A. They are highly hydrated, and therefore can store lots of energy.</li>
+<li>B. They always have short fatty acid chains, for easy access by metabolic enzymes.</li>
+<li>C. The carbon atoms of the fatty acid chains are highly reduced, and therefore yield more energy upon oxidation.</li>
+<li>D. Polysaccharides, which would actually be a better energy storage form, would dissolve in the body.</li>
+
+Correct Answer:
+ C
+Explanation:
+Triacylglycerols are highly hydrophobic and therefore not highly hydrated (which would add extra weight from the water of hydration, taking away from the energy density of these molecules), eliminating <b>choice (A)</b>. The fatty acid chains produce twice as much energy as polysaccharides during oxidation because they are highly reduced. The fatty acid chains vary in length and saturation.
+Question: 67
+ Which of the following is correct about fat-soluble vitamins?
+
+<li>A. III only</li>
+<li>B. I and II only</li>
+<li>C. III and IV only</li>
+<li>D. II, III, and IV only</li>
+
+Correct Answer:
+I. Vitamin E is important for calcium regulation.
+Explanation:
+III. Vitamin K is necessary for the posttranslational introduction of calcium-binding sites.
+Question: 68
+ Which of the following is true of amphipathic molecules?
+
+<li>A. They form protective spheres in any solvent, with hydrophobic molecules interior and hydrophilic molecules exterior.</li>
+<li>B. They have two fatty acid chains and a polar head group.</li>
+<li>C. They are important to the formation of the phospholipid bilayer and soap bubbles.</li>
+<li>D. They have a glycerol base.</li>
+
+Correct Answer:
+ C
+Explanation:
+Phospholipids are amphipathic, as are fatty acid salts. Although amphipathic molecules take spherical forms with hydrophobic molecules interior in aqueous solution, as in <b>choice (A)</b>, the opposite would be true in a nonpolar solvent. <b>Choice (B)</b> describes phospholipids and sphingolipids, and <b>choice (D)</b> describes triacylglycerols and phospholipids; both groups do not include fatty acid salts.
+Question: 69
+ Which of the following is/are true about sphingolipids?
+
+<li>A. I only</li>
+<li>B. III only</li>
+<li>C. II and III only</li>
+<li>D. I, II, and III</li>
+
+Correct Answer:
+I. They are all phospholipids.
+Explanation:
+III. They can have either phosphodiester or glycosidic linkages to their polar head groups.
+Question: 70
+ Which of the following statements about saturation is FALSE?
+
+<li>A. It can describe the number of double or triple bonds in a fatty acid tail.</li>
+<li>B. It determines at least one of the properties of membranes.</li>
+<li>C. More saturated fatty acids make for a more fluid solution.</li>
+<li>D. Fully saturated fatty acids have only single bonds.</li>
+
+Correct Answer:
+ C
+Explanation:
+More saturated fatty acids make for a less fluid solution. This is because they can pack more tightly and form more noncovalent bonds, resulting in more energy being needed to disrupt the overall structure.
+Question: 71
+ Which of the following is true about glycerophospholipids?
+
+<li>A. Glycerophospholipids can sometimes be sphingolipids, depending on the bonds in their head groups.</li>
+<li>B. Glycerophospholipids are merely a subset of phospholipids.</li>
+<li>C. Glycerophospholipids are used in the ABO blood typing system.</li>
+<li>D. Glycerophospholipids have one glycerol, one polar head group, and one fatty acid tail.</li>
+
+Correct Answer:
+ B
+Explanation:
+Glycerophospholipids are a subset of phospholipids, as are sphingomyelins. Glycerophospholipids are never sphingolipids because they contain a glycerol backbone (rather than sphingosine or a sphingoid backbone), eliminating <b>choice (A)</b>. Sphingolipids are used in the ABO blood typing system, eliminating <b>choice (C)</b>. Glycerophospholipids have a polar head group, glycerol, and two fatty acid tails, not one, as in <b>choice (D)</b>.
+Question: 72
+ Which of the following statements about terpenes is FALSE?
+
+<li>A. Terpenes are strongly scented molecules that sometimes serve protective functions.</li>
+<li>B. Terpenes are steroid precursors.</li>
+<li>C. A triterpene is made of three isoprene moieties, and therefore has 15 carbons.</li>
+<li>D. Terpenes are made by plants and insects.</li>
+
+Correct Answer:
+ C
+Explanation:
+A triterpene is made of six isoprene moieties (remember, one terpene unit = two isoprene units), and therefore has a 30-carbon backbone.
+Question: 73
+ Which of the following is true about cholesterol?
+
+<li>A. Cholesterol always increases membrane fluidity in cells.</li>
+<li>B. Cholesterol is a steroid precursor.</li>
+<li>C. Cholesterol is a precursor for vitamin A, which is produced in the skin.</li>
+<li>D. Cholesterol interacts only with the hydrophobic tails of phospholipids.</li>
+
+Correct Answer:
+ B
+Explanation:
+Cholesterol is a steroid precursor that has variable effects on membrane fluidity depending on temperature, eliminating <b>choice (A)</b>. It interacts with both the hydrophobic tails and the hydrophilic heads of membrane lipids, nullifying <b>choice (D)</b>. It is also a precursor for vitamin D (not vitamin A), which can be produced in the skin in a UV-driven reaction, eliminating <b>choice (C)</b>.
+Question: 74
+ Which of the following statements regarding prostaglandins is FALSE?
+
+<li>A. Prostaglandins regulate the synthesis of cAMP.</li>
+<li>B. Prostaglandin synthesis is inhibited by NSAIDs.</li>
+<li>C. Prostaglandins affect pain, inflammation, and smooth muscle function.</li>
+<li>D. Prostaglandins are endocrine hormones, like steroid hormones.</li>
+
+Correct Answer:
+ D
+Explanation:
+Prostaglandins are paracrine or autocrine hormones, not endocrine—they affect regions close to where they are produced, rather than affecting the entire body. Think of the swelling that happens when you bash your knee into your desk: your knee will swell, turn red, and possibly bruise. Luckily, however, your entire body won’t swell as well.
+Question: 75
+ Which of the statements regarding waxes is FALSE?
+
+<li>A. Waxes generally have melting points above room temperature.</li>
+<li>B. Waxes are produced only in plants and insects and therefore must be consumed by humans.</li>
+<li>C. Waxes protect against dehydration and parasites.</li>
+<li>D. Waxes are esters of long-chain fatty acids and long-chain alcohols.</li>
+
+Correct Answer:
+ B
+Explanation:
+Waxes are also produced in animals for similar protective functions. Cerumen, or earwax, is a prime example in humans.
+Question: 76
+ In a single strand of a nucleic acid, nucleotides are linked by:
+
+<li>A. hydrogen bonds.</li>
+<li>B. phosphodiester bonds.</li>
+<li>C. ionic bonds.</li>
+<li>D. van der Waals forces.</li>
+
+Correct Answer:
+ B
+Explanation:
+Nucleotides bond together to form polynucleotides. The 3′ hydroxyl group of one nucleotide’s sugar joins the 5′ hydroxyl group of the adjacent nucleotide’s sugar by a phosphodiester bond. Hydrogen bonding, <b>choice (A)</b>, is important for holding complementary strands together, but does not play a role in the bonds formed between adjacent nucleotides on a single strand.
+Question: 77
+ Which of the following statements regarding differences between DNA and RNA is FALSE?
+
+<li>A. DNA is double-stranded, whereas RNA is single-stranded.</li>
+<li>B. DNA uses the nitrogenous base thymine; RNA uses uracil.</li>
+<li>C. The sugar in DNA is deoxyribose; the sugar in RNA is ribose.</li>
+<li>D. DNA strands replicate in a 5′ to 3′ direction, whereas RNA is synthesized in a 3′ to 5′ direction.</li>
+
+Correct Answer:
+ D
+Explanation:
+Because we are looking for the false statement, we have to read each choice to eliminate those that are true or find one that is overtly false. Let’s quickly review the main differences between DNA and RNA. DNA is double-stranded, with a deoxyribose sugar and the nitrogenous bases A, T, C, and G. RNA, on the other hand, is usually single-stranded, with a ribose sugar and the bases A, U, C, and G. <b>Choice (D)</b> is false because both DNA replication and RNA synthesis proceed in a 5′ to 3′ direction.
+Question: 78
+ Which of the following DNA sequences would have the highest melting temperature?
+
+<li>A. CGCAACCATCCG</li>
+<li>B. CGCAATAATACA</li>
+<li>C. CGTAATAATACA</li>
+<li>D. CATAACAAATCA</li>
+
+Correct Answer:
+ A
+Explanation:
+The melting temperature of DNA is the temperature at which a DNA double helix separates into two single strands (denatures). To do this, the hydrogen bonds linking the base pairs must be broken. Cytosine binds to guanine with three hydrogen bonds, whereas adenine binds to thymine with two hydrogen bonds. The amount of heat needed to disrupt the bonding is proportional to the number of bonds. Thus, the higher the GC-content in a DNA segment, the higher the melting point.
+Question: 79
+ Which of the following biomolecules is LEAST likely to contain an aromatic ring?
+
+<li>A. Proteins</li>
+<li>B. Purines</li>
+<li>C. Carbohydrates</li>
+<li>D. Pyrimidines</li>
+
+Correct Answer:
+ C
+Explanation:
+Aromatic rings must contain conjugated <span><i>π</i></span> electrons, which require alternating single and multiple bonds, or lone pairs. In carbohydrate ring structures, only single bonds are present, thus preventing aromaticity. Nucleic acids contain aromatic heterocycles, while proteins will generally contain at least one aromatic amino acid.
+Question: 80
+ For a compound to be aromatic, all of the following must be true EXCEPT:
+
+<li>A. the molecule is cyclic.</li>
+<li>B. the molecule contains 4<i>n</i> + 2 <i>π</i> electrons.</li>
+<li>C. the molecule contains alternating single and double bonds.</li>
+<li>D. the molecule is planar.</li>
+
+Correct Answer:
+ C
+Explanation:
+For a compound to be aromatic, it must be cyclic, planar, and conjugated, and contain <span>4<i>n</i> + 2 <span><i>π</i></span></span> electrons, where <i>n</i> is any integer. Conjugation requires that every atom in the ring have at least one unhybridized <i>p</i>-orbital. While most examples of aromatic compounds have alternating single and double bonds, compounds can be aromatic if they contain triple bonds as well; this would still permit at least one unhybridized <i>p</i>-orbital.
+Question: 81
+ Which of the following enzymes is NOT involved in DNA replication?
+
+<li>A. Primase</li>
+<li>B. DNA ligase</li>
+<li>C. RNA polymerase</li>
+<li>D. Telomerase</li>
+
+Correct Answer:
+ C
+Explanation:
+During DNA replication, the strands are prepared by topoisomerases to relieve torsional strain. At the replication fork, primase, <b>choice (A)</b>, creates a primer for the initiation of replication, which is followed by DNA polymerase. On the lagging strand, Okazaki fragments form which are joined by DNA ligase, <b>choice (C)</b>. After the chromosome has been processed, the ends, called telomeres, are replicated with the assistance of the enzyme telomerase, <b>choice (D)</b>. RNA polymerase, distinct from primase, is responsible for transcription.
+Question: 82
+ How is cDNA best characterized?
+
+<li>A. cDNA results from a DNA transcript with noncoding regions removed.</li>
+<li>B. cDNA results from the reverse transcription of processed mRNA.</li>
+<li>C. cDNA is the abbreviation for deoxycytosine.</li>
+<li>D. cDNA is the circular DNA molecule that forms the bacterial genome.</li>
+
+Correct Answer:
+ B
+Explanation:
+cDNA (complementary DNA) is formed from a processed mRNA strand by reverse transcription. cDNA is used in DNA libraries and contains only the exons of genes that are transcriptionally active in the sample tissue.
+Question: 83
+ Which of the following statements regarding the polymerase chain reaction is FALSE?
+
+<li>A. Human DNA polymerase is used because it is the most accurate.</li>
+<li>B. A primer must be prepared with a complementary sequence to part of the DNA of interest.</li>
+<li>C. Repeated heating and cooling cycles allow the enzymes to act specifically and replaces helicase.</li>
+<li>D. Each cycle of the polymerase chain reaction doubles the amount of DNA of interest.</li>
+
+Correct Answer:
+ A
+Explanation:
+The polymerase chain reaction is used to clone a sequence of DNA using a DNA sample, a primer, free nucleotides, and enzymes. The polymerase from <i>Thermus aquaticus</i> is used because the reaction is regulated by thermal cycling, which would denature human enzymes.
+Question: 84
+ Restriction endonucleases are used for which of the following?
+
+<li>A. I only</li>
+<li>B. II only</li>
+<li>C. II and III only</li>
+<li>D. I, II, and III</li>
+
+Correct Answer:
+I. Gene therapy
+Explanation:
+III. DNA repair
+Question: 85
+ How does prokaryotic DNA differ from eukaryotic DNA?
+
+<li>A. I only</li>
+<li>B. IV only</li>
+<li>C. II and III only</li>
+<li>D. I, II, and III only</li>
+
+Correct Answer:
+I. Prokaryotic DNA lacks nucleosomes.
+Explanation:
+III. Prokaryotic DNA is replicated by a different DNA polymerase.
+Question: 86
+ Why might uracil be excluded from DNA but NOT RNA?
+
+<li>A. Uracil is much more difficult to synthesize than thymine.</li>
+<li>B. Uracil binds adenine too strongly for replication.</li>
+<li>C. Cytosine degradation results in uracil.</li>
+<li>D. Uracil is used as a DNA synthesis activator.</li>
+
+Correct Answer:
+ C
+Explanation:
+One common DNA mutation is the transition from cytosine to uracil in the presence of heat. DNA repair enzymes recognize uracil and correct this error by excising the base and inserting cytosine. RNA exists only transiently in the cell, such that cytosine degradation is insignificant. Were uracil to be used in DNA under normal circumstances, it would be impossible to tell if a base <i>should</i> be uracil or if it is a damaged cytosine nucleotide.
+Question: 87
+ Tumor suppressor genes are most likely to result in cancer through:
+
+<li>A. loss of function mutations.</li>
+<li>B. gain of function mutations.</li>
+<li>C. overexpression.</li>
+<li>D. proto-oncogene formation.</li>
+
+Correct Answer:
+ A
+Explanation:
+Oncogenes are most likely to result in cancer through activation, <b>choice (B)</b>, while tumor suppressor genes are most likely to result in cancer through inactivation.
+Question: 88
+ Which of the following is an ethical concern of gene sequencing?
+
+<li>A. Gene sequencing is invasive, thus the potential health risks must be thoroughly explained.</li>
+<li>B. Gene sequencing impacts relatives, thus privacy concerns may be raised.</li>
+<li>C. Gene sequencing is very inaccurate, which increases anxiety related to findings.</li>
+<li>D. Gene sequencing can provide false-negative results, giving a false sense of security.</li>
+
+Correct Answer:
+ B
+Explanation:
+One of the primary ethical concerns related to gene sequencing is the issue of consent and privacy. Because genetic screening provides information on direct relatives, there are potential violations of privacy in communicating this information to family members who may be at risk. There are not significant physical risks, eliminating <b>choice (A)</b>, and gene sequencing is fairly accurate, eliminating<b> choices (C)</b> and <b>(D)</b>.
+Question: 89
+ Which of the following is NOT a difference between heterochromatin and euchromatin?
+
+<li>A. Euchromatin has areas that can be transcribed, whereas heterochromatin is silent.</li>
+<li>B. Heterochromatin is tightly packed, whereas euchromatin is less dense.</li>
+<li>C. Heterochromatin stains darkly, whereas euchromatin stains lightly.</li>
+<li>D. Heterochromatin is found in the nucleus, whereas euchromatin is in the cytoplasm.</li>
+
+Correct Answer:
+ D
+Explanation:
+Euchromatin has a classic “beads on a string” appearance that stains lightly, while heterochromatin is tightly packed and stains darkly. Heterochromatin is primarily composed of inactive genes or untranslated regions, while euchromatin is able to be expressed. All chromatin is found in the nucleus, not the cytoplasm.
+Question: 90
+ During which phase of the cell cycle are DNA repair mechanisms least active?
+
+<li>A. G<sub>1</sub></li>
+<li>B. S</li>
+<li>C. G<sub>2</sub></li>
+<li>D. M</li>
+
+Correct Answer:
+ D
+Explanation:
+Mismatch repair mechanisms are active during S phase (proofreading) and G<sub>2</sub> phase (<i>MSH2</i> and <i>MLH1</i>), eliminating <b>choices (B)</b> and <b>(C)</b>. Nucleotide and base excision repair mechanisms are most active during the G<sub>1</sub> and G<sub>2</sub> phases, also eliminating <b>choice (A)</b>. These mechanisms exist during interphase because they are aimed at <i>preventing</i> propagation of the error into daughter cells during M phase (mitosis).
+Question: 91
+ What role does peptidyl transferase play in protein synthesis?
+
+<li>A. It transports the initiator aminoacyl-tRNA complex.</li>
+<li>B. It helps the ribosome to advance three nucleotides along the mRNA in the 5′ to 3′ direction.</li>
+<li>C. It holds the protein in its tertiary structure.</li>
+<li>D. It catalyzes the formation of a peptide bond.</li>
+
+Correct Answer:
+ D
+Explanation:
+Peptidyl transferase is an enzyme that catalyzes the formation of a peptide bond between the incoming amino acid in the A site and the growing polypeptide chain in the P site. Initiation and elongation factors help transport charged tRNA molecules into the ribosome and advance the ribosome down the mRNA transcript, as in <b>choices (A)</b> and <b>(B)</b>. Chaperones maintain a protein’s three-dimensional shape as it is formed, as in <b>choice (C)</b>.
+Question: 92
+ Which stage of protein synthesis does NOT require energy?
+
+<li>A. Initiation</li>
+<li>B. Elongation</li>
+<li>C. Termination</li>
+<li>D. All stages of protein synthesis require energy.</li>
+
+Correct Answer:
+ D
+Explanation:
+All three stages of protein synthesis (initiation, elongation, and termination) require large amounts of energy.
+Question: 93
+ Topoisomerases are enzymes involved in:
+
+<li>A. DNA replication and transcription.</li>
+<li>B. posttranscriptional processing.</li>
+<li>C. RNA synthesis and translation.</li>
+<li>D. posttranslational processing.</li>
+
+Correct Answer:
+ A
+Explanation:
+Topoisomerases, such as DNA gyrase, are involved in DNA replication and mRNA synthesis (transcription). DNA gyrase is a type of topoisomerase that enhances the action of helicase enzymes by the introduction of negative supercoils into the DNA molecule. These negative supercoils facilitate DNA replication by keeping the strands separated and untangled.
+Question: 94
+ Val-tRNA<sup>Val</sup> is the tRNA that carries valine to the ribosome during translation. Which of the following sequences gives an appropriate anticodon for this tRNA? (Note: Refer back to Figure 7.5 for a genetic code table.)
+
+<li>A. CAU</li>
+<li>B. AUC</li>
+<li>C. UAC</li>
+<li>D. GUG</li>
+
+Correct Answer:
+ C
+Explanation:
+There are four different codons for valine: GUU, GUC, GUA, and GUG. Through base-pairing, we can determine that the proper anticodon must end with “AC.” Remember that the codon and anticodon are antiparallel to each other, and that nucleic acids are always written 5′ → 3′ on the MCAT. Therefore, we are looking for an answer that ends with “AC” (rather than starting with “CA”).
+Question: 95
+ Enhancers are transcriptional regulatory sequences that function by enhancing the activity of:
+
+<li>A. RNA polymerase at a single promoter site.</li>
+<li>B. RNA polymerase at multiple promoter sites.</li>
+<li>C. spliceosomes and lariat formation in the ribosome.</li>
+<li>D. transcription factors that bind to the promoter but not to RNA polymerase.</li>
+
+Correct Answer:
+ A
+Explanation:
+Specific transcription factors bind to a specific DNA sequence, such as an enhancer, and to RNA polymerase at a single promoter sequence. They enable the RNA polymerase to transcribe the specific gene for that enhancer more efficiently.
+Question: 96
+ In the genetic code of human nuclear DNA, one of the codons specifying the amino acid tyrosine is UAC. If one nucleotide is changed, and the codon is mutated to UAG, what type of mutation will occur?
+
+<li>A. Silent mutation</li>
+<li>B. Missense mutation</li>
+<li>C. Nonsense mutation</li>
+<li>D. Frameshift mutation</li>
+
+Correct Answer:
+ C
+Explanation:
+UAG is one of the three known stop codons, so changing tyrosine to a stop codon must be a nonsense (or truncation) mutation.
+Question: 97
+ A double-stranded RNA genome isolated from a virus was found to contain 15% uracil. What percentage of guanine should exist in this virus's genome?
+
+<li>A. 15%</li>
+<li>B. 35%</li>
+<li>C. 70%</li>
+<li>D. 85%</li>
+
+Correct Answer:
+ B
+Explanation:
+The percentage of uracil must equal that of adenine due to base-pairing. This accounts for 30% of the genome. The remaining 70% must be split evenly between guanine and cytosine, so they each account for 35% of the genome.
+Question: 98
+ When trypsin converts chymotrypsinogen to chymotrypsin, some molecules of chymotrypsin bind to a repressor, which in turn binds to the operator and prevents further transcription of trypsin. This is most similar to which of the following operons?
+
+<li>A. <i>trp</i> operon during lack of tryptophan</li>
+<li>B. <i>trp</i> operon during abundance of tryptophan</li>
+<li>C. <i>lac</i> operon during lack of lactose</li>
+<li>D. <i>lac</i> operon during abundance of lactose</li>
+
+Correct Answer:
+ B
+Explanation:
+The example given is a sample of repression due to the abundance of a corepressor. In other words, this is a repressible system that is currently blocking transcription. For the <i>trp</i> operon, an abundance of tryptophan in the environment allows for the repressor to bind tryptophan and then to the operator site. This blocks transcription of the genes required to synthesize tryptophan within the cell. The system described is a repressible system; the <i>lac</i> operon is an inducible system, in which an inducer binds to the repressor, thus permitting transcription.
+Question: 99
+ Which of the following RNA molecules or proteins is NOT found in the spliceosome during intron excision?
+
+<li>A. snRNA</li>
+<li>B. hnRNA</li>
+<li>C. shRNA</li>
+<li>D. snRNPs</li>
+
+Correct Answer:
+ C
+Explanation:
+shRNA (short hairpin RNA) is a useful biotechnology tool used in RNA interference. It is not, however, produced in the nucleus for use in the spliceosome. It targets mRNA to be degraded in the cytoplasm; it is not utilized in splicing of the hnRNA (heterogeneous nuclear RNA). snRNA (small nuclear RNA) and snRNPs (small nuclear ribonucleoproteins), however, do bind to the hnRNA to induce splicing.
+Question: 100
+ A 4-year old toddler with cystic fibrosis (CF) is seen by his physician for an upper respiratory infection. Prior genetic testing has shown that there has been a deletion of three base pairs in exon 10 of the <i>CFTR</i> gene that affects codons 507 and 508. The nucleotide sequence in this region for normal and mutant alleles is shown below (X denotes the missing nucleotide):
+
+<li>A. Deletion of a phenylalanine residue with no change in the C-terminus sequence.</li>
+<li>B. Deletion of a leucine residue with no change in the C-terminus sequence.</li>
+<li>C. Deletion of a phenylalanine residue with a change in the C-terminus sequence.</li>
+<li>D. Deletion of a leucine residue with a change in the C-terminus sequence.</li>
+
+Correct Answer:
+What effect will this mutation have on the amino acid sequence of the protein encoded by the <i>CFTR</i> gene?
+Explanation:
+<strong>Explanation:</strong>
+Question: 101
+ A gene encodes a protein with 150 amino acids. There is one intron of 1000 base pairs (bp), a 5′-untranslated region of 100 bp, and a 3′-untranslated region of 200 bp. In the final mRNA, about how many bases lie between the start AUG codon and final termination codon?
+
+<li>A. 150</li>
+<li>B. 450</li>
+<li>C. 650</li>
+<li>D. 1750</li>
+
+Correct Answer:
+ B
+Explanation:
+The untranslated regions of the mRNA will not be turned into amino acids. Translation will begin with codon 1 (which would be AUG). Because there are 150 amino acids, we can surmise that there will be 151 codons. Each codon will use 3 nucleotides, so 150 × 3 = 450 because codon 151 will be the stop codon.
+Question: 102
+ Peptidyl transferase connects the carboxylate group of the one amino acid to the amino group of an incoming amino acid. What type of linkage is created in this peptide bond?
+
+<li>A. Ester</li>
+<li>B. Amide</li>
+<li>C. Anhydride</li>
+<li>D. Ether</li>
+
+Correct Answer:
+ B
+Explanation:
+Peptidyl transferase connects the incoming amino terminal to the previous carboxyl terminal; the only functional group listed here with a carboxyl and amine group is the amide. Peptide bonds are thus amide linkages, and the correct answer is <b>choice (B)</b>.
+Question: 103
+ A eukaryotic cell has been found to exhibit a truncation mutation that creates an inactive RNA polymerase I enzyme. Which type of RNA will be affected by this inactivation?
+
+<li>A. rRNA</li>
+<li>B. tRNA</li>
+<li>C. snRNA</li>
+<li>D. hnRNA</li>
+
+Correct Answer:
+ A
+Explanation:
+RNA polymerase I in eukaryotes is found in the nucleolus and is in charge of transcribing most of the rRNA for use during ribosomal creation. RNA polymerase II is responsible for hnRNA and snRNA. RNA polymerase III is responsible for tRNA and the 5S rRNA.
+Question: 104
+ You have just sequenced a piece of DNA that reads as follows:
+
+<li>A. 5′—AGAAACUCUGUAGG—3′</li>
+<li>B. 5′—GGAUGUCUCAAAGA—3′</li>
+<li>C. 5′—AGAAACTCTGTAGG—3′</li>
+<li>D. 5′—GGATCTCTCAAAGA—3′</li>
+
+Correct Answer:
+5′—TCTTTGAGACATCC—3′
+Explanation:
+<strong>Correct Answer:</strong> B
+Question: 105
+ Double-stranded RNA cannot be translated by the ribosome and is marked for degradation in the cell. Which of the following strands of RNA would prevent mature mRNA in the cytoplasm from being transcribed?
+
+<li>A. Identical mRNA to the one produced</li>
+<li>B. Antisense mRNA to the one produced</li>
+<li>C. mRNA with thymine substituted for uracil</li>
+<li>D. Sense mRNA to the one produced</li>
+
+Correct Answer:
+ B
+Explanation:
+The mRNA produced has the same structure as the sense strand of DNA (with uracils instead of thymines). Because bonding of nucleic acids is always complementary but antiparallel, the antisense strand of mRNA would be the one that binds to the produced mRNA, creating double-stranded RNA that is then degraded once found in the cytoplasm.
+Question: 106
+ A student is trying to determine the type of membrane transport occurring in a cell. She finds that the molecule to be transported is very large and polar, and when transported across the membrane, no energy is required. Which of the following is the most likely mechanism of transport?
+
+<li>A. Active transport</li>
+<li>B. Simple diffusion</li>
+<li>C. Facilitated diffusion</li>
+<li>D. Exocytosis</li>
+
+Correct Answer:
+ C
+Explanation:
+We are asked to identify the type of transport that would allow a large, polar molecule to cross the membrane without any energy expenditure. This scenario describes facilitated diffusion, which uses a transport protein (or channel) to facilitate the movement of large, polar molecules across the nonpolar, hydrophobic membrane. Facilitated diffusion, like simple diffusion, does not require energy, which explains why no ATP was consumed during this transport process.
+Question: 107
+ A researcher treats a solution containing animal cells with ouabain, a poisonous substance that interferes with the sodium–potassium ATPase embedded in the cell membrane, and the cell lyses as a result. Which of the following statements best describes ouabain's effects?
+
+<li>A. Treatment with ouabain results in high levels of extracellular calcium.</li>
+<li>B. Treatment with ouabain results in high levels of extracellular potassium and sodium.</li>
+<li>C. Treatment with ouabain increases intracellular concentrations of sodium.</li>
+<li>D. Treatment with ouabain decreases intracellular concentrations of sodium.</li>
+
+Correct Answer:
+ C
+Explanation:
+This question requires an understanding of osmosis and the action of the sodium–potassium pump. When a cell is placed in a hypertonic solution (a solution having a higher solute concentration than the cell), fluid will diffuse out of the cell and result in cell shrinkage. When a cell is placed in hypotonic solution (a solution having a lower solute concentration than the cell), fluid will diffuse from the solution into the cell, causing the cell to expand and possibly lyse. The sodium–potassium pump moves three sodium ions out of the cell for every two potassium ions it lets into the cell. Therefore, inhibition of the sodium–potassium pump by ouabain will cause a net increase in the sodium concentration inside the cell and water will diffuse in, causing the cell to swell and then lyse.
+Question: 108
+ Resting membrane potential depends on:
+
+<li>A. I only</li>
+<li>B. I and III only</li>
+<li>C. II and III only</li>
+<li>D. I, II, and III</li>
+
+Correct Answer:
+I. the differential distribution of ions across the membrane.
+Explanation:
+III. selective permeability of the phospholipid bilayer.
+Question: 109
+ Which of the following is NOT a function of the cell membrane?
+
+<li>A. Cytoskeletal attachment</li>
+<li>B. Protein synthesis</li>
+<li>C. Transport regulation</li>
+<li>D. Second messenger reservoir</li>
+
+Correct Answer:
+ B
+Explanation:
+Ribosomes are the site of protein synthesis within a cell and are not coupled to the cell membrane. The cell membrane functions as a site for cytoskeletal attachment, <b>choice (A)</b>, through proteins and lipid rafts. Transport regulation, <b>choice (C)</b>, is accomplished through channels, transporters, and selective permeability, while the phospholipids act as a reagent for second messenger formation, <b>choice (D)</b>.
+Question: 110
+ The dynamic properties of molecules in the cell membrane are most rapid in:
+
+<li>A. phospholipids moving within the plane of the membrane.</li>
+<li>B. phospholipids moving between the planes of the membrane.</li>
+<li>C. proteins moving within the plane of the membrane.</li>
+<li>D. proteins exiting the cell through exocytosis.</li>
+
+Correct Answer:
+ A
+Explanation:
+Movement of individual molecules in the cell membrane will be affected by size and polarity, just as with diffusion. Lipids are much smaller than proteins in the plasma membrane and will move more quickly. Lipids will move fastest within the plane of the cell membrane because the polar head group does not need to pass through the hydrophobic tail region in the same way that it would if it were moving between the membrane planes.
+Question: 111
+ Which lipid type is LEAST likely to contribute to membrane fluidity?
+
+<li>A. Unsaturated glycerophospholipids</li>
+<li>B. <i>trans</i> glycerophospholipids</li>
+<li>C. Cholesterol</li>
+<li>D. Unsaturated sphingolipids</li>
+
+Correct Answer:
+ B
+Explanation:
+Compounds that contribute to membrane fluidity will lower the melting point or disrupt the crystal structure. Cholesterol, <b>choice (C)</b>, and unsaturated lipids, <b>choices (A)</b> and <b>(D)</b>, are known for these functions. <i>trans</i> glycerophospholipids tend to increase the melting point of the membrane and therefore decrease membrane fluidity.
+Question: 112
+ A membrane receptor is most likely to be a(n):
+
+<li>A. embedded protein with catalytic activity.</li>
+<li>B. transmembrane protein with sequestration activity.</li>
+<li>C. membrane-associated protein with sequestration activity.</li>
+<li>D. transmembrane protein with catalytic activity.</li>
+
+Correct Answer:
+ D
+Explanation:
+Membrane receptors must have both an extracellular and intracellular domain; therefore, they are considered transmembrane proteins. In order to initiate a second messenger cascade, they typically display enzymatic activity, though some may act strictly as channels.
+Question: 113
+ Which of the following is NOT a cell–cell junction in animals?
+
+<li>A. Desmosomes</li>
+<li>B. Gap junctions</li>
+<li>C. Plasmodesmata</li>
+<li>D. Tight junctions</li>
+
+Correct Answer:
+ C
+Explanation:
+Plasmodesmata are cell–cell junctions that are found in plants, not animals. Gap junctions, tight junctions, desmosomes, and hemidesmosomes are all found in animals, particularly epithelia.
+Question: 114
+ Which of the following is true of diffusion and osmosis?
+
+<li>A. Diffusion and osmosis rely on the electrochemical gradient of only the compound of interest.</li>
+<li>B. Diffusion and osmosis rely on the electrochemical gradient of all compounds in a cell.</li>
+<li>C. Diffusion and osmosis will proceed in the same direction if there is only one solute.</li>
+<li>D. Diffusion and osmosis cannot occur simultaneously.</li>
+
+Correct Answer:
+ A
+Explanation:
+The movement of any solute or water by diffusion or osmosis is dependent only on the concentration gradient of that molecule and on membrane permeability.
+Question: 115
+ The bulk movement of liquid into a cell through vesicular infoldings is known as:
+
+<li>A. phagocytosis.</li>
+<li>B. pinocytosis.</li>
+<li>C. exocytosis.</li>
+<li>D. drinking.</li>
+
+Correct Answer:
+ B
+Explanation:
+The endocytosis (bulk uptake through vesicle formation) of fluid is known as pinocytosis. Phagocytosis, <b>choice (A)</b>, is the endocytotic intake of solids, while exocytosis, <b>choice (C)</b>, is a method of releasing vesicular contents. Drinking, <b>choice (D)</b>, does not apply on a cellular level.
+Question: 116
+ Which of the following is LEAST likely to be the resting membrane potential of a cell?
+
+<li>A. –70 mV</li>
+<li>B. –55 mV</li>
+<li>C. 0 mV</li>
+<li>D. +35 mV</li>
+
+Correct Answer:
+ C
+Explanation:
+Cell membranes are most likely to have a resting membrane potential that is nonzero because the resting membrane potential creates a state that is capable of responding to stimuli. Signaling molecules and channels would not be as useful with a membrane potential of zero. The values given in the answer choices correspond to different stages of the action potential, but the key information is that a resting potential of 0 mV does not maintain gradients for later activity.
+Question: 117
+ How does the inner mitochondrial membrane differ from the outer mitochondrial membrane?
+
+<li>A. The inner mitochondrial membrane is more permeable and lacks cholesterol.</li>
+<li>B. The inner mitochondrial membrane is less permeable and lacks cholesterol.</li>
+<li>C. The inner mitochondrial membrane is more permeable and has cholesterol.</li>
+<li>D. The inner mitochondrial membrane is less permeable and has cholesterol.</li>
+
+Correct Answer:
+ B
+Explanation:
+The outer mitochondrial membrane is very permeable while the inner membrane is highly impermeable. The inner mitochondrial membrane is unique within the cell because it lacks cholesterol.
+Question: 118
+ For most cells, the extracellular calcium concentration is around 10,000 times higher than the intracellular calcium concentration. What is the membrane potential established by this electrochemical gradient?
+
+<li>A. –123 mV</li>
+<li>B. –61.5 mV</li>
+<li>C. +61.5 mV</li>
+<li>D. +123 mV</li>
+
+Correct Answer:
+ D
+Explanation:
+The Nernst equation relates the intra- and extracellular concentrations of an ion to the potential created by that gradient. At physiological temperature, it can be simplified to <img src="/images/mcat/biochem/1/00206.gif">. For calcium, <span><i>z</i> = +2 (Ca<sup>2+</sup>)</span> and the ratio of <span>[ion<sub>outside</sub>]</span> to <span>[ion<sub>inside</sub>] = 10<sup>4</sup></span>. Plugging in, we get.
+Question: 119
+ Which of the following statements conflicts with the fluid mosaic model?
+
+<li>A. The cell membrane is static in structure.</li>
+<li>B. Membrane components can be derived from multiple biomolecules.</li>
+<li>C. Hydrophobic interactions stabilize the lipid bilayer.</li>
+<li>D. Proteins are asymmetrically distributed within the cell membrane.</li>
+
+Correct Answer:
+ A
+Explanation:
+The fluid mosaic model accounts for a dynamic membrane. In this model, membrane components contain both fatty and carbohydrate-derived components, eliminating <b>choice (B)</b>. Further, the membrane is stabilized by the hydrophobic interactions of both fatty acid tails and membrane proteins, which may be found on the cytosolic or extracellular side of the membrane, or may run directly through the membrane; thus, <b>choices (C)</b> and <b>(D)</b> are also eliminated.
+Question: 120
+ Which of the following is a sphingolipid?
+
+<li>A. Lecithin</li>
+<li>B. Phosphatidylinositol</li>
+<li>C. Cholesterol</li>
+<li>D. Gangliosides</li>
+
+Correct Answer:
+ D
+Explanation:
+Gangliosides, along with ceramide, sphingomyelin, and cerebrosides, are sphingolipids.
+Question: 121
+ A man collapses while running a marathon and is taken to the emergency room. His blood is found to be somewhat acidic, and further tests show increased lactate dehydrogenase activity. This enzyme is involved in which of the following pathways?
+
+<li>A. Anaerobic glycolysis</li>
+<li>B. <i>β</i>-Oxidation of fatty acids</li>
+<li>C. Citric acid cycle</li>
+<li>D. Pentose phosphate pathway</li>
+
+Correct Answer:
+ A
+Explanation:
+Under normal conditions, when oxygen is readily available, the pyruvate generated in glycolysis enters the mitochondrion and is converted into acetyl-CoA by the action of pyruvate dehydrogenase. During strenuous exercise, particularly by individuals in poor physical condition, the oxygen demands of the skeletal muscle may exceed the ability of the heart and lungs to provide oxygen. In this setting, the muscles switch to anaerobic glycolysis, and the pyruvate that is produced is converted to lactate by the action of lactate dehydrogenase.
+Question: 122
+ Which of the following organs does NOT require a constant supply of glucose from the blood for energy during a fast?
+
+<li>A. Red blood cells</li>
+<li>B. Brain</li>
+<li>C. Pancreas</li>
+<li>D. Liver</li>
+
+Correct Answer:
+ D
+Explanation:
+The liver, like all cells, needs a constant supply of glucose; however, it is able to produce its own glucose through gluconeogenesis (cells in the kidney can also complete low levels of gluconeogenesis). The other cells listed here are absolutely dependent on a glucose source from the blood for energy, although they may also use other fuels in addition to glucose. For example, the brain can utilize ketone bodies during lengthy periods of starvation; however, it still requires at least some glucose for proper function.
+Question: 123
+ When insulin is released, it acts to increase the absorption of glucose into skeletal muscle predominantly through which of the following transporters?
+
+<li>A. GLUT 1</li>
+<li>B. GLUT 2</li>
+<li>C. GLUT 3</li>
+<li>D. GLUT 4</li>
+
+Correct Answer:
+ D
+Explanation:
+GLUT is an abbreviation for glucose transporter and describes a family of sugar transporters with varying distributions and activities. GLUT 4 is found in adipose tissue and muscle, and mediates insulin-stimulated glucose uptake; in fact, it is the only insulin-responsive glucose transporter. Insulin acts via its receptor to translocate GLUT 4 to the plasma membrane. GLUT 4 in skeletal and cardiac muscle is also stimulated by exercise through an insulin-independent pathway.
+Question: 124
+ After an overnight fast, which of the following enzymes would be expected to have little, if any, physiological activity?
+
+<li>A. Malate dehydrogenase</li>
+<li>B. Glucokinase</li>
+<li>C. <i>α</i>-Ketoglutarate dehydrogenase</li>
+<li>D. Phosphofructokinase-1</li>
+
+Correct Answer:
+ B
+Explanation:
+After an overnight fast, the liver is producing glucose and glucokinase activity would be insignificant. Glucokinase is used to trap extra glucose in liver cells as part of a storage mechanism; with low blood glucose, liver cells would be generating new glucose, not storing it. It is also in the pancreas, where it serves as a glucose sensor; if glucose levels are low, it has little activity in this tissue as well. Malate dehydrogenase, <b>choice (A)</b>, and <span><i>α</i></span>-ketoglutarate dehydrogenase, <b>choice (C)</b>, are citric acid cycle enzymes. Phosphofructokinase-1, <b>choice (B)</b>, is a glycolytic enzyme. Other enzymes used in glycolysis, the citric acid cycle, or gluconeogenesis, such as phosphofructokinase-1, would be expected to maintain normal activity after an overnight fast, using glucose derived from glycogen or gluconeogenesis, rather than orally ingested glucose.
+Question: 125
+ The diagram below shows the effects of arsenic on the metabolism of glyceraldehyde 3-phosphate. As a result, in the presence of arsenic, how many molecules of ATP would be created directly from the conversion of two glucose molecules to four pyruvate molecules?
+
+<li>A. 0</li>
+<li>B. 1</li>
+<li>C. 2</li>
+<li>D. 4</li>
+
+Correct Answer:
+<img src="/images/mcat/biochem/1/00223.gif">
+Explanation:
+<strong>Explanation:</strong>
+Question: 126
+ When fatty acid <i>β</i>-oxidation predominates in the liver, mitochondrial pyruvate is most likely to be:
+
+<li>A. carboxylated to phosphoenolpyruvate for entry into gluconeogenesis.</li>
+<li>B. oxidatively decarboxylated to acetyl-CoA for oxidation in the citric acid cycle.</li>
+<li>C. carboxylated to oxaloacetate for entry into gluconeogenesis.</li>
+<li>D. reduced to lactate in the process of fermentation.</li>
+
+Correct Answer:
+ C
+Explanation:
+Pyruvate is converted primarily into three main intermediates: acetyl-CoA (<b>choice (B)</b>) for the citric acid cycle (via pyruvate dehydrogenase), lactate (<b>choice (D)</b>) during fermentation (via lactate dehydrogenase), or oxaloacetate (<b>choice (C)</b>) for gluconeogenesis (via pyruvate carboxylase). High levels of acetyl-CoA, which is produced during <span><i>β</i></span>-oxidation, will inhibit pyruvate dehydrogenase and shift the citric acid cycle to run in the reverse direction, producing oxaloacetate for gluconeogenesis. Acetyl-CoA also stimulates pyruvate carboxylase directly.
+Question: 127
+ A biopsy is done on a child with an enlarged liver and shows accumulation of glycogen granules with single glucose residues remaining at the branch points near the periphery of the granule. The most likely genetic defect is in the gene encoding:
+
+<li>A. <i>α</i>-1,4 phosphorylase (glycogen phosphorylase).</li>
+<li>B. <i>α</i>-1,4:<i>α</i>-1,6 transferase (branching enzyme).</li>
+<li>C. <i>α</i>-1,4:<i>α</i>-1,4 transferase (part of debranching enzyme complex).</li>
+<li>D. <i>α</i>-1,6 glucosidase (part of debranching enzyme complex).</li>
+
+Correct Answer:
+ D
+Explanation:
+The pattern described for this child’s glycogen demonstrates appropriate production: there are long chains of glucose monomers, implying that glycogen synthase works. There are also branch points, implying that branching enzyme, <b>choice (B)</b> works. During glycogenolysis, it seems that the child is able to remove individual glucose monomers and process glycogen down to the branch point itself, which requires glycogen phosphorylase, <b>choice (A)</b>, and <span><i>α</i></span>-1,4:<span><i>α</i></span>-1,4 transferase, <b>choice (C)</b>. The metabolic problem here is removing the final glucose at the branch point, which is an <span><i>α</i></span>-1,6 (not <span><i>α</i></span>-1,4) link. This requires <b>choice (D)</b>, <span><i>α</i></span>-1,6 glucosidase.
+Question: 128
+ An investigator is measuring the activity of various enzymes involved in reactions of intermediary metabolism. One of the enzymes has greatly decreased activity compared to reference values. The buffer of the assay contains citrate. Which of the following enzymes will most likely be directly affected by the use of citrate?
+
+<li>A. Fructose-2,6-bisphosphatase</li>
+<li>B. Isocitrate dehydrogenase</li>
+<li>C. Phosphofructokinase-1</li>
+<li>D. Pyruvate carboxylase</li>
+
+Correct Answer:
+ C
+Explanation:
+Citrate is produced by citrate synthase from acetyl-CoA and oxaloacetate. This reaction takes place in the mitochondria. When the citric acid cycle slows down, citrate accumulates. In the cytosol, it acts as a negative allosteric regulator of phosphofructokinase-1, the enzyme that catalyzes the rate-limiting step of glycolysis.
+Question: 129
+ After a brief period of intense exercise, the activity of muscle pyruvate dehydrogenase is greatly increased. This increased activity is most likely due to:
+
+<li>A. decreased ADP.</li>
+<li>B. increased acetyl-CoA.</li>
+<li>C. increased NADH/NAD<sup>+</sup> ratio.</li>
+<li>D. increased pyruvate concentration.</li>
+
+Correct Answer:
+ D
+Explanation:
+In most biochemical pathways, only a few enzymatic reactions are under regulatory control. These often occur either at the beginning of pathways or at pathway branch points. The pyruvate dehydrogenase (PDH) complex controls the link between glycolysis and the citric acid cycle, and decarboxylates pyruvate (the end product of glycolysis) with production of NADH and acetyl-CoA (the substrate for the citric acid cycle). After intense exercise, one would expect PDH to be highly active to generate ATP. ADP levels (<b>choice (A)</b>) should be high because ATP was just burned by the muscle. Acetyl-CoA (<b>choice (B)</b>) is an inhibitor of PDH, causing a shift of pyruvate into the gluconeogenesis pathway. A high NADH/NAD<sup>+</sup> ratio (<b>choice (C)</b>) would imply that the cell is already energetically satisfied and not in need of energy, which would not be expected in intensely exercising muscle.
+Question: 130
+ After a large, well-balanced meal, all of the following substances would be expected to be elevated EXCEPT:
+
+<li>A. fatty acids.</li>
+<li>B. insulin.</li>
+<li>C. glucose.</li>
+<li>D. glucagon.</li>
+
+Correct Answer:
+ D
+Explanation:
+After a large meal, one would expect blood to contain high levels of nutrients, such as glucose (<b>choice (C)</b>) and fatty acids (<b>choice (A)</b>), as well as regulators telling the body to utilize and store this fuel, like insulin (<b>choice (B)</b>). Glucagon is a peptide hormone used to raise blood sugar levels by promoting, among other processes, glycogenolysis and gluconeogenesis. Glucagon should be elevated during a fast.
+Question: 131
+ A man is given antibiotics to treat a urinary tract infection and develops an episode of red blood cell lysis. Further studies show weakness of the plasma membrane and Heinz bodies (collections of oxidized hemoglobin). Which of the following enzymes is most likely defective in this patient?
+
+<li>A. Fructose-1,6-bisphosphatase</li>
+<li>B. Glucose-6-phosphate dehydrogenase</li>
+<li>C. Hexokinase</li>
+<li>D. Pyruvate kinase</li>
+
+Correct Answer:
+ B
+Explanation:
+Based on the question stem, we can infer that the antibiotics must have been an oxidative stress on the patient (indeed, antibiotics, antimalarial medications, infections, certain foods like fava beans, and other common exposures can induce an oxidative stress). The pentose phosphate pathway is responsible for generating NADPH, which is used to reduce glutathione, one of the natural antioxidants present in the body. In individuals with glucose-6-phosphate dehydrogenase (G 6PD) deficiency, NADPH cannot be produced at sufficient levels, and oxidative stresses lead to cell membrane and protein (hemoglobin) damage. Note that you do not need to actually know the disease to answer this question; merely knowing that the enzyme must be from the pentose phosphate pathway, which is involved in mitigating oxidative stress, is sufficient.
+Question: 132
+ The unique enzymes of gluconeogenesis are used to circumvent specific irreversible steps of glycolysis. Which of the following correctly pairs an enzyme from glycolysis with its corresponding enzyme(s) used in gluconeogenesis?
+
+<li>A. Phosphofructokinase-1 / fructose-1,6-bisphosphatase</li>
+<li>B. Pyruvate dehydrogenase / pyruvate carboxylase and phosphoenolpyruvate carboxykinase</li>
+<li>C. Hexokinase / glucokinase</li>
+<li>D. Pyruvate kinase / glucose-6-phosphatase</li>
+
+Correct Answer:
+ A
+Explanation:
+The irreversible enzymes in glycolysis are hexokinase (or glucokinase in liver and pancreatic <span><i>β</i></span>-cells), phosphofructokinase-1, and pyruvate kinase. Pyruvate dehydrogenase is not considered a glycolytic enzyme because it requires the mitochondria to function. The list below shows the correct pairing of glycolytic enzymes with gluconeogenic enzymes:
+Question: 133
+ After an overnight fast, which of the following processes would be expected to occur at an elevated rate compared with the well-fed state?
+
+<li>A. Glycolysis</li>
+<li>B. Glycogenolysis</li>
+<li>C. Glycogenesis</li>
+<li>D. Glycerol synthesis</li>
+
+Correct Answer:
+ B
+Explanation:
+After a fast, the liver must contribute glucose into the bloodstream through two main processes: glycogenolysis (early to intermediate fasting) and gluconeogenesis (intermediate to late fasting). The other processes would continue at normal basal levels or have decreased activity after a fast.
+Question: 134
+ Which of the following is/are function(s) of NADPH in the cell?
+
+<li>A. I only</li>
+<li>B. I and II only</li>
+<li>C. II and III only</li>
+<li>D. I, II, and III</li>
+
+Correct Answer:
+I. Antimicrobial resistance via bacterial destruction by bleach within lysosomes.
+Explanation:
+III. Functional carriage of energy across organelle membranes for use within the mitochondria
+Question: 135
+ Each of the following catalyzes a rate-limiting step of a carbohydrate metabolism pathway EXCEPT:
+
+<li>A. hexokinase.</li>
+<li>B. glycogen synthase.</li>
+<li>C. glucose-6-phosphate dehydrogenase.</li>
+<li>D. fructose-1,6-bisphosphatase.</li>
+
+Correct Answer:
+ A
+Explanation:
+Hexokinase catalyzes an important irreversible step of glycolysis, but it is not the rate-limiting step. Phosphofructokinase-1 catalyzes the rate-limiting step of glycolysis. Glycogen synthase (<b>choice (B)</b>) catalyzes the rate-limiting step of glycogenesis, glucose-6-phosphate dehydrogenase (<b>choice (C)</b>) catalyzes the rate-limiting step of the pentose phosphate pathway, and fructose-1,6-bisphosphatase (<b>choice (D)</b>) catalyzes the rate-limiting step of gluconeogenesis.
+Question: 136
+ During a myocardial infarction, the oxygen supply to an area of the heart is dramatically reduced, forcing the cardiac myocytes to switch to anaerobic metabolism. Under these conditions, which of the following enzymes would be activated by increased levels of intracellular AMP?
+
+<li>A. Succinate dehydrogenase</li>
+<li>B. Phosphofructokinase-1</li>
+<li>C. Isocitrate dehydrogenase</li>
+<li>D. Pyruvate dehydrogenase</li>
+
+Correct Answer:
+ B
+Explanation:
+Phosphofructokinase-1 (PFK-1), which catalyzes the rate-limiting step of glycolysis, is the only enzyme listed here that functions under anaerobic conditions. The other enzymes are all involved in the oxygen-requiring processes discussed in this chapter. Succinate dehydrogenase, <b>choice (A)</b>, appears in both the citric acid cycle and as part of Complex II of the electron transport chain. Isocitrate dehydrogenase, <b>choice (C)</b>, catalyzes the rate-limiting step of the citric acid cycle. Pyruvate dehydrogenase, <b>choice (D)</b>, is one of the five enzymes that make up the pyruvate dehydrogenase complex.
+Question: 137
+ A patient has been exposed to a toxic compound that increases the permeability of mitochondrial membranes to protons. Which of the following metabolic changes would be expected in this patient?
+
+<li>A. Increased ATP levels</li>
+<li>B. Increased oxygen utilization</li>
+<li>C. Increased ATP synthase activity</li>
+<li>D. Decreased pyruvate dehydrogenase activity</li>
+
+Correct Answer:
+ B
+Explanation:
+The increased permeability of the inner mitochondrial membrane allows the proton-motive force to be dissipated through locations besides the F<sub>0</sub> portion of ATP synthase. Therefore, ATP synthase is less active and is forming less ATP, invalidating <b>choices (A)</b> and <b>(C)</b>. The body will attempt to regenerate the proton-motive force by increasing fuel catabolism, eliminating <b>choice (D)</b>. This increase in fuel use requires more oxygen utilization in the electron transport chain.
+Question: 138
+ Which of the following INCORRECTLY pairs a metabolic process with its site of occurrence?
+
+<li>A. Glycolysis—cytosol</li>
+<li>B. Citric acid cycle—outer mitochondrial membrane</li>
+<li>C. ATP phosphorylation—cytosol and mitochondria</li>
+<li>D. Electron transport chain—inner mitochondrial membrane</li>
+
+Correct Answer:
+ B
+Explanation:
+The citric acid cycle takes place in the mitochondrial matrix, not the outer mitochondrial membrane. While most citric acid cycle enzymes are located within the matrix, succinate dehydrogenase is located on the inner mitochondrial membrane.
+Question: 139
+ Which of the following processes has the following net reaction?
+
+<li>A. Glycolysis</li>
+<li>B. Fermentation</li>
+<li>C. Tricarboxylic acid cycle</li>
+<li>D. Electron transport chain</li>
+
+Correct Answer:
+2 acetyl-CoA + 6 NAD<sup>+</sup> + 2 FAD + 2 GDP + 2 P<sub>i</sub> + 6 H<sub>2</sub>O → 4 CO<sub>2</sub> + 6 NADH + 2 FADH<sub>2</sub> + 2 GTP + 6 H<sup>+</sup> + 2 CoA–SH
+Explanation:
+<strong>Explanation:</strong>
+Question: 140
+ In glucose degradation under aerobic conditions:
+
+<li>A. oxygen is the final electron acceptor.</li>
+<li>B. oxygen is necessary for all ATP synthesis.</li>
+<li>C. net water is consumed.</li>
+<li>D. the proton-motive force is necessary for all ATP synthesis.</li>
+
+Correct Answer:
+ A
+Explanation:
+This question is testing our general knowledge of cellular respiration. Notice that all types of cellular respiration (aerobic and anaerobic) start with the degradation of glucose by glycolysis. In aerobic respiration, oxygen is the final electron acceptor, and water is therefore produced at the end of the electron transport chain. While oxygen is needed for aerobic respiration in order to produce the optimal 32 molecules of ATP per glucose, it is not the only method by which ATP is produced. Glycolysis still provides 2 ATP per glucose without the need for oxygen, thus making <b>choices (B)</b> and <b>(D)</b> incorrect. Water, mentioned in <b>choice (C)</b>, is produced in aerobic metabolism, not consumed.
+Question: 141
+ Fatty acids enter the catabolic pathway in the form of:
+
+<li>A. glycerol.</li>
+<li>B. adipose tissue.</li>
+<li>C. acetyl-CoA.</li>
+<li>D. ketone bodies.</li>
+
+Correct Answer:
+ C
+Explanation:
+Fat molecules stored in adipose tissue can be hydrolyzed by lipases to fatty acids and glycerol. While glycerol can be converted into glyceraldehyde 3-phosphate, a glycolytic intermediate, a fatty acid must first be activated in the cytoplasm by coupling the fatty acid to CoA–SH, forming fatty acyl-CoA. The fatty acid is then transferred to a molecule of carnitine, which can carry it across the inner mitochondrial membrane. Once inside, the fatty acid is transferred to a mitochondrial CoA–SH, reforming fatty acyl-CoA. Through fatty acid oxidation, this fatty acyl-CoA can become acetyl-CoA, which enters the citric acid cycle.
+Question: 142
+ In which of the following reactions is the reactant oxidized?
+
+<li>A. FAD → FADH<sub>2</sub></li>
+<li>B. NAD<sup>+</sup> → NADH</li>
+<li>C. NADPH → NADP<sup>+</sup></li>
+<li>D. ADP → ATP</li>
+
+Correct Answer:
+ C
+Explanation:
+To answer this question, we must remember that reduction is a gain of electrons, while oxidation is a loss of electrons. In the case of the energy-storing molecules of cellular respiration, the high-potential electrons generally come from hydride ions (H<sup>–</sup>). Because the question is asking us to determine in which reaction the reactant gets oxidized, our task is to select the equation in which the reactant loses hydride ions. From the given choices, the only one that matches our prediction is <b>choice (C)</b>. Another way to look at this question is to notice that NADP<sup>+</sup> has a +1 charge, which represents an increase from the zero charge of NADPH, implying than an electron was lost in the conversion from NADPH to NADP<sup>+</sup>.
+Question: 143
+ In which part of the cell is cytochrome <i>c</i> located?
+
+<li>A. Mitochondrial matrix</li>
+<li>B. Outer mitochondrial membrane</li>
+<li>C. Inner mitochondrial membrane</li>
+<li>D. Cytosol</li>
+
+Correct Answer:
+ C
+Explanation:
+Cytochrome <i>c</i> carries electrons from CoQH<sub>2</sub>-cytochrome <i>c</i> oxidoreductase (Complex III) to cytochrome <i>c</i> oxidase (Complex IV) as part of the electron transport chain. The ETC takes place on the inner mitochondrial membrane.
+Question: 144
+ Which of the following correctly shows the amount of ATP produced from the given high-energy carriers?
+
+<li>A. FADH<sub>2</sub> → 1 ATP</li>
+<li>B. FADH<sub>2</sub> → 1.5 ATP</li>
+<li>C. NADH → 3 ATP</li>
+<li>D. NADH → 3.5 ATP</li>
+
+Correct Answer:
+ B
+Explanation:
+During oxidative phosphorylation, energy is harvested from the energy carriers FADH<sub>2</sub> and NADH in order to form ATP. One molecule of mitochondrial FADH<sub>2</sub> is oxidized to produce 1.5 molecules of ATP. Similarly, one molecule of mitochondrial NADH is oxidized to produce 2.5 molecules of ATP in the electron transport chain.
+Question: 145
+ Why is it preferable to cleave thioester links rather than typical ester links in aerobic metabolism?
+
+<li>A. Oxygen must be conserved for the electron transport chain.</li>
+<li>B. Thioester hydrolysis has a higher energy yield.</li>
+<li>C. Typical ester hydrolysis cannot occur <i>in vivo</i>.</li>
+<li>D. Thioester cleavage requires more energy.</li>
+
+Correct Answer:
+ B
+Explanation:
+Thioester links release a great deal of energy when hydrolyzed, making them well-suited as respiration reaction drivers. They are particularly useful because they release more energy than typical ester cleavage. It is thioester formation, not hydrolysis, that requires a great deal of energy, making <b>choice (D)</b> incorrect.
+Question: 146
+ Which enzyme converts GDP to GTP?
+
+<li>A. Nucleosidediphosphate phosphatase</li>
+<li>B. Nucleosidediphosphate kinase</li>
+<li>C. Isocitrate dehydrogenase</li>
+<li>D. Pyruvate dehydrogenase</li>
+
+Correct Answer:
+ B
+Explanation:
+The conversion of GDP to GTP is a phosphorylation reaction, in which a phosphate group is added to a molecule. Such reactions are catalyzed by kinases. Nomenclature is helpful here, as nucleosidediphosphate kinase is the only enzyme that contains <i>kinase</i> in its name.
+Question: 147
+ Which of the following best explains why cytosolic NADH can yield potentially less ATP than mitochondrial NADH?
+
+<li>A. Cytosolic NADH always loses energy when transferring electrons.</li>
+<li>B. Once NADH enters the matrix from the cytosol, it becomes FADH<sub>2</sub>.</li>
+<li>C. Electron transfer from cytosol to matrix can take more than one pathway.</li>
+<li>D. There is an energy cost for bringing cytosolic NADH into the matrix.</li>
+
+Correct Answer:
+ C
+Explanation:
+The wording of these answer choices is critical. The electrons from cytosolic NADH can enter the mitochondrion through one of two shuttle mechanisms: the glycerol 3-phosphate shuttle, which ultimately moves these electrons to mitochondrial FAD, and the malate–aspartate shuttle, which ultimately moves these electrons to mitochondrial NAD<sup>+</sup>. If the electrons are transferred using the malate–aspartate shuttle, then no energy is lost, making <b>choices (A)</b> and <b>(D)</b> incorrect. NADH cannot enter the matrix directly, making <b>choice (B)</b> incorrect. It is the fact that electrons can use more than one pathway—one of which loses energy that could be used for ATP synthesis—that accounts for the potentially decreased yield of ATP from cytosolic NADH.
+Question: 148
+ In high doses, aspirin functions as a mitochondrial uncoupler. How would this affect glycogen stores?
+
+<li>A. It causes depletion of glycogen stores.</li>
+<li>B. It has no effect on glycogen stores.</li>
+<li>C. It promotes additional storage of glucose as glycogen.</li>
+<li>D. Its effect on glycogen stores varies from cell to cell.</li>
+
+Correct Answer:
+ A
+Explanation:
+Uncouplers inhibit ATP synthesis without affecting the electron transport chain. Because the body must burn more fuel to maintain the proton-motive force, glycogen stores will be mobilized to feed into glycolysis, then the TCA, and finally oxidative phosphorylation.
+Question: 149
+ Which complex does not contribute to the proton-motive force?
+
+<li>A. Complex I</li>
+<li>B. Complex II</li>
+<li>C. Complex III</li>
+<li>D. Complex IV</li>
+
+Correct Answer:
+ B
+Explanation:
+Complex II is the only complex of the ETC that does not contribute to the proton gradient. Complexes I and III each add four protons to the gradient; Complex IV adds two protons to the gradient.
+Question: 150
+ Which of the following directly provides the energy needed to form ATP in the mitochondrion?
+
+<li>A. Electron transfer in the electron transport chain</li>
+<li>B. An electrochemical proton gradient</li>
+<li>C. Oxidation of acetyl-CoA</li>
+<li>D. <i>β</i>-Oxidation of fatty acids</li>
+
+Correct Answer:
+ B
+Explanation:
+While all of the other answers contribute to energy production, it is the electrochemical gradient (proton-motive force) that directly drives the phosphorylation of ATP by the F<sub>1</sub> portion of ATP synthase.
+Question: 151
+ Which of the following enzymes is NOT used for lipid digestion in the digestive tract?
+
+<li>A. Pancreatic lipase</li>
+<li>B. Hormone-sensitive lipase</li>
+<li>C. Cholesterol esterase</li>
+<li>D. Colipase</li>
+
+Correct Answer:
+ B
+Explanation:
+Hormone-sensitive lipase responds to low insulin levels as well as cortisol and epinephrine to mobilize fatty acids from adipocytes. It is not involved in digestion, but rather mobilization of fatty acids.
+Question: 152
+ What is the fate of long-chain fatty acids that are contained within micelles?
+
+<li>A. Transport into chylomicrons released into the lymphatic system</li>
+<li>B. Transport into chylomicrons released into the circulatory system</li>
+<li>C. Direct diffusion across the intestine into the circulatory system</li>
+<li>D. Direct diffusion across the intestine into the lymphatic system</li>
+
+Correct Answer:
+ A
+Explanation:
+Short-chain fatty acids are soluble in the intestinal lumen, and thus do not interact with micelles as longer fatty acid chains do. The long-chain fatty acids are taken up by the intestinal cells and packaged into triacylglycerols for transport as chylomicrons. Chylomicrons exit the intestine through lacteals that feed into the lymphatic system, which joins with the bloodstream in the base of the neck through the thoracic duct.
+Question: 153
+ During fatty acid mobilization, which of the following occur(s)?
+
+<li>A. I only</li>
+<li>B. III only</li>
+<li>C. I and II only</li>
+<li>D. II and III only</li>
+
+Correct Answer:
+I. HSL is activated.
+Explanation:
+III. Gluconeogenesis proceeds in adipocytes.
+Question: 154
+ How do chylomicrons and VLDLs differ?
+
+<li>A. Chylomicrons contain apoproteins, VLDLs do not.</li>
+<li>B. Chylomicrons are synthesized in the intestine, VLDLs are synthesized in the liver.</li>
+<li>C. Chylomicrons transport triacylglycerol, VLDLs transport cholesterol.</li>
+<li>D. VLDLs are another term for chylomicron remnants; they differ in age.</li>
+
+Correct Answer:
+ B
+Explanation:
+Chylomicrons and VLDLs are very similar. Both contain apolipoproteins and primarily transport triacylglycerol, eliminating <b>choices (A)</b> and <b>(C)</b>. The only major difference between them is the tissue of origin. Chylomicrons transport dietary triacylglycerol and originate in the small intestine, while VLDLs transport newly synthesized triacylglycerol and originate in the liver.
+Question: 155
+ Which of the following could result from an absence of apolipoproteins?
+
+<li>A. I only</li>
+<li>B. III only</li>
+<li>C. I and II only</li>
+<li>D. I, II, and III</li>
+
+Correct Answer:
+I. An inability to secrete lipid transport lipoproteins.
+Explanation:
+III. A decreased ability to remove excess cholesterol from blood vessels.
+Question: 156
+ Statin drugs inhibit HMG-CoA reductase. As such, they are likely prescribed for:
+
+<li>A. hypercholesterolemia (high cholesterol).</li>
+<li>B. hypertriglyceridemia (high triacylglycerol).</li>
+<li>C. hypocholesterolemia (low cholesterol).</li>
+<li>D. visceral adiposity (obesity).</li>
+
+Correct Answer:
+ A
+Explanation:
+Statins are drugs that are prescribed to treat high cholesterol and act as competitive inhibitors of HMG-CoA reductase. HMG-CoA reductase is the rate-limiting enzyme of <i>de novo</i> cholesterol synthesis; inhibition of this enzyme lowers production of cholesterol, thus lowering overall levels of cholesterol.
+Question: 157
+ What is the function of LCAT?
+
+<li>A. LCAT catalyzes the production of cholesteryl esters.</li>
+<li>B. LCAT catalyzes the production of cholesterol.</li>
+<li>C. LCAT catalyzes the breakdown of cholesteryl esters.</li>
+<li>D. LCAT catalyzes the breakdown of cholesterol.</li>
+
+Correct Answer:
+ A
+Explanation:
+LCAT adds a fatty acid to cholesterol, producing cholesteryl esters, which dissolve in the core of HDL, allowing HDL to transport cholesterol from the periphery to the liver.
+Question: 158
+ Which fatty acid can be synthesized by humans?
+
+<li>A. 12:00</li>
+<li>B. 16:00</li>
+<li>C. 16:01</li>
+<li>D. 18:03</li>
+
+Correct Answer:
+ B
+Explanation:
+Humans can only synthesize one fatty acid, palmitic acid. Palmitic acid is fully saturated and therefore does not contain any double bonds. Palmitic acid has 16 carbons, and is synthesized from eight molecules of acetyl-CoA. In shorthand notation, palmitic acid is written as 16:0 (16 carbons, no double bonds).
+Question: 159
+ Which of the following best characterizes the process of fatty acid synthesis?
+
+<li>A. Two reductions followed by a dehydration and bond formation.</li>
+<li>B. Reduction followed by activation, bond formation, dehydration, and reduction.</li>
+<li>C. Activation followed by bond formation, reduction, dehydration, and reduction.</li>
+<li>D. Activation followed by bond formation, oxidation, dehydration, and reduction.</li>
+
+Correct Answer:
+ C
+Explanation:
+The steps in fatty acid synthesis are activation (attachment to acyl carrier protein), bond formation (between malonyl-CoA and the growing fatty acid chain), reduction (of a carboxyl group), dehydration, and reduction (of a double bond).
+Question: 160
+  Where does <i>β</i>-oxidation of fatty acids occur within the cell?
+
+<li>A. Cytosol</li>
+<li>B. Mitochondria</li>
+<li>C. Smooth endoplasmic reticulum</li>
+<li>D. Plasma membrane</li>
+
+Correct Answer:
+ B
+Explanation:
+<span><i>β</i></span>-Oxidation occurs within the mitochondria, along with the electron transport chain. In contrast, fatty acid synthesis occurs in the cytosol, <b>choice (A)</b>. Fatty acyl carriers like the carnitine shuttle allow entry into the mitochondrion for breakdown.
+Question: 161
+ The majority of triacylglycerol stored in adipocytes originates from:
+
+<li>A. synthesis in the adipocyte.</li>
+<li>B. dietary intake.</li>
+<li>C. ketone bodies.</li>
+<li>D. synthesis in the liver.</li>
+
+Correct Answer:
+ D
+Explanation:
+The liver is the major metabolic organ in the body and is responsible for much of the synthesis and interconversion of fuel sources. Most of the triacylglycerols that are synthesized in the liver are transported as VLDL to adipose tissue for storage. Both the adipocytes, <b>choice (A)</b> and dietary intake, <b>choice (B)</b>, constitute a minor source of triacylglycerol.
+Question: 162
+ 2,4-dienoyl-CoA reductase is used in the oxidation of:
+
+<li>A. saturated fatty acids.</li>
+<li>B. monounsaturated fatty acids.</li>
+<li>C. polyunsaturated fatty acids.</li>
+<li>D. cholesterol.</li>
+
+Correct Answer:
+ C
+Explanation:
+In order for the enzymes of fatty acid oxidation to operate, there can be, at most, one double bond in the area of enzyme activity, and it must be oriented between carbons 2 and 3. In order to accomplish this in monounsaturated fatty acids, an isomerase is employed. When there are multiple double bonds that fall within the enzymatic binding site, both an isomerase and 2,4-dienoyl-CoA reductase are required for the oxidative enzymes to act on the fatty acid.
+Question: 163
+ Which of the following is true regarding ketolysis?
+
+<li>A. Ketolysis occurs only in the brain.</li>
+<li>B. Ketolysis occurs in the liver.</li>
+<li>C. Ketolysis generates acetyl-CoA.</li>
+<li>D. Ketolysis increases glucose metabolism.</li>
+
+Correct Answer:
+ C
+Explanation:
+Ketolysis is the breakdown of ketone bodies to acetyl-CoA for energy. This process occurs in the brain and muscle tissues, but cannot occur in the liver, which lacks an enzyme necessary for ketone body breakdown. Ketolysis is not associated with an increase in glucose metabolism because it most often occurs under conditions of starvation.
+Question: 164
+ Which of the following amino acids will provide the most energy when degraded?
+
+<li>A. Glycine</li>
+<li>B. Alanine</li>
+<li>C. Valine</li>
+<li>D. Isoleucine</li>
+
+Correct Answer:
+ D
+Explanation:
+The energy contribution of an amino acid depends on its ability to be turned into glucose through gluconeogenesis (glucogenic amino acids), ketone bodies (ketogenic amino acids), or both. All of the amino acids listed in the answer choices are glucogenic; isoleucine is also ketogenic. The energy acquired from an amino acid will also depend on the number of carbons it can donate to these energy-creating processes, which depends on the size of its side chain. Isoleucine has the largest side chain of the answer choices, and will thus contribute the most energy per molecule.
+Question: 165
+ Which of the following is LEAST likely to result from protein degradation and processing by the liver?
+
+<li>A. Fatty acids</li>
+<li>B. Glucose</li>
+<li>C. Acetoacetate</li>
+<li>D. 3-Hydroxybutyrate</li>
+
+Correct Answer:
+ A
+Explanation:
+The degradation of protein and processing by the liver implies a prolonged starvation state; protein will not be used for energy unless absolutely necessary. Thus, gluconeogenesis is the most likely process. When gluconeogenesis is not possible, easily metabolized molecules, such as ketone bodies, are synthesized. Fatty acid production occurs when energy is being stored; proteins would not be broken down to store energy in fatty acids.
+Question: 166
+ Adding heat to a closed biological system will do all of the following EXCEPT:
+
+<li>A. increase the internal energy of the system.</li>
+<li>B. increase the average of the vibrational, rotational, and translational energies.</li>
+<li>C. cause the system to do work to maintain a fixed internal energy.</li>
+<li>D. increase the enthalpy of the system.</li>
+
+Correct Answer:
+ C
+Explanation:
+In a closed biological system, enthalpy, heat, and internal energy are all directly related because there is no change in pressure or volume. Because pressure and volume are fixed, work cannot be done, thus <b>choice (C)</b> is correct.
+Question: 167
+ At 25°C the Δ<i>G</i>° for a certain reaction A → B + 2 C is 0. If the concentration of A, B, and C in the cell at 25°C are all 10 m<i>M</i>, how does the Δ<i>G</i> compare to the measurement taken with 1<i> M</i> concentrations?
+
+<li>A. Δ<i>G</i> is greater than Δ<i>G</i>°, thus the reaction is spontaneous.</li>
+<li>B. Δ<i>G</i> is less than Δ<i>G</i>°, thus the reaction is spontaneous.</li>
+<li>C. Δ<i>G</i> is greater than Δ<i>G</i>°, thus the reaction is nonspontaneous.</li>
+<li>D. Δ<i>G</i> is less than Δ<i>G</i>°, thus the reaction is nonspontaneous.</li>
+
+Correct Answer:
+ B
+Explanation:
+To solve this question, we can use the equation <span><span>Δ</span><i>G</i> = <span>Δ</span><i>G</i>° + R<i>T</i> ln <i>Q</i>. <i>Q</i></span>, the reaction quotient, is <img src="/images/mcat/biochem/1/00292.gif">for this reaction. Plugging in the variables, we get <span><span>Δ</span><i>G</i> = 0 + R<i>T</i></span>
+Question: 168
+ Which of the following statements is true about the hydrolysis of ATP?
+
+<li>A. The free energy of ATP hydrolysis is independent of pH.</li>
+<li>B. One mole of creatine phosphate can phosphorylate two moles of ADP.</li>
+<li>C. The free energy of hydrolysis of ATP is nearly the same as for ADP.</li>
+<li>D. ATP yields cyclic AMP after two hydrolysis reactions.</li>
+
+Correct Answer:
+ C
+Explanation:
+The hydrolysis of ATP is energetically favorable because there are repulsive negative charges that are relieved when hydrolyzed, and the new compounds are stabilized by resonance. This is true of both ATP and ADP. Some of the other answer choices are tempting, though. In <b>choice (A)</b>, ATP hydrolysis relies on pH because a protonated ATP molecule experiences less repulsive force. For <b>choice (B)</b>, the energy released by one mole of creatine phosphate upon hydrolysis is not sufficient to phosphorylate two moles of ADP according to Table 12.1. For <b>choice (D)</b>, the removal of two phosphate groups from ATP yields AMP, not cyclic AMP.
+Question: 169
+ The reduction half-reaction in the last step of the electron transport chain is:
+
+<li>A. O<sub>2</sub> + 4 <i>e</i><sup>–</sup> + 4 H<sup>+</sup> → 2 H<sub>2</sub>O</li>
+<li>B. NADPH → NADP<sup>+</sup> + <i>e</i><sup>–</sup> + H<sup>+</sup></li>
+<li>C. NADP<sup>+</sup> + <i>e</i><sup>–</sup> + H<sup>+</sup> → NADPH</li>
+<li>D. Ubiquinone (Q) → Ubiquinol (QH<sub>2</sub>)</li>
+
+Correct Answer:
+ A
+Explanation:
+Reduction is a gain of electrons, which eliminates <b>choice (B)</b> because it is an oxidation reaction. NADPH, <b>choice (C)</b>, is a product of the pentose phosphate pathway. Ubiquinone, <b>choice (D)</b>, transfers electrons during the course of the electron transport chain, but is not the final electron acceptor. This title belongs to oxygen.
+Question: 170
+ The ability to exist in both an oxidized and a reduced state is characteristic of:
+
+<li>A. adenosine triphosphate (ATP).</li>
+<li>B. electron carriers.</li>
+<li>C. regulatory enzymes.</li>
+<li>D. peptide hormones.</li>
+
+Correct Answer:
+ B
+Explanation:
+In order to transport electrons, electron carriers like flavoproteins must be able to exist in a stable oxidized state and a stable reduced form. ATP can be dephosphorylated but is generally not oxidized or reduced.
+Question: 171
+ What energy state was described in the introduction to this chapter?
+
+<li>A. Absorptive</li>
+<li>B. Postabsorptive</li>
+<li>C. Starvation</li>
+<li>D. Vegetative</li>
+
+Correct Answer:
+ B
+Explanation:
+Skipping a single meal is not a prolonged fast. However, the increase in hormones that promote gluconeogenesis and glycogenolysis indicates that the absorptive phase has ended.
+Question: 172
+ With prolonged fasting, the brain can turn to which alternative fuel for energy?
+
+<li>A. Fructose</li>
+<li>B. Lactate</li>
+<li>C. Ketone bodies</li>
+<li>D. Fatty acids</li>
+
+Correct Answer:
+ C
+Explanation:
+The brain is almost exclusively dependent on glucose for energy; however, in a prolonged fast, ketone bodies can be used for up to <img src="/images/mcat/biochem/1/00294.gif">of the brain’s energy requirement.
+Question: 173
+ How do hormonal controls of glycogen metabolism differ from allosteric controls?
+
+<li>A. Hormonal control is systemic and covalent.</li>
+<li>B. Hormonal control is local and covalent.</li>
+<li>C. Hormonal control is systemic and noncovalent.</li>
+<li>D. Hormonal control is local and noncovalent.</li>
+
+Correct Answer:
+ A
+Explanation:
+Hormonal controls are coordinated to regulate the metabolic activity of the entire organism, while allosteric controls can be local or systemic. The modification of the enzymes of glycogen metabolism by insulin and glucagon is either through phosphorylation or dephosphorylation, both of which modify covalent bonds.
+Question: 174
+ Which of the following tissues is most dependent on insulin?
+
+<li>A. Active skeletal muscle</li>
+<li>B. Resting skeletal muscle</li>
+<li>C. Cardiac muscle</li>
+<li>D. Smooth muscle</li>
+
+Correct Answer:
+ B
+Explanation:
+Adipose tissue and resting skeletal muscle require insulin for glucose uptake. Active skeletal muscle, <b>choice (A)</b>, uses creatine phosphate and glycogen (regulated by epinephrine and AMP) to maintain its energy requirements.
+Question: 175
+ Glucocorticoids have been implicated in stress-related weight gain because:
+
+<li>A. they increase appetite and decrease satiety signals.</li>
+<li>B. they increase the activity of catabolic hormones.</li>
+<li>C. they increase glucose levels, which causes insulin secretion.</li>
+<li>D. they interfere with activity of the leptin receptor.</li>
+
+Correct Answer:
+ C
+Explanation:
+Short-term glucocorticoid exposure causes a release of glucose and the hydrolysis of fats from adipocytes. However, if this glucose is not used for metabolism, it causes an increase in glucose level which promotes fat storage. The net result is the release of glucose from the liver to be converted into lipids in the adipose tissue under insulin stimulation.
+Question: 176
+ In the absence of oxygen, which tissue will experience damage most rapidly?
+
+<li>A. Skin</li>
+<li>B. Brain</li>
+<li>C. Red blood cells</li>
+<li>D. Liver</li>
+
+Correct Answer:
+ B
+Explanation:
+The brain uses aerobic metabolism of glucose exclusively and therefore is very sensitive to oxygen levels. The extremely high oxygen requirement of the brain (20% of the body’s oxygen content) relative to its size (2% of total body weight) implies that brain is the most sensitive organ to oxygen deprivation.
+Question: 177
+ A respiratory quotient approaching 0.7 indicates metabolism primarily of which macromolecule?
+
+<li>A. Carbohydrates</li>
+<li>B. Lipids</li>
+<li>C. Nucleic acids</li>
+<li>D. Amino acids</li>
+
+Correct Answer:
+ B
+Explanation:
+The respiratory quotient (RQ) gives an indication of the primary fuel being utilized. An RQ around 0.7 indicates lipid metabolism, 0.8–0.9 indicates amino acid metabolism, <b>choice (C)</b>, and 1.0 indicates carbohydrate metabolism, <b>choice (A)</b>. Nucleic acids do not contribute significantly to the respiratory quotient.
+Question: 178
+ Which of the following side effects would be anticipated in someone taking leptin to promote weight loss?
+
+<li>A. Drowsiness</li>
+<li>B. Increased appetite</li>
+<li>C. Irritability</li>
+<li>D. Fever</li>
+
+Correct Answer:
+ A
+Explanation:
+Leptin acts to decrease appetite by inhibiting the production of orexin. Orexin is also associated with alertness, so decreasing the level of orexin in the body is expected to cause drowsiness. Even without this information, the answer should be apparent because the body tends to maintain an energy balance. If consumption decreases, energy expenditures are expected to decrease as well.
+Question:
+ 179
+ Which of the following statements is FALSE?
+
+<li>A. Growth hormone participates in glucose counter-regulation.</li>
+<li>B. T<sub>4</sub> acts more slowly than T<sub>3</sub>.</li>
+<li>C. ATP stores are turned over more than 10,000 times daily.</li>
+<li>D. Catecholamines stimulate the sympathetic nervous system.</li>
+
+Correct Answer:
+ C
+Explanation:
+ATP stores are turned over about 1,000 times per day, not 10,000.

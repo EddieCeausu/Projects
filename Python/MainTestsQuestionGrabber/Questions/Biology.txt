@@ -1,0 +1,2151 @@
+Biology:
+Question: 1
+ Hyperbaric oxygen may be used as a treatment for certain types of bacterial infections. In this therapy, the patient is placed in a chamber in which the partial pressure of oxygen is significantly increased, increasing the partial pressure of oxygen in the patient's tissues. This treatment is most likely used for infections with:
+
+<li>A. obligate aerobic bacteria.</li>
+<li>B. facultative anaerobic bacteria.</li>
+<li>C. aerotolerant anaerobic bacteria.</li>
+<li>D. obligate anaerobic bacteria.</li>
+
+Correct Answer:
+ D
+Explanation:
+Obligate anaerobes cannot survive in the presence of oxygen and would likely be killed by such a therapy, treating the infection. The other types of bacteria listed can all survive in the presence of oxygen and would likely not be treated using this therapy.
+Question: 2
+ Which of the following does NOT describe connective tissue cells?
+
+<li>A. They account for most cells in muscles, bones, and tendons.</li>
+<li>B. They secrete substances to form the extracellular matrix.</li>
+<li>C. In organs, they tend to form the stroma.</li>
+<li>D. In organs, they provide support for epithelial cells.</li>
+
+Correct Answer:
+ A
+Explanation:
+While bones and tendons are composed predominantly of connective tissue cells, muscle tissue is considered a different tissue type. Other examples of connective tissue include cartilage, ligaments, adipose tissue, and blood. Connective tissue often secretes substances to form the extracellular matrix, such as collagen and elastin, eliminating choice (B). Choices (C) and (D) are essentially identical and can both be eliminated: in organs, connective tissue often forms the support structure for epithelial cells, called the stroma.
+Question: 3
+ Which of the following types of nucleic acid could form the genome of a virus?
+
+<li>A. I only</li>
+<li>B. II only</li>
+<li>C. I and II only</li>
+<li>D. I, II, and III</li>
+
+Correct Answer:
+I. Single-stranded RNA
+Explanation:
+III. Single-stranded DNA
+Question: 4
+ Which of the following activities occurs in the Golgi apparatus?
+
+<li>A. Synthesis of proteins</li>
+<li>B. Modification and distribution of proteins</li>
+<li>C. Breakdown of lipids and carbohydrates</li>
+<li>D. Production of ATP</li>
+
+Correct Answer:
+ B
+Explanation:
+The Golgi apparatus consists of a stack of membrane-enclosed sacs. It receives vesicles and their contents from the endoplasmic reticulum, modifies them (through glycosylation, phosphorylation, and other mechanisms), repackages them into vesicles, and distributes them to appropriate locations in the cell. Protein synthesis occurs in ribosomes and rough endoplasmic reticulum, eliminating choice (A). Lipid and carbohydrate breakdown takes place in the peroxisomes and cytoplasm, eliminating choice (C). ATP production occurs in the mitochondria, eliminating choice (D).
+Question: 5
+ Mitochondrial DNA is:
+
+<li>A. I only</li>
+<li>B. II only</li>
+<li>C. I and II only</li>
+<li>D. I, II, and III</li>
+
+Correct Answer:
+circular.
+Explanation:
+single-stranded.
+Question: 6
+ Which of the following is NOT a function of the smooth endoplasmic reticulum?
+
+<li>A. Lipid synthesis</li>
+<li>B. Poison detoxification</li>
+<li>C. Protein synthesis</li>
+<li>D. Transport of proteins</li>
+
+Correct Answer:
+ C
+Explanation:
+The smooth endoplasmic reticulum is involved in the transport of materials throughout the cell, in lipid synthesis, and in the detoxification of drugs and poisons. Proteins from the rough ER can cross into the smooth ER, where they are secreted into cytoplasmic vesicles and transported to the Golgi apparatus. Thus, from the given choices, protein synthesis is not a function of the smooth ER, but rather of the free ribosomes or the ribosomes associated with the rough ER. Choice (C) is therefore the correct answer.
+Question: 7
+ What is the main function of the nucleolus?
+
+<li>A. Ribosomal RNA synthesis</li>
+<li>B. DNA replication</li>
+<li>C. Cell division</li>
+<li>D. Chromosome assembly</li>
+
+Correct Answer:
+ A
+Explanation:
+The nucleolus (not to be confused with the nucleus in general) is a dense structure within the nucleus where ribosomal RNA (rRNA) is synthesized. Choice (A) is therefore the correct answer.
+Question: 8
+ Which of the following organelles is surrounded by a single membrane?
+
+<li>A. Lysosomes</li>
+<li>B. Mitochondria</li>
+<li>C. Nuclei</li>
+<li>D. Ribosomes</li>
+
+Correct Answer:
+ A
+Explanation:
+Lysosomes are vesicular organelles that digest material using hydrolytic enzymes. They are surrounded by a single membrane. Both mitochondria and nuclei are surrounded by double membranes, eliminating choices (B) and (C). Ribosomes must not be surrounded by membranes because they are found not only in eukaryotes, but also in prokaryotes, which lack any membrane-bound organelles, eliminating choice (D).
+Question: 9
+ Which of the following is NOT a difference that would allow one to distinguish a prokaryotic and a eukaryotic cell?
+
+<li>A. Ribosomal subunit weight</li>
+<li>B. Presence of a nucleus</li>
+<li>C. Presence of a membrane on the outside surface of the cell</li>
+<li>D. Presence of membrane-bound organelles</li>
+
+Correct Answer:
+ C
+Explanation:
+The main differences between prokaryotes and eukaryotes include: prokaryotes do not have a nucleus, while eukaryotes do, eliminating choice (B); prokaryotes have ribosomal subunits of 30S and 50S, while eukaryotes have ribosomal subunits of 40S and 60S, eliminating choice (A); and prokaryotes do not have membrane-bound organelles, whereas eukaryotes do, eliminating choice (D). The presence of a membrane on the outer surface of the cell could not distinguish a prokaryotic cell from a eukaryotic one because both gram-negative bacteria and animal cells share this feature. Thus, choice (C) is the correct answer.
+Question: 10
+ Which of the following does NOT contain tubulin?
+
+<li>A. Cilia</li>
+<li>B. Flagella</li>
+<li>C. Microfilaments</li>
+<li>D. Centrioles</li>
+
+Correct Answer:
+ C
+Explanation:
+Tubulin is the primary protein in microtubules, which are responsible for the structure and movement of cilia and flagella, eliminating choices (A) and (B). Centrioles organize microtubules in the mitotic spindle, eliminating choice (D). Microfilaments are not composed of tubulin, but rather actin, making choice (C) the correct answer.
+Question: 11
+ Herpes simplex virus (HSV) enters the human body and remains dormant in the nervous system until it produces an outbreak after exposure to heat, radiation, or other stimuli. Which of the following statements correctly describes HSV?
+
+<li>A. While it remains dormant in the nervous system, the virus is in its lytic cycle.</li>
+<li>B. During an outbreak, the virus is in the lysogenic cycle.</li>
+<li>C. Herpes simplex virus integrates itself into the DNA of the cell.</li>
+<li>D. The herpes simplex virus contains a tail sheath and tail fibers.</li>
+
+Correct Answer:
+ C
+Explanation:
+Viruses can exist in either the lytic or lysogenic cycle; they may even switch between them throughout their lifetime. During the lytic cycle, the virus's DNA takes control of the host cell's genetic machinery, manufacturing numerous progeny. In the end, the host cell bursts (lyses) and releases new virions, each capable of infecting other cells. In the lysogenic cycle, viral DNA is integrated into the host cell's genome, where it can remain dormant for days or years. Either spontaneously or as a result of environmental circumstances, the provirus can reemerge and enter a lytic cycle. Thus, choices (A) and (B) are incorrect because they reverse which part of the cycle the virus is in. Choice (D) describes features of bacteriophages, which are viruses that infect bacteria—not the human nervous system. Choice (C) accurately describes how HSV operates during the lysogenic cycle, making it the correct answer.
+Question: 12
+ Resistance to antibiotics is a well-recognized medical problem. Which mechanism(s) can account for a bacterium's ability to increase its genetic variability and thus adapt itself to different antibiotics?
+
+<li>A. I and II only</li>
+<li>B. I and III only</li>
+<li>C. II and III only</li>
+<li>D. I, II, and III</li>
+
+Correct Answer:
+Binary fission
+Explanation:
+Transduction
+Question: 13
+ A bacterial cell is noted to be resistant to penicillin. The bacterium is transferred to a colony that lacks the fertility factor, and the rest of the colony does not become resistant to penicillin. However, the penicillin-resistant cell has also started to exhibit other phenotypic characteristics, including secretion of a novel protein. Which of the following methods of bacterial recombination is NOT likely to account for this change?
+
+<li>A. Conjugation</li>
+<li>B. Transformation</li>
+<li>C. Transduction</li>
+<li>D. Infection with a bacteriophage</li>
+
+Correct Answer:
+ A
+Explanation:
+A bacterial cell that does not rapidly cause a phenotypic change in the rest of the colony is likely not F<sup>+</sup>, meaning that this cell is not able to form a sex pilus for conjugation. The expression of new phenotypic characteristics indicate that this bacterium may have acquired some quantity of genetic information, which can be acquired by either transformation, choice (B), or transduction (which occurs via bacteriophage infection), choices (C) and (D).
+Question: 14
+ In Alzheimer's disease, a protein called the amyloid precursor protein (APP) is cleaved to form a protein called <i>β</i>-amyloid. This protein has a <i>β</i>-pleated sheet structure and precipitates to form plaques in the brain. This mechanism of disease is most similar to which of the following pathogens?
+
+<li>A. Bacteria</li>
+<li>B. Viruses</li>
+<li>C. Prions</li>
+<li>D. Viroids</li>
+
+Correct Answer:
+ C
+Explanation:
+Prions are infectious proteins that cause misfolding of other proteins. Primarily, prions cause a shift toward <i>β</i>-pleated sheet confirmations, which leads to decreased solubility and degradability of proteins, ultimately leading to disease. This mechanism is very similar to the one described here for Alzheimer's disease, making choice (C) the correct answer.
+Question: 15
+ After infection of a cell, a viral particle must transport itself to the nucleus in order to produce viral proteins. What is the likely genomic content of the virus?
+
+<li>A. Double-stranded DNA</li>
+<li>B. Double-stranded RNA</li>
+<li>C. Positive-sense RNA</li>
+<li>D. Negative-sense RNA</li>
+
+Correct Answer:
+ A
+Explanation:
+A virus that requires transport to the nucleus in order to produce viral proteins likely requires use of nuclear RNA polymerase in order to create mRNA that can be translated to protein. Only DNA viruses require this transport before any protein can be synthesized.
+Question: 16
+ Which of the following is the correct sequence of the development of a mature sperm cell?
+
+<li>A. Spermatid → spermatocyte → spermatogonium → 2° spermatocyte → spermatozoan</li>
+<li>B. Spermatogonium → 1° spermatocyte → 2° spermatocyte → spermatid → spermatozoan</li>
+<li>C. Spermatozoan → 1° spermatocyte → 2° spermatocyte → spermatogonium → spermatid</li>
+<li>D. Spermatogonium → 1° spermatocyte → 2° spermatocyte → spermatozoan → spermatid</li>
+
+Correct Answer:
+ B
+Explanation:
+Diploid cells called spermatogonia differentiate into primary spermatocytes, which undergo the first meiotic division to yield two haploid secondary spermatocytes. These undergo a second meiotic division to become immature spermatids. The spermatids then undergo a series of changes leading to the production of mature sperm, or spermatozoa.
+Question: 17
+ Which of the following correctly pairs the stage of development of an egg cell with the relevant point in a woman's life cycle?
+
+<li>A. From birth to menarche—prophase II</li>
+<li>B. At ovulation—metaphase I</li>
+<li>C. At ovulation—metaphase II</li>
+<li>D. At fertilization—prophase II</li>
+
+Correct Answer:
+ C
+Explanation:
+From the time of birth until shortly before ovulation, all egg cells are arrested at the prophase stage of meiosis I. These cells are referred to as primary oocytes. At ovulation, the egg cell has completed meiosis I and is now arrested in metaphase II as a haploid cell called a secondary oocyte. When a sperm penetrates the outer layers of the secondary oocyte, it completes meiosis II to become a mature ovum.
+Question: 18
+ Some studies suggest that in patients with Alzheimer's disease, there is a defect in the way the spindle apparatus attaches to the kinetochore fibers. At which stage of mitotic division would one first expect to be able to visualize this problem?
+
+<li>A. Prophase</li>
+<li>B. Metaphase</li>
+<li>C. Anaphase</li>
+<li>D. Telophase</li>
+
+Correct Answer:
+ A
+Explanation:
+The spindle apparatus first interacts with the kinetochore fibers near the end of prophase. While the spindle apparatus aligns the chromosomes at the equatorial plate during metaphase, choice (B), the initial connection of the microtubule to the kinetochore occurs in prophase.
+Question: 19
+ A researcher wishes to incorporate a radiolabeled deoxyadenine into the genome of one of the two daughter cells that would arise as a result of mitosis. What is the latest stage of cellular development during which the radiolabeled deoxyadenine could be added to achieve this result?
+
+<li>A. G1</li>
+<li>B. G2</li>
+<li>C. M</li>
+<li>D. S</li>
+
+Correct Answer:
+ D
+Explanation:
+To ensure that the labeled deoxyadenine will be incorporated into the DNA of one of the daughter cells, we have to insert the nucleotide before DNA replication has been completed. Because replication occurs during S stage, we could introduce the deoxyadenine during G<sub>1</sub> or S stage. Because G<sub>1</sub> precedes S, the latest point the deoxyadenine could be added is the S stage.
+Question: 20
+ Certain ovarian tumors called granulosa cell tumors are known to produce excessive levels of estrogen. A physician who diagnoses a granulosa cell tumor should look for a secondary cancer in which of the following parts of the reproductive tract?
+
+<li>A. Fallopian tube</li>
+<li>B. Cervix</li>
+<li>C. Endometrium</li>
+<li>D. Vagina</li>
+
+Correct Answer:
+ C
+Explanation:
+Estrogen is known to cause growth of the endometrial lining during the follicular phase of the menstrual cycle, and its levels stay high during the luteal phase to promote vascularization and glandularization of this tissue. Excessive levels of estrogen may provide a strong enough signal for cell growth to promote tumor formation, or even cancer. The other tissues listed in this question require estrogen for development, but are not strongly associated with rapid tissue growth due to estrogen.
+Question: 21
+ Upon ovulation, the oocyte is released into the:
+
+<li>A. fallopian tube.</li>
+<li>B. follicle.</li>
+<li>C. abdominal cavity.</li>
+<li>D. uterus.</li>
+
+Correct Answer:
+ C
+Explanation:
+This subtle point about ovulation eludes most students and remains hard to believe until the organs are examined in anatomy class in medical school. The ruptured ovarian follicle releases an oocyte into the abdominal cavity, close to the entrance of the fallopian tube. With the aid of beating cilia, the oocyte is drawn into the fallopian tube, through which it travels until it reaches the uterus. If it is fertilized in the fallopian tube, it will implant in the uterine wall. If fertilization does not occur, it will be expelled along with the uterine lining during menstruation.
+Question: 22
+ Cancer cells are cells in which mitosis occurs continuously, without regard to quality or quantity of the cells produced. For this reason, most chemotherapies attack rapidly dividing cells. At which point(s) in the cell cycle could chemotherapy effectively prevent cancer cell division?
+
+<li>A. I only</li>
+<li>B. I and II only</li>
+<li>C. II and III only</li>
+<li>D. I, II, and III</li>
+
+Correct Answer:
+S stage
+Explanation:
+Metaphase
+Question: 23
+ Which of the following INCORRECTLY pairs a structure of the male reproductive system with a feature of the structure?
+
+<li>A. Seminal vesicles—produce alkaline fructose-containing secretions</li>
+<li>B. Epididymis—surrounded by muscle to raise and lower the testes</li>
+<li>C. Vas deferens—tube connecting the epididymis to the ejaculatory duct</li>
+<li>D. Cowper's glands—produce a fluid to clear traces of urine in the urethra</li>
+
+Correct Answer:
+ B
+Explanation:
+The epididymis is the site of sperm maturation at the posterior side of the testis. In the epididymis, sperm gain mobility and are stored until ejaculation. It is the vas deferens (ductus deferens) that is surrounded by muscle that raises and lowers the testis to maintain a constant temperature suitable for sperm production, not the epididymis.
+Question: 24
+ What is the last point in the meiotic cycle in which the cell has a diploid number of chromosomes?
+
+<li>A. During interphase</li>
+<li>B. During telophase I</li>
+<li>C. During interkinesis</li>
+<li>D. During telophase II</li>
+
+Correct Answer:
+ B
+Explanation:
+The first meiotic division (reductional division) separates homologous chromosomes to opposite poles of the cell during anaphase I. Near the end of telophase I, cytokinesis occurs, resulting in two haploid (<i>n</i>) daughter cells. Thus, during interkinesis and anaphase II, the daughter cells are already haploid, eliminating choices (C) and (D). The cell is diploid during interphase, choice (A), but remains diploid up until the end of telophase I.
+Question: 25
+ Which of the following does NOT likely contribute to genetic variability?
+
+<li>A. Random fertilization of an egg by a sperm</li>
+<li>B. Random segregation of homologous chromosomes</li>
+<li>C. Crossing over between homologous chromosomes during meiosis</li>
+<li>D. Replication of the DNA during S stage</li>
+
+Correct Answer:
+ D
+Explanation:
+The safest way to answer this question correctly is to go through each answer choice and eliminate the ones that contribute to genetic variability. The random fertilization of a sperm and an egg, the random segregation of homologous chromosomes during anaphase I, and crossing over between homologous chromosomes during prophase I all contribute to genetic variability during sexual reproduction because they result in novel combinations of genetic material, eliminating choices (A), (B), and (C). S stage, choice (D), should specifically <i>not</i> cause increased genetic variability; the DNA should be copied precisely, without error, meaning that both strands of DNA should be identical.
+Question: 26
+ Which of the following statements correctly identifies a key difference between mitosis and meiosis?
+
+<li>A. In metaphase of mitosis, replicated chromosomes line up in single file; in metaphase II of meiosis, replicated chromosomes line up on opposite sides of the metaphase plate.</li>
+<li>B. During anaphase of mitosis, homologous chromosomes separate; during anaphase of meiosis I, sister chromatids separate.</li>
+<li>C. At the end of telophase of mitosis, the daughter cells are identical to each other; at the end of meiosis I, the daughter cells are identical to the parent cell.</li>
+<li>D. During metaphase of mitosis, centromeres are present directly on the metaphase plate; during metaphase of meiosis I, there are no centromeres on the metaphase plate.</li>
+
+Correct Answer:
+ D
+Explanation:
+The key differences between mitosis and meiosis primarily appear during meiosis I. Of note, synapsis and crossing over occurs during prophase I, and homologous chromosomes are separated during meiosis I (rather than sister chromatids, as in mitosis). While the location of the centromeres relative to the equatorial plate may seem a trivial point, it is representative of the fact that homologous chromosomes line up on opposite sides of the equatorial plate in meiosis, in contrast to the alignment of each chromosome directly upon the metaphase plate in mitosis.
+Question: 27
+ Which of the following is true regarding prophase?
+
+<li>A. The chromosomes separate and move to opposite poles of the cell.</li>
+<li>B. The spindle apparatus disappears.</li>
+<li>C. The chromosomes uncoil.</li>
+<li>D. The nucleoli disappear.</li>
+
+Correct Answer:
+ D
+Explanation:
+In prophase, the chromatin condenses into chromosomes, the spindle apparatus forms, and the nucleoli and nuclear membrane disappear. Choice (A) describes anaphase, whereas choices (B) and (C) describe telophase.
+Question: 28
+ An individual who is phenotypically female is found to have only one copy of a disease-carrying recessive allele on the X chromosome, yet she demonstrates all of the classic symptoms of the disease. Geneticists determine she has a genotype that likely arose from nondisjunction in one of her parents. What is the likely genotype of this individual?
+
+<li>A. 46,XX (46 chromosomes, with XX for sex chromosomes)</li>
+<li>B. 46,XY</li>
+<li>C. 45,X</li>
+<li>D. 47,XXY</li>
+
+Correct Answer:
+ C
+Explanation:
+Nondisjunction refers to the incorrect segregation of homologous chromosomes during anaphase I, or of sister chromatids during anaphase II. In either case, one daughter cell ends up with two copies of related genetic material, while the other receives zero. Immediately, this should eliminate choices (A) and (B), which show a normal complement of chromosomes (46). An individual who has only one recessive disease-carrying allele, and yet still expresses the disease, likely does not have a dominant allele for the given trait. This is seen in males, who are hemizygous for many X-linked genes, and can also be seen in women with Turner syndrome (45,X), who have only one X chromosome. Thus, choice (C) is the answer.
+Question: 29
+ During which phase of the menstrual cycle does progesterone concentration peak?
+
+<li>A. Follicular phase</li>
+<li>B. Ovulation</li>
+<li>C. Luteal phase</li>
+<li>D. Menses</li>
+
+Correct Answer:
+ C
+Explanation:
+Progesterone peaks during the luteal phase, as it supports the endometrium for potential implantation of a blastula. Progesterone levels are relatively low during follicular phase and ovulation, eliminating choices (A) and (B). Withdrawal of progesterone actually causes menses, eliminating choice (D).
+Question: 30
+ Which of the following would NOT be seen during pregnancy?
+
+<li>A. High levels of hCG in the first trimester</li>
+<li>B. High levels of progesterone throughout the pregnancy</li>
+<li>C. Low levels of FSH in the first trimester</li>
+<li>D. High levels of GnRH throughout the pregnancy</li>
+
+Correct Answer:
+ D
+Explanation:
+During the first trimester of pregnancy, the corpus luteum is preserved by human chorionic gonadotropin (hCG); hence, progesterone secretion by the corpus luteum is maintained during the first trimester. This eliminates choice (A). During the second trimester, hCG levels decline, but progesterone levels rise because the hormone is now secreted by the placenta itself, eliminating choice (B). High levels of progesterone and estrogen inhibit GnRH secretion, thus preventing FSH and LH secretion and the onset of a new menstrual cycle. This eliminates choice (C) and validates choice (D).
+Question: 31
+ Which of the following developmental stages has the greatest nuclear-to-cytoplasmic ratio?
+
+<li>A. Eight-cell embryo</li>
+<li>B. Morula</li>
+<li>C. Blastula</li>
+<li>D. Zygote</li>
+
+Correct Answer:
+ C
+Explanation:
+The question is asking us to determine the developmental stage with the greatest nuclear-to-cytoplasmic material ratio. During the series of rapid mitotic divisions known as cleavage, the number of cells increases dramatically, but the overall volume of the embryo does not change. In fact, the volume of the embryo does not significantly increase until after the blastula has already implanted. As such, a high ratio of nuclear to cytoplasmic material will be found at the stage with the greatest amount of cells during early development. From the given choices, the stage with the greatest number of cells is the blastula. This is further supported by the fact that the cells are displaced from the center by the blastocoel.
+Question: 32
+ Which of the following associations of a primary germ layer and an adult organ is correct?
+
+<li>A. Endoderm—cardiac muscle</li>
+<li>B. Endoderm—lens of the eye</li>
+<li>C. Ectoderm—fingernails</li>
+<li>D. Mesoderm—lungs</li>
+
+Correct Answer:
+ C
+Explanation:
+To answer this question, it could be useful to review quickly the embryonic layers. The ectoderm gives rise to the integument (the epidermis, hair, nails, and the epithelia of the nose, mouth, and anal canal), the lens of the eye, and the nervous system (including the adrenal medulla). The endoderm gives rise to the epithelial linings of the digestive and respiratory tracts and parts of the liver, pancreas, thyroid, and bladder. Finally, from the mesoderm arise the musculoskeletal system, the circulatory system, the excretory system, the gonads, and the adrenal cortex. Therefore, the only incorrect association can be found in choice (C) because the fingernails are derived from ectoderm.
+Question: 33
+ From which of the following layers does the notochord form?
+
+<li>A. Ectoderm</li>
+<li>B. Mesoderm</li>
+<li>C. Endoderm</li>
+<li>D. Archenteron</li>
+
+Correct Answer:
+ B
+Explanation:
+A rod of mesodermal cells called the notochord develops along the longitudinal axis just under the dorsal layer of ectoderm. Through inductive effects from the notochord, the overlying ectoderm starts bending inward and forms a groove on the dorsal surface of the embryo. The dorsal ectoderm will eventually pinch off and develop into the spinal cord and brain. While the neural tube forms from ectoderm, the notochord itself is mesodermal.
+Question: 34
+ The influence of a specific group of cells on the differentiation of another group of cells is called:
+
+<li>A. competence.</li>
+<li>B. senescence.</li>
+<li>C. determination.</li>
+<li>D. induction.</li>
+
+Correct Answer:
+ D
+Explanation:
+The influence of a specific group of cells on the differentiation of another group of cells is termed induction. For example, the eyes are formed through a constant back-and-forth of reciprocal development between the brain and the ectoderm. Competence refers to the ability of a cell to respond to a given inducer, but not the influence of the group of organizing cells, eliminating choice (A). Senescence is a term for biological aging, eliminating choice (B). Determination may be the result of induction, but this term does not refer to the general concept of the effect of one group of cells on the differentiation on another group of cells, eliminating choice (C).
+Question: 35
+ Which of the following is likely to be found in maternal blood during pregnancy?
+
+<li>A. Immunoglobulins produced by the fetus</li>
+<li>B. Fetal hemoglobin released from fetal red blood cells</li>
+<li>C. Progesterone produced by placental cells</li>
+<li>D. Carbon dioxide exhaled from fetal lungs</li>
+
+Correct Answer:
+ C
+Explanation:
+During pregnancy, the placenta produces estrogen and progesterone to maintain the endometrium. These hormones are necessary for proper gestation of the fetus and should be measurable in maternal blood because they act on maternal organs. Prior to birth, the fetus is immunologically na?ve and does not yet produce immunoglobulins, eliminating choice (A). It is worth noting, though, that maternal immunoglobulins cross the placenta to enter fetal blood. Fetal hemoglobin is a large protein and, thus, cannot easily cross the placenta. Further, red blood cells are much too large to cross the barrier themselves, eliminating choice (B). Carbon dioxide from fetal metabolism can be found in maternal blood, but the lungs are nonfunctional prior to birth as the fetus is suspended in amniotic fluid. Carbon dioxide is transferred across the placenta directly from the fetal bloodstream, eliminating choice (D).
+Question: 36
+ A cell releases a substance that diffuses through the environment, resulting in differentiation of a nearby cell. This is an example of what type of cell–cell communication?
+
+<li>A. Autocrine</li>
+<li>B. Juxtacrine</li>
+<li>C. Paracrine</li>
+<li>D. Endocrine</li>
+
+Correct Answer:
+ C
+Explanation:
+The question stem states that a cell releases a substance that diffuses through the environment and causes differentiation of a nearby cell. Because the cell is acting on another nearby cell, and the molecule spreads by diffusion, this is an example of paracrine signaling. Autocrine signaling, choice (A), occurs when a molecule secreted by a cell results in an effect on the same cell. Juxtacrine signaling, choice (B), occurs between adjacent cells, but the signal does not spread by diffusion. In endocrine signaling, choice (D), a molecule is secreted that travels via the bloodstream to a distant target. Choice (C) is therefore the correct answer.
+Question: 37
+ A cancer cell is removed from a patient and cultured. The cells in this culture seem to be able to divide indefinitely with no cellular senescence. Which peptide is likely activated in these cells that accounts for this characteristic?
+
+<li>A. Epidermal growth factor</li>
+<li>B. Sonic hedgehog</li>
+<li>C. Transforming growth factor beta</li>
+<li>D. Telomerase</li>
+
+Correct Answer:
+ D
+Explanation:
+Cells that are able to divide indefinitely with no senescence are not exhibiting normal cell behavior. Normally, somatic cells divide a limited number of times until the telomeres become too short to be effective protectors of genomic material. When this occurs, the cells stop dividing. However, in this case, the cells have continued to divide indefinitely. It is likely that the enzyme telomerase has been activated, which allows for synthesis of telomeres to counteract shortening during mitosis.
+Question: 38
+ A tumor is removed from a patient, and when investigated by pathologists, appears to contain tissue resembling placenta, hair, thyroid tissue, and cardiac muscle. What was the likely potency of the cells from which this tumor originated?
+
+<li>A. Nonpotent</li>
+<li>B. Multipotent</li>
+<li>C. Pluripotent</li>
+<li>D. Totipotent</li>
+
+Correct Answer:
+ D
+Explanation:
+This question stem describes a tumor composed of multiple types of embryonic tissues as well as tissues derived from the three germ cell layers. Because this tumor contains placental tissue, the tumor must have originated from a cell that was able to produce those types of tissues. Cells capable of producing placental tissue as well as ectoderm, mesoderm, and endoderm are, by definition, totipotent.
+Question: 39
+ Which of the following is FALSE with regard to adult stem cells?
+
+<li>A. They retain inherent pluripotency if harvested from selected organs.</li>
+<li>B. They are less controversial than embryonic stem cells.</li>
+<li>C. They require treatment with various transcription factors.</li>
+<li>D. There is a reduced risk of rejection if patient's own stem cells are used.</li>
+
+Correct Answer:
+ A
+Explanation:
+Embryonic stem cells are controversial because they require destruction of an embryo to harvest, eliminating choice (B). Adult stem cells are significantly less controversial, but require treatment with various transcription factors in order to induce an increased level of potency, eliminating choice (C). Rejection is a concern when foreign cells are introduced into an individual; using one's own stem cells should remove this risk, eliminating choice (D). Adult stem cells are not naturally pluripotent, unless pluripotency has been induced by strategic use of transcription factors. Therefore, choice (A) is the correct answer.
+Question: 40
+ A child is born with webbed toes. This pathology is most likely accounted for by a failure of:
+
+<li>A. cell differentiation.</li>
+<li>B. cell determination.</li>
+<li>C. apoptosis.</li>
+<li>D. neurulation.</li>
+
+Correct Answer:
+ C
+Explanation:
+During development, programmed cell death occurs in multiple locations in order to ensure development of the correct adult structures. One of the places in which this occurs is between fingers and toes. If apoptosis does not occur correctly in these locations, then an infant may be born with webbed fingers or toes. Failure of determination or differentiation would likely result in an absence of digits, eliminating choices (A) and (B). Failure of neurulation would lead to an absence of a nervous system and would not be compatible with life, eliminating choice (D).
+Question: 41
+ Following a myocardial infarction, the heart often heals by the creation of a scar by fibroblasts. This is an example of:
+
+<li>A. complete regeneration.</li>
+<li>B. incomplete regeneration.</li>
+<li>C. competency.</li>
+<li>D. multipotency.</li>
+
+Correct Answer:
+ B
+Explanation:
+After an injury, healing occurs by some sort of regenerative process. In humans, some tissues, such as the liver, are capable of regenerating tissue with much the same function and structure as the previous tissue. However, the heart is not capable of this sort of regeneration, often forming a fibrous scar in an area of injury. This is an example of incomplete regeneration, in which newly formed tissues are not identical in structure or function to the tissues that have been injured or lost.
+Question: 42
+ Neurofibromatosis type I, or von Recklinghausen's disease, is a disorder that causes formation of tumors in multiple nervous system structures as well as the skin. While all cells carry the same mutation on chromosome 17, selective transcription of the genome appears to cause the most significant tumorogenesis in which of the following primary germ tissue layers?
+
+<li>A. Ectoderm</li>
+<li>B. Mesoderm</li>
+<li>C. Endoderm</li>
+<li>D. Notochord</li>
+
+Correct Answer:
+ A
+Explanation:
+Here, the mutation affects the skin and the nervous system, both of which are derived from ectoderm. The other germ tissue layers do not lead to skin or nervous system formation, eliminating choices (B) and (C). The notochord is not actually a primary germ tissue layer, and thus cannot be an answer to the question, eliminating choice (D).
+Question: 43
+ Which of the following shows the correct order of early developmental milestones during embryogenesis?
+
+<li>A. Blastula → gastrula → morula</li>
+<li>B. Morula → gastrula → blastula</li>
+<li>C. Morula → blastula → gastrula</li>
+<li>D. Gastrula → blastula → morula</li>
+
+Correct Answer:
+ C
+Explanation:
+After the first cell divisions occur, the embryo consists of a solid ball of cells known as a morula. Then a hollow center forms, creating the blastula. Finally, as the cells begin to differentiate into the three germ layers, the embryo is considered a gastrula. Choice (C) is therefore the correct answer.
+Question: 44
+ A pregnant women is accidentally given a single dose of a teratogenic drug late in the third trimester. The baby is born three days later. Which of the following is the most likely outcome?
+
+<li>A. Complete failure of organ development and death of the fetus</li>
+<li>B. Partial failure of organ development with survival of the fetus</li>
+<li>C. Serious disfigurement of the fetus</li>
+<li>D. Respiratory distress at birth, but no long-term effects</li>
+
+Correct Answer:
+ D
+Explanation:
+The question stem states that the pregnant woman was given the drug three days before the baby was born. It is important to remember that organogenesis occurs during the first trimester. The last structure to become fully functional is the lungs. Because the organs were already largely formed prior to the administration of the teratogenic drug, it is likely that there was no major effect on the development of any organ as a result of exposure to the teratogen, eliminating choices (A), (B), and (C). However, because lung tissues are so sensitive and because they mature so late, it is likely that the infant may have some respiratory distress at birth.
+Question: 45
+ Which of the following statements regarding fetal circulation is FALSE?
+
+<li>A. In the umbilical cord, there are more arteries than veins.</li>
+<li>B. The foramen ovale is the only shunt that connects two chambers of the heart.</li>
+<li>C. Blood flow in the ductus arteriosus is from the aorta to the pulmonary artery.</li>
+<li>D. The ductus venosus is the only shunt that bypasses the liver.</li>
+
+Correct Answer:
+ C
+Explanation:
+Blood flow in the ductus arteriosus is from the pulmonary artery to the aorta. The direction of flow is determined by the pressure differential between the right side of the heart (and pulmonary circulation) <i>vs.</i> the left side of the heart (and systemic circulation). Unlike in adults, the right side of the heart is at a higher pressure during prenatal life than the left side, so blood will shunt from the pulmonary circulation to the systemic circulation through both the foramen ovale and ductus arteriosus.
+Question: 46
+ Resting membrane potential depends on:
+
+<li>A. I only</li>
+<li>B. I and II only</li>
+<li>C. I and III only</li>
+<li>D. II and III only</li>
+
+Correct Answer:
+differential distribution of ions across the axon membrane.
+Explanation:
+active transport of ions across the membrane.
+Question: 47
+ All of the following are associated with the myelin sheath EXCEPT:
+
+<li>A. faster conduction of nerve impulses.</li>
+<li>B. nodes of Ranvier forming gaps along the axon.</li>
+<li>C. increased magnitude of the potential difference during an action potential.</li>
+<li>D. saltatory conduction of action potentials.</li>
+
+Correct Answer:
+ C
+Explanation:
+Myelin is a white lipid-containing material surrounding the axons of many neurons in the central and peripheral nervous systems. It is arranged on the axon discontinuously; the gaps between the segments of myelin are called nodes of Ranvier, eliminating choice (B). Myelin increases the conduction velocity by insulating segments of the axon so that the membrane is permeable to ions only at the nodes of Ranvier, eliminating choice (A). The action potential jumps from node to node, a process known as saltatory conduction, eliminating choice (D). Action potentials are often described as being "all-or-nothing"; the magnitude of the potential difference in an action potential is constant, regardless of the intensity of the stimulus. Thus, myelin does not affect the magnitude of the potential difference in an action potential, making choice (C) the correct answer.
+Question: 48
+ Which of the following is true with regard to the action potential?
+
+<li>A. All hyperpolarized stimuli will be carried to the axon terminal without a decrease in size.</li>
+<li>B. The size of the action potential is proportional to the size of the stimulus that produced it.</li>
+<li>C. Increasing the intensity of the depolarization increases the size of the impulse.</li>
+<li>D. Once an action potential is triggered, an impulse of a given magnitude and speed is produced.</li>
+
+Correct Answer:
+ D
+Explanation:
+As in the previous question, the action potential is often described as an all-or-nothing response. This means that, whenever the threshold membrane potential is reached, an action potential with a consistent size and duration is produced. Neuronal information is coded by the frequency and number of action potentials, not the size of the action potential, eliminating choices (B) and (C) and making choice (D) the correct answer. Hyperpolarizing (inhibitory) signals are not transmitted to the nerve terminal, eliminating choice (A).
+Question: 49
+ Which of the following correctly describes a difference between nerves and tracts?
+
+<li>A. Nerves are seen in the central nervous system; tracts are seen in the peripheral nervous system.</li>
+<li>B. Nerves have cell bodies in nuclei; tracts have cell bodies in ganglia.</li>
+<li>C. Nerves may carry more than one type of information; tracts can only carry one type of information.</li>
+<li>D. Nerves contain only one neuron; tracts contain many neurons.</li>
+
+Correct Answer:
+ C
+Explanation:
+Nerves are collections of neurons in the peripheral nervous system and may contain multiple types of information (sensory or motor); they contain cell bodies in ganglia. Tracts are collections of neurons in the central nervous system and contain only one type of information; they contain cell bodies in nuclei.
+Question: 50
+ Which of the following accurately describes sensory neurons?
+
+<li>A. Sensory neurons are afferent and enter the spinal cord on the dorsal side.</li>
+<li>B. Sensory neurons are efferent and enter the spinal cord on the dorsal side.</li>
+<li>C. Sensory neurons are afferent and enter the spinal cord on the ventral side.</li>
+<li>D. Sensory neurons are efferent and enter the spinal cord on the ventral side.</li>
+
+Correct Answer:
+ A
+Explanation:
+Sensory neurons are considered afferent (carrying signals from the periphery to the central nervous system) and enter the spinal cord on the dorsal side. Motor neurons are considered efferent (carrying signals from the central nervous system to the periphery) and exit the spinal cord on the ventral side.
+Question: 51
+ When a sensory neuron receives a stimulus that brings it to threshold, it will do all of the following EXCEPT:
+
+<li>A. become depolarized.</li>
+<li>B. transduce the stimulus to an action potential.</li>
+<li>C. inhibit the spread of the action potential to other sensory neurons.</li>
+<li>D. cause the release of neurotransmitters onto cells in the central nervous system.</li>
+
+Correct Answer:
+ C
+Explanation:
+When a sensory neuron receives a signal that is strong enough to bring it to threshold, one can assume that the receptor becomes depolarized, allowing it to transduce the stimulus to an action potential. The action potential will then be carried by sensory neurons to the central nervous system, where the cell will release neurotransmitters. Therefore, among the given choices, the only incorrect statement is found in choice (C). If a receptor is stimulated, it will promote the spread of the action potential to postsynaptic sensory neurons in the spinal cord, which can send the signal toward the brain.
+Question: 52
+ When the potential across the axon membrane is more negative than the normal resting potential, the neuron is said to be in a state of:
+
+<li>A. depolarization.</li>
+<li>B. hyperpolarization.</li>
+<li>C. repolarization.</li>
+<li>D. polarization.</li>
+
+Correct Answer:
+ B
+Explanation:
+When the potential across the axon membrane is more negative than the normal resting potential, the neuron is referred to as hyperpolarized. Hyperpolarization occurs right after an action potential and is caused by excess potassium exiting the neuron.
+Question: 53
+ Which of the following statements concerning the somatic division of the peripheral nervous system is INCORRECT?
+
+<li>A. Its pathways innervate skeletal muscle.</li>
+<li>B. Its pathways are usually voluntary.</li>
+<li>C. Some of its pathways are referred to as reflex arcs.</li>
+<li>D. Its pathways always involve more than two neurons.</li>
+
+Correct Answer:
+ D
+Explanation:
+The somatic division of the peripheral nervous system innervates skeletal muscles and is responsible for voluntary movement. Some of the pathways in this part of the nervous system are reflex arcs, which are reflexive responses to certain stimuli that involve only a sensory and a motor neuron. These neurons synapse in the spinal cord and do not require signaling from the brain. The pathways of the somatic division can involve two, three, or more neurons, depending on the type of signal. The correct answer therefore is choice (D).
+Question: 54
+ Which of the following is a function of the parasympathetic nervous system?
+
+<li>A. Increasing blood sugar during periods of stress</li>
+<li>B. Dilating the pupils to enhance vision</li>
+<li>C. Increasing oxygen delivery to muscles</li>
+<li>D. Decreasing heart rate and blood pressure</li>
+
+Correct Answer:
+ D
+Explanation:
+The parasympathetic nervous system governs the "rest-and-digest" response. The parasympathetic nervous system slows the heart rate, decreases blood pressure, promotes blood flow to the GI tract, and constricts the pupils, among other functions. The sympathetic nervous system governs the fight-or-flight response, including increased heart rate and blood pressure, decreased blood flow to the digestive tract, and increased blood flow the muscles. Choice (D) is the only answer choice that represents a function of the parasympathetic nervous system.
+Question: 55
+ Which of the following neurotransmitters is used in the ganglia of both the sympathetic and parasympathetic nervous systems?
+
+<li>A. Acetylcholine</li>
+<li>B. Dopamine</li>
+<li>C. Norepinephrine</li>
+<li>D. Serotonin</li>
+
+Correct Answer:
+ A
+Explanation:
+Acetylcholine is the neurotransmitter released by the preganglionic neuron in both the sympathetic and parasympathetic nervous systems. The postganglionic neuron in the sympathetic nervous system usually releases norepinephrine, while the postganglionic neuron in the parasympathetic nervous system releases acetylcholine.
+Question: 56
+ In which neural structure are ribosomes primarily located?
+
+<li>A. Dendrites</li>
+<li>B. Soma</li>
+<li>C. Axon hillock</li>
+<li>D. Axon</li>
+
+Correct Answer:
+ B
+Explanation:
+Neurons contain very specialized structures, including dendrites, axons, and the axon hillock. However, neurons are still cells and must carry out cellular functions including protein synthesis. The cell body or soma contains the nucleus, endoplasmic reticulum, and ribosomes.
+Question: 57
+ An autoimmune disease attacks the voltage-gated calcium channels in the nerve terminal. What is a likely symptom of this condition?
+
+<li>A. Spastic paralysis (inability to relax the muscles)</li>
+<li>B. Flaccid paralysis (inability to contract the muscles)</li>
+<li>C. Inability to reuptake neurotransmitters once released</li>
+<li>D. Retrograde flow of action potentials</li>
+
+Correct Answer:
+ B
+Explanation:
+First, consider the function of voltage-gated calcium channels. When the nerve terminal depolarizes, voltage-gated calcium channels open, allowing for influx of calcium. This influx of calcium triggers fusion of the synaptic vesicles containing neurotransmitters with the membrane of the neuron at the nerve terminal. This allows for exocytosis of the neurotransmitters into the synapse. If a disease blocked the influx of calcium, there would be no release of neurotransmitters. A lack of neurotransmitters means that the neuron cannot send signals. Thus, any symptoms resulting from this disease would be due to an inability of neurons to communicate. If neurons cannot communicate, flaccid paralysis may be one of the results.
+Question: 58
+ A neuron only fires an action potential if multiple presynaptic cells release neurotransmitter onto the dendrites of the neuron. This is an example of:
+
+<li>A. saltatory conduction.</li>
+<li>B. summation.</li>
+<li>C. a feedback loop.</li>
+<li>D. inhibitory transmission.</li>
+
+Correct Answer:
+ B
+Explanation:
+Some neurons require multiple instances of excitatory transmission to be brought to threshold. These excitatory signals may be close to each other in time (temporal) or in space (spatial); either way, this pattern of excitation is termed summation.
+Question: 59
+ A disease results in the death of Schwann cells. Which portion of the nervous system is NOT likely to be affected?
+
+<li>A. Central nervous system</li>
+<li>B. Somatic nervous system</li>
+<li>C. Autonomic nervous system</li>
+<li>D. Parasympathetic nervous system</li>
+
+Correct Answer:
+ A
+Explanation:
+Schwann cells are responsible for myelination of cells in the peripheral nervous system. Thus, the central nervous system is unlikely to be affected. The peripheral nervous system includes the somatic nervous system and the autonomic nervous system. The autonomic nervous system is composed of both the parasympathetic and sympathetic nervous systems. Thus, choice (A) is the right answer.
+Question: 60
+ A surgeon accidentally clips a dorsal root ganglion during a spinal surgery. What is a likely consequence of this error?
+
+<li>A. I only</li>
+<li>B. II only</li>
+<li>C. I and II only</li>
+<li>D. I, II, and III</li>
+
+Correct Answer:
+Loss of motor function at that level
+Explanation:
+Loss of cognitive function
+Question: 61
+ Which of the following associations between a hormone and its category is INCORRECT?
+
+<li>A. Aldosterone—mineralocorticoid</li>
+<li>B. Testosterone—cortical sex hormone</li>
+<li>C. ADH—mineralocorticoid</li>
+<li>D. Cortisone—glucocorticoid</li>
+
+Correct Answer:
+ C
+Explanation:
+Unlike the other hormones listed here, ADH is not secreted by the adrenal cortex and is therefore not a –corticoid. Rather, ADH is a peptide hormone produced by the hypothalamus and released by the posterior pituitary that promotes water reabsorption. The other associations are all correct.
+Question: 62
+ Which of the following hormones directly stimulates a target tissue that is NOT an endocrine organ?
+
+<li>A. ACTH</li>
+<li>B. TSH</li>
+<li>C. LH</li>
+<li>D. GH</li>
+
+Correct Answer:
+ D
+Explanation:
+A hormone that directly stimulates a non-endocrine target tissue is referred to as a direct hormone. Glancing at the answer choices, we notice that all of the hormones are secreted by the anterior pituitary gland. The direct hormones secreted by the anterior pituitary are prolactin, endorphins, and growth hormone (GH). All of the other answer choices are tropic hormones; the tropic hormones of the anterior pituitary include follicle-stimulating hormone (FSH), luteinizing hormone (LH), adrenocorticotropic hormone (ACTH), and thyroid-stimulating hormone (TSH).
+Question: 63
+ Increased synthetic activity of the parathyroid glands would lead to:
+
+<li>A. an increase in renal calcium reabsorption.</li>
+<li>B. a decrease in the rate of bone resorption.</li>
+<li>C. a decrease in basal metabolic rate.</li>
+<li>D. a decrease in blood glucose concentration.</li>
+
+Correct Answer:
+ A
+Explanation:
+The parathyroid glands secrete parathyroid hormone (PTH), a hormone that functions to increase blood calcium levels. An increase in synthetic activity of the parathyroid glands would lead to an increase in PTH and, therefore, an increase in blood calcium levels through three mechanisms: increased calcium reabsorption in the kidneys (decreased excretion), increased bone resorption, and increased absorption of calcium from the gut (via activation of vitamin D).
+Question: 64
+ Which of the following statements concerning growth hormone is NOT true?
+
+<li>A. Overproduction of growth hormone in adults results in acromegaly.</li>
+<li>B. It promotes growth of bone and muscle.</li>
+<li>C. It is produced by the hypothalamus but secreted by the pituitary.</li>
+<li>D. A childhood deficiency in growth hormone results in dwarfism.</li>
+
+Correct Answer:
+ C
+Explanation:
+Growth hormone is a direct hormone secreted by the anterior pituitary. Among its many functions, GH promotes growth in bone and muscle, eliminating choice (B). An overproduction of growth hormone in children results in gigantism, whereas in adults it results in acromegaly (enlargement of the small bones in the extremities and of certain facial bones, such as the jaw), eliminating choice (A). On the other hand, a childhood deficiency of growth hormone results in dwarfism, eliminating choice (D). GH is synthesized and secreted in the anterior pituitary; choice (C) describes antidiuretic hormone and oxytocin, not GH.
+Question: 65
+ Iodine deficiency may result in:
+
+<li>A. galactorrhea.</li>
+<li>B. cretinism.</li>
+<li>C. gigantism.</li>
+<li>D. hyperthyroidism.</li>
+
+Correct Answer:
+ B
+Explanation:
+Inflammation of the thyroid or iodine deficiency can cause hypothyroidism, in which the thyroid hormones are undersecreted or not secreted at all. Hypothyroidism in newborn infants causes cretinism, which is characterized by poor neurological and physical development (including mental retardation, short stature, and coarse facial features). While iodine deficiency can result in a swelling of the thyroid gland (called a goiter), which can also be seen in causes of hyperthyroidism, iodine deficiency does not cause hyperthyroidism, eliminating choice (D). Galactorrhea, choice (A), is associated with prolactin; gigantism, choice (C), is associated with growth hormone.
+Question: 66
+ A patient has a very high TSH level. Which of the following would NOT cause a high TSH level?
+
+<li>A. Autoimmune destruction of thyroid cells that produce T<sub>3</sub> and T<sub>4</sub>.</li>
+<li>B. A tumor in the hypothalamus that secretes high levels of TRH.</li>
+<li>C. High levels of T<sub>4</sub> from thyroid replacement medications.</li>
+<li>D. Cancerous growth of parafollicular cells in the thyroid, destroying other cell types in the organ.</li>
+
+Correct Answer:
+ C
+Explanation:
+The hypothalamic–pituitary–thyroid axis includes the secretion of thyroid-releasing hormone (TRH) from the hypothalamus stimulating the secretion of thyroid-stimulating hormone (TSH) from the anterior pituitary, which stimulates the secretion of triiodothyronine (T<sub>3</sub>) and thyroxine (T<sub>4</sub>) from the thyroid. Overproduction of TRH would promote overproduction of TSH, eliminating choice (B). Destruction of the follicular cells that produce T<sub>3</sub> and T<sub>4</sub> would remove negative feedback, allowing TSH levels to rise, eliminating choices (A) and (D). High levels of T<sub>4</sub> would cause too much negative feedback and lower TSH levels, making choice (C) the correct answer.
+Question: 67
+ Which of the following hormones is NOT derived from cholesterol?
+
+<li>A. Aldosterone</li>
+<li>B. Estrogen</li>
+<li>C. Oxytocin</li>
+<li>D. Progesterone</li>
+
+Correct Answer:
+ C
+Explanation:
+Steroid hormones are derived from cholesterol. Many of their names end with –<i>one</i>, –<i>ol</i>, or –<i>oid</i>, and they include the hormones of the adrenal cortex and gonads. Aldosterone is a mineralocorticoid from the adrenal cortex, while estrogen and progesterone are sex hormones from the ovaries, eliminating choices (A), (B), and (D). Oxytocin is a peptide hormone and is thus not derived from cholesterol. Peptide and amino acid-derivative hormones often end with –<i>in</i> or –<i>ine</i>.
+Question: 68
+ Which of the following is true regarding pancreatic somatostatin?
+
+<li>A. Its secretion is increased by low blood glucose.</li>
+<li>B. It is always inhibitory.</li>
+<li>C. It is regulated by cortisol levels.</li>
+<li>D. It stimulates insulin and glucagon secretion.</li>
+
+Correct Answer:
+ B
+Explanation:
+Pancreatic somatostatin secretion is increased by high blood glucose or amino acid levels, leading to both decreased insulin and glucagon secretion, eliminating choices (A) and (D). Somatostatin is thus always an inhibitory hormone, confirming choice (B). The stimuli for somatostatin release include high blood glucose or amino acids, as mentioned above, as well as certain gastrointestinal hormones, as is discussed in Chapter 9 of <i>MCAT Biology Review</i>—but not cortisol, eliminating choice (C).
+Question: 69
+ Destruction of all <i>β</i>-cells in the pancreas would cause:
+
+<li>A. glucagon secretion to stop and a decrease in blood glucose concentration.</li>
+<li>B. glucagon secretion to stop and an increase in blood glucose concentration.</li>
+<li>C. insulin secretion to stop and an increase in blood glucose concentration.</li>
+<li>D. insulin secretion to stop and a decrease in blood glucose concentration.</li>
+
+Correct Answer:
+ C
+Explanation:
+β-cells are responsible for insulin production. The function of insulin is to lower blood glucose levels by promoting the influx of glucose into cells and by stimulating anabolic processes, such as glycogenesis or fat and protein synthesis. Thus, destruction of the <i>β</i>-cells would result in a cessation of insulin production, which would lead to hyperglycemia, or high blood glucose concentrations.
+Question: 70
+ Which of the following is FALSE regarding aldosterone regulation?
+
+<li>A. Renin converts the plasma protein angiotensinogen to angiotensin I.</li>
+<li>B. Angiotensin II stimulates the adrenal cortex to secrete aldosterone.</li>
+<li>C. Angiotensin I is converted to angiotensin II by angiotensin-converting enzyme.</li>
+<li>D. A decrease in blood oxygen concentrations stimulates renin production.</li>
+
+Correct Answer:
+ D
+Explanation:
+The stimulus for renin production is low blood pressure, which causes the juxtaglomerular cells of the kidney to produce renin, an enzyme that converts the plasma protein angiotensinogen to angiotensin I. Angiotensin I is then converted to angiotensin II by an enzyme in the lungs; angiotensin II ultimately stimulates the adrenal cortex to secrete aldosterone. Aldosterone helps to restore blood volume by increasing sodium reabsorption in the kidney, leading to an increase in water reabsorption. This removes the initial stimulus for renin production. Thus, choices (A), (B), and (C) correctly describe the renin–angiotensin–aldosterone system, while choice (D) describes the stimulus for erythropoietin secretion.
+Question: 71
+ A scientist discovers a new hormone that is relatively large in size and triggers the conversion of ATP to cAMP. Which of the following best describes the type of hormone that was discovered?
+
+<li>A. Amino acid-derivative hormone</li>
+<li>B. Peptide hormone</li>
+<li>C. Steroid hormone</li>
+<li>D. Tropic hormone</li>
+
+Correct Answer:
+ B
+Explanation:
+The question stem indicates that the newly discovered hormone functions as a first messenger, stimulating the conversion of ATP to cAMP; cAMP functions as a second messenger, triggering a signaling cascade in the cell. Hormones that act via secondary messengers and are relatively large in size (short peptides or complex polypeptides) are peptide hormones. This hormone could be a tropic hormone, but it is also entirely possible for it to be a direct hormone; thus, choice (D) can be eliminated.
+Question: 72
+ A patient presents with muscle weakness, slow movement, and calcium deposits in his tissues. A blood test reveals very low calcium levels in the blood. Administration of which the following would be an appropriate treatment for the blood test findings?
+
+<li>A. Calcitonin</li>
+<li>B. Parathyroid hormone</li>
+<li>C. Aldosterone</li>
+<li>D. Thymosin</li>
+
+Correct Answer:
+ B
+Explanation:
+Regardless of the cause, the low levels of calcium in the blood require treatment. While other therapies are more frequently used to treat hypocalcemia (low blood calcium levels), such as calcium gluconate or calcium chloride, administration of parathyroid hormone would also raise blood calcium concentration. Calcitonin would be a poor choice in this case, as this hormone lowers blood calcium concentrations, eliminating choice (A). Aldosterone and thymosin play no role in calcium homeostasis, eliminating choices (C) and (D).
+Question: 73
+ Oxytocin and antidiuretic hormone are:
+
+<li>A. peptide hormones produced and released by the pituitary.</li>
+<li>B. steroid hormones produced and released by the pituitary.</li>
+<li>C. peptide hormones produced by the hypothalamus and released by the pituitary.</li>
+<li>D. steroid hormones produced by the hypothalamus and released by the pituitary.</li>
+
+Correct Answer:
+ C
+Explanation:
+Both oxytocin and vasopressin (another name for antidiuretic hormone) end with the suffix –<i>in</i>; this should hint that they are peptide or amino acid-derivative hormones. These two hormones are both synthesized by the hypothalamus, but released by the posterior pituitary. Remember that the posterior pituitary does not actually synthesize any hormones itself; rather, it contains the axons of cells originating in the hypothalamus and is the site of release for these hormones.
+Question: 74
+ Excessive levels of dopamine in the brain are associated with psychosis. Accordingly, many antipsychotic medications block dopamine receptors. Which of the following effects may be seen in an individual taking antipsychotics?
+
+<li>A. Increased secretion of growth hormone</li>
+<li>B. Decreased secretion of growth hormone</li>
+<li>C. Increased secretion of prolactin</li>
+<li>D. Decreased secretion of prolactin</li>
+
+Correct Answer:
+ C
+Explanation:
+Dopamine is used in a number of neurological systems; most relevant to the endocrine system is the fact that dopamine secretion prevents prolactin release. Thus, an individual taking medications that block dopamine receptors would lose this inhibition on prolactin release and have elevated prolactin levels.
+Question: 75
+ A genotypically female infant is born with ambiguous genitalia. Soon after birth, she suffers from hyponatremia, or low blood concentrations of sodium. Which endocrine organ is most likely to be affected?
+
+<li>A. Hypothalamus</li>
+<li>B. Pituitary</li>
+<li>C. Kidneys</li>
+<li>D. Adrenal cortex</li>
+
+Correct Answer:
+ D
+Explanation:
+The question stem states that an infant who is genotypically female is born with ambiguous genitalia, meaning that the genitalia do not appear to be specifically female or specifically male. In a genotypic female, this indicates that she was exposed to androgens during the fetal period. In addition, she is also losing sodium, causing hyponatremia. This indicates that she has two defects. First, she has excess androgens. Second, she is lacking in aldosterone, a hormone required for proper reuptake of sodium in the kidneys. Both of these hormones are synthesized in the adrenal cortex, making choice (D) the correct answer. Note that neither of these hormones is regulated by the hypothalamic–pituitary–adrenal axis, eliminating choices (A) and (B).
+Question: 76
+ All of the following facilitate gas exchange in the lungs EXCEPT:
+
+<li>A. thin alveolar walls.</li>
+<li>B. multiple subdivisions of the respiratory tree.</li>
+<li>C. differences in the partial pressures of O<sub>2</sub> and CO<sub>2</sub>.</li>
+<li>D. active transporters in alveolar cells.</li>
+
+Correct Answer:
+ D
+Explanation:
+Gas exchange in the lungs relies on passive diffusion of oxygen and carbon dioxide. This is accomplished easily because there is always a difference in the partial pressures of these two gases and because the subdivision of the respiratory tree creates a large surface area of interaction between the alveoli and the circulatory system. In addition, the thin alveolar walls allow for fast diffusion and gas exchange. Therefore, choices (A), (B), and (C) can be eliminated. Choice (D) is the correct answer because active transport is not used in the gas exchange process in the lungs.
+Question: 77
+ Which of the following associations correctly pairs a stage of respiration with the muscle actions occurring during that stage?
+
+<li>A. Inhalation—diaphragm relaxes</li>
+<li>B. Inhalation—internal intercostal muscles contract</li>
+<li>C. Exhalation—diaphragm contracts</li>
+<li>D. Exhalation—external intercostal muscles relax</li>
+
+Correct Answer:
+ D
+Explanation:
+The muscles involved in ventilation are the diaphragm, which separates the thoracic cavity from the abdominal cavity, and the intercostal muscles between the ribs. During inhalation, the diaphragm contracts and flattens, while the external intercostal muscles contract, pulling the rib cage up and out. These actions cause an overall increase in the volume of the thoracic cavity. During exhalation, both the diaphragm and the external intercostals relax, causing a decrease in the volume of the thoracic cavity because of recoil of these tissues. In forced exhalation, the internal intercostals and abdominal muscles may contract to force out air. Thus, the only correct association from the given answers is choice (D).
+Question: 78
+ Total lung capacity is equal to the vital capacity plus the:
+
+<li>A. tidal volume.</li>
+<li>B. expiratory reserve volume.</li>
+<li>C. residual volume.</li>
+<li>D. inspiratory reserve volume.</li>
+
+Correct Answer:
+ C
+Explanation:
+Total lung capacity is equal to the vital capacity (the maximum volume of air that can be forcibly inhaled and exhaled from the lungs) plus the residual volume (the air that always remains in the lungs, preventing the alveoli from collapsing).
+Question: 79
+ The intrapleural pressure is necessarily lower than the atmospheric pressure during:
+
+<li>A. inhalation, because the expansion of the chest cavity causes compression of the intrapleural space, decreasing its pressure.</li>
+<li>B. inhalation, because the expansion of the chest cavity causes expansion of the intrapleural space, decreasing its pressure.</li>
+<li>C. exhalation, because the compression of the chest cavity causes compression of the intrapleural space, decreasing its pressure.</li>
+<li>D. exhalation, because the compression of the chest cavity causes expansion of the intrapleural space, decreasing its pressure.</li>
+
+Correct Answer:
+ B
+Explanation:
+During inhalation, the chest cavity expands, causing expansion of the intrapleural space. According to Boyle's law, an increase in volume is accompanied by a decrease in pressure. When the intrapleural pressure (and, by extension, the alveolar pressure) is less than atmospheric pressure, air enters the lungs. During exhalation, these pressure gradients reverse; thus, during exhalation, intrapleural pressure is higher than atmospheric pressure, not lower.
+Question: 80
+ A patient presents to the emergency room with a stab wound to the left side of the chest. On a chest x-ray, blood is noted to be collecting in the chest cavity, causing collapse of both lobes of the left lung. The blood is most likely located between:
+
+<li>A. the parietal pleura and the chest wall.</li>
+<li>B. the parietal pleura and the visceral pleura.</li>
+<li>C. the visceral pleura and the lung.</li>
+<li>D. the alveolar walls and the lung surface.</li>
+
+Correct Answer:
+ B
+Explanation:
+The intrapleural space, bounded by the parietal and visceral pleurae, is a potential space. As such, it is normally collapsed and contains a small amount of fluid. However, introduction of fluid or air into the intrapleural space can fill the space, causing collapse of the lung. The other options listed are too firmly apposed to permit blood to collect in these spaces.
+Question: 81
+ Each of the following statements regarding the anatomy of the respiratory system is true EXCEPT:
+
+<li>A. the epiglottis covers the glottis during swallowing to ensure that food does not enter the trachea.</li>
+<li>B. the trachea and bronchi are lined by ciliated epithelial cells.</li>
+<li>C. the pharynx contains two vocal cords, which are controlled by skeletal muscle and cartilage.</li>
+<li>D. the nares are lined with vibrissae, which help filter out particulate matter from inhaled air.</li>
+
+Correct Answer:
+ C
+Explanation:
+The pharynx, which lies behind the nasal cavity and oral cavity, is a common pathway for food entering the digestive system and air entering the respiratory system. It is the larynx that contains the vocal cords, not the pharynx.
+Question: 82
+ Which of the following is a correct sequence of passageways through which air travels during inhalation?
+
+<li>A. Pharynx → trachea → bronchioles → bronchi → alveoli</li>
+<li>B. Pharynx → trachea → larynx → bronchi → alveoli</li>
+<li>C. Larynx → pharynx → trachea → bronchi → alveoli</li>
+<li>D. Pharynx → larynx → trachea → bronchi → alveoli</li>
+
+Correct Answer:
+ D
+Explanation:
+Air enters the respiratory tract through the external nares (nostrils) and travels through the nasal cavities. It then passes through the pharynx and into the larynx. Ingested food also passes through the pharynx on its way to the esophagus; to ensure that food does not accidentally enter the larynx, the epiglottis covers the larynx during swallowing. After the larynx, air goes to the trachea, which eventually divides into two bronchi, one for each lung. The bronchi branch into smaller bronchioles, which terminate in clusters of alveoli. From the given sequences, only choice (D) correctly describes the sequence of the passages through which air travels.
+Question: 83
+ Idiopathic pulmonary fibrosis (IPF) is a disease in which scar tissue forms in the alveolar walls, making the lung tissue significantly more stiff. Which of the following findings would likely be detected through spirometry in a patient with IPF?
+
+<li>A. I only</li>
+<li>B. II only</li>
+<li>C. I and II only</li>
+<li>D. I, II, and III</li>
+
+Correct Answer:
+Decreased total lung capacity
+Explanation:
+Increased residual volume
+Question: 84
+ Studies have indicated that premature babies are often deficient in lysozyme. What is a possible consequence of this deficiency?
+
+<li>A. Respiratory distress and alveolar collapse shortly after birth</li>
+<li>B. Increased susceptibility to certain infections</li>
+<li>C. Inability to humidify air as it passes through the nasal cavity</li>
+<li>D. Slowing of the respiratory rate in response to acidemia</li>
+
+Correct Answer:
+ B
+Explanation:
+Lysozyme is an enzyme present in the nasal cavity, saliva, and tears that degrades peptidoglycan, preventing infection by gram-positive organisms. Thus, premature infants who lack lysozyme are more likely to suffer from infections with these organisms.
+Question: 85
+ Some forms of pneumonia cause an excess of fluids such as mucus or pus to build up within an entire lobe of the lung. How will this affect the diffusion of gases within the affected area?
+
+<li>A. Carbon dioxide can diffuse out, but oxygen will not be able to enter the blood.</li>
+<li>B. Oxygen can diffuse into the blood, but carbon dioxide cannot diffuse out.</li>
+<li>C. No change in diffusion will occur.</li>
+<li>D. No diffusion will occur in the affected area.</li>
+
+Correct Answer:
+ D
+Explanation:
+If an area of the lung becomes filled with mucus and inflammatory cells, the area will not be able to participate in gas exchange. Because no air will enter or leave the area, the concentration gradient will no longer exist, and neither oxygen nor carbon dioxide will be able to diffuse across the alveolar wall.
+Question: 86
+ Some people with anxiety disorders respond to stress by hyperventilating. It is recommended that these people breathe into a paper bag and then rebreathe this air. Why is this treatment appropriate?
+
+<li>A. Hyperventilation causes an increase in blood carbon dioxide, and breathing the air in the bag helps to readjust blood levels of carbon dioxide.</li>
+<li>B. Hyperventilation causes a decrease in blood carbon dioxide, and breathing the air in the bag helps to readjust blood levels of carbon dioxide.</li>
+<li>C. Hyperventilation causes an increase in blood oxygen, and breathing the air in the bag helps to readjust blood levels of oxygen.</li>
+<li>D. Hyperventilation causes a decrease in blood oxygen, and breathing the air in the bag helps to readjust blood levels of oxygen.</li>
+
+Correct Answer:
+ B
+Explanation:
+When people hyperventilate, their respiratory rate increases. When the respiratory rate increases, more carbon dioxide is blown off. This causes a shift to the left in the bicarbonate buffer equation, and the blood becomes more alkaline. Breathing into the bag allows some of this carbon dioxide to be returned to the bloodstream in order to maintain the proper pH.
+Question: 87
+ A patient presents to the emergency room with an asthma attack. The patient has been hyperventilating for the past hour and has a blood pH of 7.52. The patient is given treatment and does not appear to respond, but a subsequent blood pH reading is 7.41. Why might this normal blood pH NOT be a reassuring sign?
+
+<li>A. The patient's kidneys may have compensated for the alkalemia.</li>
+<li>B. The normal blood pH reading is likely inaccurate.</li>
+<li>C. The patient may be descending into respiratory failure.</li>
+<li>D. The patient's blood should ideally become acidemic for some time to compensate for the alkalemia.</li>
+
+Correct Answer:
+ C
+Explanation:
+When a patient with an asthma attack does not respond to treatment and has been hyperventilating for over an hour, he or she may become fatigued and may not be able to maintain hyperventilation. In this case, the patient begins to decrease his or her breathing rate and is not receiving adequate oxygen. By extension, carbon dioxide is trapped in the blood, and the pH begins to drop. Despite the fact that this pH is normal at the moment, this patient is crashing and may start demonstrating acidemia in the near future. While the kidneys should compensate for alkalemia, this is a slow process and would not normalize the blood pH within an hour; further, adequate compensation by the kidneys would actually be a reassuring sign, eliminating choice (A). There is no evidence to believe the measurement was inaccurate, eliminating choice (B). Finally, after treatment, the patient should return to a normal blood pH with adequate ventilation and would not be expected to overcompensate by becoming acidemic, eliminating choice (D).
+Question: 88
+ Premature infants with respiratory distress are often placed on ventilators. Often, the ventilators are set to provide positive end-expiratory pressure. Why might this setting be useful for a premature infant?
+
+<li>A. Premature infants lack surfactant.</li>
+<li>B. Premature infants lack lysozyme.</li>
+<li>C. Premature infants cannot thermoregulate.</li>
+<li>D. Premature infants are unable to control pH.</li>
+
+Correct Answer:
+ A
+Explanation:
+This question requires a few different levels of thinking. The question stem states that premature infants often require ventilation using positive end-expiratory pressures. While you are not expected to know ventilator settings for the MCAT, you should be able to decode what this phrase means: at the end of expiration, the ventilator will provide a higher pressure than normal, which forces extra air into the alveoli. This pressure must be used to prevent alveolar collapse, which should remind you that surfactant serves the same purpose by reducing surface tension. Thus, it makes sense that if premature babies lack surfactant, providing extra air pressure at the end of expiration would be beneficial.
+Question: 89
+ In emphysema, the alveolar walls are destroyed, decreasing the recoil of the lung tissue. Which of the following changes may be seen in a patient with emphysema?
+
+<li>A. Increased residual volume</li>
+<li>B. Decreased total lung capacity</li>
+<li>C. Increased blood concentration of oxygen</li>
+<li>D. Decreased blood concentration of carbon dioxide</li>
+
+Correct Answer:
+ A
+Explanation:
+The intrinsic elastic properties of the lung are important during exhalation as the passive recoil of lung tissue helps decrease lung volume. With decreased recoil, the patient will have difficulty exhaling completely, increasing the residual volume. The total lung capacity would be expected to increase in this case because there would be less recoil opposing inhalation, eliminating choice (B). With decreased alveolar surface area, one would expect decreased gas exchange, which would decrease blood concentrations of oxygen while increasing blood concentrations of carbon dioxide, eliminating choices (C) and (D).
+Question: 90
+ Allergic reactions occur due to an overactive immune response to a substance. Which cells within the respiratory tract play the largest role in the generation of allergic reactions?
+
+<li>A. Alveolar epithelial cells</li>
+<li>B. Macrophages</li>
+<li>C. Mast cells</li>
+<li>D. Ciliated epithelial cells</li>
+
+Correct Answer:
+ C
+Explanation:
+Allergic reactions occur when a substance binds to an antibody and promotes an overactive immune response with inflammatory chemicals. The antibody is already attached to a mast cell. Thus, when the substance binds to the antibody, the mast cell can release the inflammatory mediators that cause allergic reactions.
+Question: 91
+ Which of the following is a FALSE statement regarding erythrocytes?
+
+<li>A. Erythrocytes contain hemoglobin.</li>
+<li>B. Erythrocytes are anaerobic.</li>
+<li>C. The nuclei of erythrocytes are located in the middle of the biconcave disc.</li>
+<li>D. Erythrocytes are phagocytized in the spleen and liver after a certain period of time.</li>
+
+Correct Answer:
+ C
+Explanation:
+Erythrocytes, or red blood cells, are produced in the red bone marrow and circulate in the blood for about 120 days, after which they are phagocytized in the spleen and the liver, eliminating choice (D). Red blood cells have a disk-like shape and lose their membranous organelles (like mitochondria and nuclei) during maturation. This makes choice (C) the correct answer. Erythrocytes are filled with hemoglobin; their lack of mitochondria makes their metabolism solely anaerobic, eliminating choices (A) and (B).
+Question: 92
+ Which of the following is the correct sequence of a cardiac impulse?
+
+<li>A. SA node → AV node → Purkinje fibers → bundle of His → ventricles</li>
+<li>B. AV node → bundle of His → Purkinje fibers → ventricles → atria</li>
+<li>C. SA node → atria → AV node → bundle of His → Purkinje fibers → ventricles</li>
+<li>D. SA node → AV node → atria → bundle of His → Purkinje fibers → ventricles</li>
+
+Correct Answer:
+ C
+Explanation:
+An ordinary cardiac contraction originates in, and is regulated by, the sinoatrial (SA) node. The impulse travels through both atria, stimulating them to contract simultaneously. The impulse then arrives at the atrioventricular (AV) node, which momentarily slows conduction, allowing for completion of atrial contraction and ventricular filling. The impulse is then carried by the bundle of His and its branches through the Purkinje fibers in the walls of both ventricles, generating a strong contraction.
+Question: 93
+ Hemoglobin's affinity for O<sub>2</sub>:
+
+<li>A. increases in exercising muscle tissue.</li>
+<li>B. decreases as blood P<sub>a</sub>CO<sub>2</sub> decreases.</li>
+<li>C. decreases as blood pH decreases.</li>
+<li>D. is higher in maternal blood than in fetal blood.</li>
+
+Correct Answer:
+ C
+Explanation:
+According to the Bohr effect, decreasing the pH in the blood decreases hemoglobin's affinity for O2. This makes choice (C) the correct answer. The affinity is generally lowered in exercising muscle to facilitate unloading of oxygen to tissues, eliminating choice (A). A decrease in the PaCO2 would cause a decrease in [H+] or increased pH—which increases hemoglobin's affinity for O2, eliminating choice (B). Finally, choice (D) is incorrect because hemoglobin's affinity for O2 is higher in fetal blood than in adult blood.
+Question: 94
+ Which of the following correctly traces the circulatory pathway?
+
+<li>A. Superior vena cava → right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → aorta</li>
+<li>B. Superior vena cava → left atrium → left ventricle → pulmonary artery → lungs → pulmonary veins → right atrium → right ventricle → aorta</li>
+<li>C. Aorta → right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → superior vena cava</li>
+<li>D. Superior vena cava → right atrium → right ventricle → pulmonary veins → lungs → pulmonary artery → left atrium → left ventricle → aorta</li>
+
+Correct Answer:
+ A
+Explanation:
+Blood drains from the superior and inferior venae cavae into the right atrium. It passes through the tricuspid valve and into the right ventricle, and then through the pulmonary valve into the pulmonary artery, which leads to the lungs. Oxygenated blood returns to the left atrium via the pulmonary veins. It flows through the mitral valve into the left ventricle. From the left ventricle, it is pumped through the aortic valve into the aorta for distribution throughout the body.
+Question: 95
+ At the venous end of a capillary bed, the osmotic pressure:
+
+<li>A. is greater than the hydrostatic pressure.</li>
+<li>B. results in a net outflow of fluid.</li>
+<li>C. is significantly higher than the osmotic pressure at the arterial end.</li>
+<li>D. causes proteins to enter the interstitium.</li>
+
+Correct Answer:
+ A
+Explanation:
+The exchange of fluid is greatly influenced by the relative balance between the hydrostatic and osmotic pressures of blood and tissues. The osmotic (oncotic) pressure remains relatively constant; however, the hydrostatic pressure at the arterial end is greater than the hydrostatic pressure at the venous end. As a result, fluid moves out of the capillaries at the arterial end and back in at the venous end. Fluid is reabsorbed at the venous end because the osmotic pressure exceeds the hydrostatic pressure. Proteins should not cross the capillary wall under normal circumstances.
+Question: 96
+ A patient's chart reveals that he has a cardiac output of 7500 mL per minute and a stroke volume of 50 mL. What is his pulse, in beats per minute?
+
+<li>A. 50</li>
+<li>B. 100</li>
+<li>C. 150</li>
+<li>D. 400</li>
+
+Correct Answer:
+ C
+Explanation:
+The first step in solving this problem is to define cardiac output: cardiac output = heart rate × stroke volume. We can therefore divide the cardiac output by the stroke volume to determine heart rate:
+Question: 97
+ An unconscious patient is rushed into the emergency room and needs an immediate blood transfusion. Because there is no time to check her medical history or determine her blood type, which type of blood should she receive?
+
+<li>A. A<sup>–</sup></li>
+<li>B. AB<sup>+</sup></li>
+<li>C. O<sup>+</sup></li>
+<li>D. O<sup>–</sup></li>
+
+Correct Answer:
+ D
+Explanation:
+Without knowing a patient's blood type, the only type of transfusion that we can safely give is O–. People with O– blood are considered universal donors because their blood cells contain no surface antigens. Therefore, O– blood can be given to anyone without causing potentially life-threatening consequences from ABO incompatibility.
+Question: 98
+ Which of the following is true regarding arteries and veins?
+
+<li>A. Arteries are thin-walled, muscular, and elastic, whereas veins are thick-walled and inelastic.</li>
+<li>B. Arteries always conduct oxygenated blood, whereas veins always carry deoxygenated blood.</li>
+<li>C. The blood pressure in the aorta is always higher than the pressure in the superior vena cava.</li>
+<li>D. Arteries facilitate blood transport by using skeletal muscle contractions, whereas veins make use of the pumping of the heart to push blood.</li>
+
+Correct Answer:
+ C
+Explanation:
+The only answer choice that correctly describes arteries and veins is choice (C); the pressure in the aorta is usually about 120 or 80 mmHg, depending on whether the heart is in systole or diastole, whereas the pressure in the superior vena cava is near zero. Choice (A) is incorrect because arteries are thick-walled and veins are thin-walled. Choice (B) is also incorrect; this relationship is reversed in pulmonary and umbilical circulation. Choice (D) is reversed as well; arteries make use of the pumping of the heart and the "snapping back" of their elastic walls to transport blood, whereas venous blood is "pumped" by skeletal muscle contractions.
+Question: 99
+ At any given time, there is more blood in the venous system than the arterial system. Which of the following features of veins allows for this?
+
+<li>A. Relative lack of smooth muscle in the wall</li>
+<li>B. Presence of valves</li>
+<li>C. Proximity of veins to lymphatic vessels</li>
+<li>D. Thin endothelial lining</li>
+
+Correct Answer:
+ A
+Explanation:
+The relative lack of smooth muscle in venous walls allows stretching to store most of the blood in the body. Valves in the veins allow for one-way flow of blood toward the heart, not stretching. Both arteries and veins are close to lymphatic vessels, which has no bearing on their relative difference in volume. Both arteries and veins have a thin endothelial lining.
+Question: 100
+ Which of the following is involved in the body's primary blood-buffering mechanism?
+
+<li>A. Fluid intake</li>
+<li>B. Absorption of nutrients in the gastrointestinal system</li>
+<li>C. Carbon dioxide produced from metabolism</li>
+<li>D. Hormones released by the kidney</li>
+
+Correct Answer:
+ C
+Explanation:
+Carbon dioxide is a byproduct of metabolism in cells that later combines with water to form bicarbonate in a reaction catalyzed by carbonic anhydrase. This system is blood plasma's most important buffer system. Food and fluid absorption are not significant sources of buffering, eliminating choices (A) and (B). While the kidney can be involved in acid–base balance, it is through its filtration, secretion, and reabsorption mechanisms, not hormones, eliminating choice (D).
+Question: 101
+ Due to kidney disease, a person is losing albumin into the urine. What effect is this likely to have within the capillaries?
+
+<li>A. Increased blood pressure</li>
+<li>B. Increased hydrostatic pressure</li>
+<li>C. Decreased oncotic pressure</li>
+<li>D. Decreased hydrostatic pressure</li>
+
+Correct Answer:
+ C
+Explanation:
+In circulation, plasma proteins play an important role in generating osmotic (oncotic) pressure. This allows water that is displaced at the arterial end of a capillary bed by hydrostatic pressure to be reabsorbed at the venule end. Loss of these plasma proteins would cause a decrease in the plasma osmotic (oncotic) pressure.
+Question: 102
+ The tricuspid valve prevents backflow of blood from the:
+
+<li>A. left ventricle into the left atrium.</li>
+<li>B. aorta into the left ventricle.</li>
+<li>C. pulmonary artery into the right ventricle.</li>
+<li>D. right ventricle into the right atrium.</li>
+
+Correct Answer:
+ D
+Explanation:
+The atrioventricular valves are located between the atria and the ventricles on both sides of the heart. Their role is to prevent backflow of blood into the atria. The valve on the right side of the heart has three cusps and is called the tricuspid valve. It prevents backflow of blood from the right ventricle into the right atrium.
+Question: 103
+ The world record for the longest-held breath is 22 minutes and 0 seconds. If a sample were taken from this individual during the last minute of breath-holding, which of the following might be observed?
+
+<li>A. Increased hemoglobin affinity for oxygen</li>
+<li>B. Decreased P<sub>a</sub>CO<sub>2</sub></li>
+<li>C. Increased hematocrit</li>
+<li>D. Decreased pH</li>
+
+Correct Answer:
+ D
+Explanation:
+Holding one's breath for a prolonged period would result in a drop of oxygenation and an increase in PaCO2. The increased carbon dioxide would associate with water to form carbonic acid, which would dissociate into a proton and bicarbonate anion. Further, the low oxygen saturation would eventually lead to anaerobic metabolism in some tissues, causing an increase in lactic acid. These would all lead to a decreased pH.
+Question: 104
+ A person has a heart attack that primarily affects the wall between the two ventricles. Which portion of the electrical conduction system is most likely affected?
+
+<li>A. AV node</li>
+<li>B. SA node</li>
+<li>C. Bundle of His</li>
+<li>D. Left ventricular muscle</li>
+
+Correct Answer:
+ C
+Explanation:
+The cardiac conduction system starts at the SA node, which is located near the top of the right atrium, and continues down to the AV node, which is located between the two AV valves. The bundle of His is located within the wall between the ventricles, and is likely to be affected if the wall between the ventricles has been damaged by a heart attack. This may affect the left ventricle, but the left ventricle is not part of the cardiac conduction system.
+Question: 105
+ Which vascular structure creates the most resistance to blood flow?
+
+<li>A. Aorta</li>
+<li>B. Arterioles</li>
+<li>C. Capillaries</li>
+<li>D. Veins</li>
+
+Correct Answer:
+ B
+Explanation:
+The greatest amount of resistance is provided by the arterioles, which also results in the greatest drop in blood pressure. Arterioles are highly muscular and have the ability to contract and dilate in order to affect blood pressure.
+Question: 106
+ In DiGeorge syndrome, the thymus can be completely absent. The absence of the thymus would leave an individual unable to mount specific defenses against which of the following types of pathogens?
+
+<li>A. Viruses</li>
+<li>B. Bacteria</li>
+<li>C. Parasites</li>
+<li>D. Fungi</li>
+
+Correct Answer:
+ A
+Explanation:
+T-lymphocytes, which mature in the thymus, are the only specific defense against intracellular pathogens. While some bacteria, fungi, and parasites can live intracellularly, viruses—by definition—must replicate within cells. The absence of T-cells would leave an individual unable to fight viral infections with specific defenses.
+Question: 107
+ Which of the following are NOT involved in cell-mediated immunity?
+
+<li>A. Memory cells</li>
+<li>B. Plasma cells</li>
+<li>C. Cytotoxic cells</li>
+<li>D. Suppressor cells</li>
+
+Correct Answer:
+ B
+Explanation:
+The lymphocytes involved in cell-mediated immunity are the T-lymphocytes, or T-cells. There are four types of T-cells, each playing a different role in cell-mediated immunity: cytotoxic T-cells, helper T-cells, memory T-cells, and suppressor T-cells. Thus, from the answer choices, the only cells not involved in cell-mediated immunity are the plasma cells, which are differentiated immunoglobulin-secreting B-lymphocytes involved in humoral immunity. Choice (B) is therefore the correct answer.
+Question: 108
+ The lymphatic system:
+
+<li>A. transports hormones throughout the body.</li>
+<li>B. transports chylomicrons to the circulatory system.</li>
+<li>C. causes extravasation of fluid into tissues.</li>
+<li>D. is the site of mast cell activation.</li>
+
+Correct Answer:
+ B
+Explanation:
+The main function of the lymphatic system is to collect excess interstitial fluid and return it to the circulatory system, maintaining the balance of body fluids. However, this is not one of the answer choices. In addition, the lymphatic system accepts chylomicrons from the small intestine and delivers them to the cardiovascular circulation. Transport of hormones is a function of the cardiovascular system, eliminating choice (A). The lymphatic system absorbs fluid that has been pushed into tissues, but does not cause the extravasation of the fluid, eliminating choice (C). Mast cells reside in (and are activated in) the skin and mucous membranes, eliminating choice (D).
+Question: 109
+ Which of the following are involved in antibody production?
+
+<li>A. Plasma cells</li>
+<li>B. Memory cells</li>
+<li>C. Helper T-cells</li>
+<li>D. Cytotoxic cells</li>
+
+Correct Answer:
+ A
+Explanation:
+Antibodies are produced by plasma cells derived from B-lymphocytes. The other cells are all types of T-lymphocytes, although memory B-cells can also exist. Still, memory B-cells do not produce antibodies; plasma cells do.
+Question: 110
+ Which of the following is NOT an example of a nonspecific defense mechanism?
+
+<li>A. Skin provides a physical barrier against invasion.</li>
+<li>B. Macrophages engulf and destroy foreign particles.</li>
+<li>C. An inflammatory response is initiated in response to physical damage.</li>
+<li>D. Cytotoxic T-cells destroy cells displaying foreign antigens.</li>
+
+Correct Answer:
+ D
+Explanation:
+The body employs a number of nonspecific defense mechanisms against foreign invasion. The skin and mucous membranes provide a physical barrier against bacterial invasion. In addition, sweat contains enzymes that attack bacterial cell walls. Certain passages, such as the respiratory tract, are lined with ciliated mucus-coated epithelia, which filter and trap foreign particles. Macrophages engulf and destroy foreign particles. The inflammatory response is initiated in response to physical damage. The only choice that is not a nonspecific defense mechanism is choice (D), the correct answer. Cytotoxic T-cells are involved in (specific) cell-mediated immunity.
+Question: 111
+ Which of the following is an example of adaptive immunity?
+
+<li>A. PRRs recognize that a pathogen is an invasive parasite and eosinophils are recruited to the area.</li>
+<li>B. Complement is activated, causing osmotic instability in a bacterium.</li>
+<li>C. B-cells generated through vaccination are activated when their antigen is encountered.</li>
+<li>D. Dendritic cells sample bacteria within a laceration and travel to the lymph nodes to present the antigen.</li>
+
+Correct Answer:
+ C
+Explanation:
+Adaptive immunity involves the activation of B-cells and T-cells specific to the encountered antigen. Any choice that conforms to this paradigm will be correct. Choice (C) indicates that B-cells are activated. Pattern recognition receptors, or PRRs, in choice (A) recognize patterns common to certain pathogens, but do not identify the specific pathogen. Complement is an example of a blood-borne nonspecific defense against bacteria, eliminating choice (B). Dendritic cells traveling to the lymph nodes in choice (D) are a part of the interaction between the innate and adaptive immune systems, but the dendritic cells themselves are nonspecific.
+Question: 112
+ Which of the following is true regarding passive and active immunity?
+
+<li>A. Active immunity requires weeks to build, whereas passive immunity is acquired immediately.</li>
+<li>B. Active immunity is short-lived, whereas passive immunity is long-lived.</li>
+<li>C. Active immunity may be acquired during pregnancy through the placenta.</li>
+<li>D. Passive immunity may be acquired through vaccination.</li>
+
+Correct Answer:
+ A
+Explanation:
+Active immunity refers to the production of antibodies during an immune response. Active immunity may be conferred by vaccination, such as when an individual is injected with a weakened, inactive, or related form of a particular antigen that stimulates the immune system to produce antibodies. Active immunity may require weeks to build. Passive immunity, on the other hand, involves the transfer of antibodies either passively or by injection. An example would be during pregnancy, when some maternal antibodies cross the placenta and enter fetal circulation, conferring passive immunity to the fetus. Although passive immunity is acquired immediately, it is very short-lived, lasting only as long as the antibodies circulate in blood.
+Question: 113
+ Where are most self-reactive T-cells eliminated?
+
+<li>A. Spleen</li>
+<li>B. Lymph nodes</li>
+<li>C. Bone marrow</li>
+<li>D. Thymus</li>
+
+Correct Answer:
+ D
+Explanation:
+T-cells mature in the thymus, where they are "educated." This education involves the elimination of T-cells with improper binding to MHC–antigen complexes (positive selection) and self-reactive T-cells (negative selection). Thus, self-reactive T-cells are eliminated in the thymus.
+Question: 114
+ What is the response of the immune system to downregulation of MHC molecules on somatic cells?
+
+<li>A. B-cells are activated and antibodies are released.</li>
+<li>B. T-cells are activated, resulting in a cytotoxic response.</li>
+<li>C. Natural killer cells induce apoptosis of affected cells.</li>
+<li>D. Macrophages engulf the pathogen and display its antigens.</li>
+
+Correct Answer:
+ C
+Explanation:
+Healthy cells exhibit MHC class I molecules. Natural killer cells monitor the expression of MHC molecules on the surface of cells. Viral infection and cancer often cause a reduction in the expression of MHC class I molecules on the cell surface. Natural killer cells detect this lack of MHC and induce apoptosis in the affected cells.
+Question: 115
+ Which of the following correctly indicates the response of CD8<sup>+</sup> T-cells when activated?
+
+<li>A. Secretion of cytotoxic chemicals</li>
+<li>B. Causing isotype switching</li>
+<li>C. Presentation of antigens</li>
+<li>D. Activation of B-cells</li>
+
+Correct Answer:
+ A
+Explanation:
+CD8+ T-cells are largely responsible for the cytotoxic immune response. By releasing toxic chemicals into virally infected cells, CD8+ T-cells are able to kill these cells in an effort to contain viral infections. Isotype switching refers to changes in the isotype of antibody produced, which is not caused by CD8+ cells, eliminating choice (B). Antigens are presented by macrophages, dendritic cells, certain epithelial cells, and some B-cells, eliminating choice (C). B-cells are not activated by cytotoxic T-lymphocytes, eliminating choice (D).
+Question: 116
+ Lymphoma is cancer of the cells of the lymphoid lineage. These cells often reside within lymph nodes. What type of cell is NOT likely to cause a lymphoma?
+
+<li>A. CD8<sup>+</sup> T-cells</li>
+<li>B. B-cells</li>
+<li>C. Macrophages</li>
+<li>D. T<sub>h</sub>1 cells</li>
+
+Correct Answer:
+ C
+Explanation:
+Lymphocytes arise from the lymphoid lineage, which includes B-cells and T-cells. Thus, all types of B- and T-cells are capable of causing lymphoma. Macrophages, however, are not lymphocytes and are not likely to cause lymphoma.
+Question: 117
+ Upon encountering an antigen, only T-cells with the specific T-cell receptor are activated. This is an example of:
+
+<li>A. innate immunity.</li>
+<li>B. a cytotoxic T-cell response.</li>
+<li>C. humoral immunity.</li>
+<li>D. clonal selection.</li>
+
+Correct Answer:
+ D
+Explanation:
+When the adaptive immune system encounters an antigen, only the cells with receptors (antibodies or T-cell receptors) specific to that antigen are activated. This is known as clonal selection. While a T-cell response may be a cytotoxic response, it could also be the activation of helper T-cells; plus, this does not explain the specificity of the response, eliminating choice (B).
+Question: 118
+ Which cell type is a phagocyte that attacks bacterial pathogens in the bloodstream?
+
+<li>A. Neutrophils</li>
+<li>B. Eosinophils</li>
+<li>C. Basophils</li>
+<li>D. Dendritic cells</li>
+
+Correct Answer:
+ A
+Explanation:
+The only phagocytes that attack bacteria on this list are neutrophils and dendritic cells. Dendritic cells are able to sample and present any type of material, and reside in the skin. Neutrophils, on the other hand, are present in the bloodstream and can attack bacteria present there or in tissues. Eosinophils and basophils are involved in the formation of allergies; eosinophils also defend against parasites.
+Question: 119
+ What type of immunity is likely to be affected by removal of the spleen?
+
+<li>A. Cytotoxic immunity</li>
+<li>B. Humoral immunity</li>
+<li>C. Innate immunity</li>
+<li>D. Passive immunity</li>
+
+Correct Answer:
+ B
+Explanation:
+The spleen is a location where B-cells mature and proliferate. Therefore, removal of the spleen is likely to result in a reduction of humoral immunity. In fact, many people receive vaccinations prior to the removal of the spleen in order to bolster their immunity.
+Question: 120
+ Which of the following cell types is NOT a granulocyte?
+
+<li>A. B-cell</li>
+<li>B. Mast cell</li>
+<li>C. Eosinophil</li>
+<li>D. Basophil</li>
+
+Correct Answer:
+ A
+Explanation:
+Granulocytes are cells with granules in their cytoplasm. These granules are released in immune responses to attack a pathogen. Granulocytes include neutrophils, basophils, eosinophils, and mast cells. B-cells are agranulocytes, which include lymphocytes and monocytes/macrophages.
+Question: 121
+ Which of the following associations correctly matches a gastric cell with a compound it secretes?
+
+<li>A. G cells—HCl</li>
+<li>B. Chief cells—pepsinogen</li>
+<li>C. Parietal cells—alkaline mucus</li>
+<li>D. Mucous cells—intrinsic factor</li>
+
+Correct Answer:
+ B
+Explanation:
+Chief cells secrete pepsinogen, a protease secreted as a zymogen that is activated by the acidic environment of the stomach. G cells secrete gastrin, parietal cells secrete hydrochloric acid and intrinsic factor, and mucous cells secrete alkaline mucus, eliminating the other answer choices.
+Question: 122
+ Which of the following is NOT part of the small intestine?
+
+<li>A. Ileum</li>
+<li>B. Cecum</li>
+<li>C. Jejunum</li>
+<li>D. Duodenum</li>
+
+Correct Answer:
+ B
+Explanation:
+The small intestine is divided into three sections: the duodenum, the jejunum, and the ileum. The cecum is part of the large intestine, making choice (B) the correct answer.
+Question: 123
+ In an experiment, enteropeptidase secretion was blocked. As a direct result, levels of all of the following active enzymes would likely be affected EXCEPT:
+
+<li>A. trypsin.</li>
+<li>B. aminopeptidase.</li>
+<li>C. chymotrypsin.</li>
+<li>D. carboxypeptidase A.</li>
+
+Correct Answer:
+ B
+Explanation:
+Aminopeptidase is a brush-border peptidase secreted by the cells lining the duodenum; it does not require enteropeptidase for activation. Both trypsinogen and procarboxypeptidases A and B are activated by enteropeptidase, eliminating choices (A) and (D). Once activated, trypsin can activate chymotrypsinogen; if trypsinogen cannot be activated, then chymotrypsinogen will not be activated either, eliminating choice (C).
+Question: 124
+ Which of the following INCORRECTLY pairs a digestive hormone with its function?
+
+<li>A. Trypsin—hydrolyzes specific peptide bonds</li>
+<li>B. Lactase—hydrolyzes lactose to glucose and galactose</li>
+<li>C. Pancreatic amylase—hydrolyzes starch to maltose</li>
+<li>D. Lipase—emulsifies fats</li>
+
+Correct Answer:
+ D
+Explanation:
+Lipase is involved in the digestion of fats, but its function is not to emulsify fats—this is the job of bile. Rather, lipase chemically digests fats in the duodenum, allowing them to be brought into duodenal cells and packaged into chylomicrons. The other associations given here are all correct.
+Question: 125
+ Which of the following correctly lists two organs in which proteins are digested?
+
+<li>A. Mouth and stomach</li>
+<li>B. Stomach and large intestine</li>
+<li>C. Stomach and small intestine</li>
+<li>D. Small intestine and large intestine</li>
+
+Correct Answer:
+ C
+Explanation:
+Protein digestion begins in the stomach, where pepsin (secreted as pepsinogen) hydrolyzes specific peptide bonds. Protein digestion continues in the small intestine as trypsin (secreted as trypsinogen), chymotrypsin (secreted as chymotrypsinogen), carboxypeptidases (secreted as procarboxypeptidases), aminopeptidase, and dipeptidases hydrolyze specific parts of the peptide. No protein digestion occurs in the mouth or large intestine.
+Question: 126
+ Which of the following choices INCORRECTLY pairs a digestive enzyme with its site of secretion?
+
+<li>A. Sucrase—salivary glands</li>
+<li>B. Carboxypeptidase—pancreas</li>
+<li>C. Trypsin—pancreas</li>
+<li>D. Lactase—duodenum</li>
+
+Correct Answer:
+ A
+Explanation:
+Sucrase is a brush-border enzyme found on duodenal cells and is not secreted by the salivary glands. This enzyme hydrolyzes sucrose (a disaccharide) to form glucose and fructose (monosaccharides). The other associations are all correct.
+Question: 127
+ A two-week-old male infant is brought to the emergency room. His mother reports that he has been unable to keep any milk down; shortly after he nurses, he has sudden projectile vomiting. During exam, an olive-shaped mass can be felt in his upper abdomen. It is determined that there is a constriction in the digestive system that prevents food from reaching the small intestine from the stomach. Which structure is most likely the site of the problem?
+
+<li>A. Cardiac sphincter</li>
+<li>B. Pyloric sphincter</li>
+<li>C. Ileocecal valve</li>
+<li>D. Internal anal sphincter</li>
+
+Correct Answer:
+ B
+Explanation:
+The question is basically asking us to identify the structure that lies between the stomach and the small intestine. This is the pyloric sphincter; the presentation given in the question is a classic example of what is called pyloric stenosis, in which the pyloric sphincter is thickened and cannot relax to permit chyme through. The cardiac sphincter, choice (A), lies between the esophagus and the stomach. The ileocecal valve, choice (C), lies between the ileum of the small intestine and the cecum of the large intestine. The internal anal sphincter, choice (D), lies at the end of the rectum.
+Question: 128
+ Many medications have anticholinergic side effects, which block the activity of parasympathetic neurons throughout the body. Older individuals may be on many such medications simultaneously, exacerbating the side effects. Which of the following would NOT be expected in an individual taking medications with anticholinergic activity?
+
+<li>A. Dry mouth</li>
+<li>B. Diarrhea</li>
+<li>C. Slow gastric emptying</li>
+<li>D. Decreased gastric acid production</li>
+
+Correct Answer:
+ B
+Explanation:
+The parasympathetic nervous system has many roles in the digestive system. It promotes motility of the gut tube and secretion from glands. Therefore, blocking the parasympathetic nervous system would likely result in dry mouth (from reduced secretion of saliva), slow gastric emptying (from decreased peristalsis), and decreased gastric acid production (from reduced HCl secretion from the parietal cells in the gastric glands), eliminating choices (A), (C), and (D). Choice (B) is the correct answer because we would be more likely to expect constipation in such an individual, not diarrhea: slowed motility through the colon would lead to increased water reabsorption, making the feces too firm and causing constipation.
+Question: 129
+ The two graphs below show the relative activities of two enzymes in solutions of varying pH. Which of the following choices correctly identifies the two enzymes?
+
+<li>A. 1—chymotrypsin; 2—pepsin</li>
+<li>B. 1—pepsin; 2—carboxypeptidase B</li>
+<li>C. 1—lactase; 2—aminopeptidase</li>
+<li>D. 1—enteropeptidase; 2—amylase</li>
+
+Correct Answer:
+<img <img="" src="/images/mcat/biology/1/00122.jpeg">
+Explanation:
+<strong>Explanation:</strong>
+Question: 130
+ Which of the following would NOT likely lead to elevated levels of bilirubin in the blood?
+
+<li>A. Cholangiocarcinoma, a cancer of the bile ducts that can ultimately lead to full occlusion of the duct lumen</li>
+<li>B. Autoimmune hemolytic anemia, a disease in which the red blood cells are attacked by antibodies and are lysed</li>
+<li>C. Ménétrier's disease, in which rugae thicken and overlying glands lose secretory ability</li>
+<li>D. Acetaminophen (Tylenol) overdose, in which the accumulation of toxic metabolites can cause rapid liver failure</li>
+
+Correct Answer:
+ C
+Explanation:
+Elevated bilirubin implies a blockage to bile flow, increased production of bilirubin (from massive hemoglobin release), or an inability of the liver to produce bile. If the bile duct were occluded, as in choice (A), then bile would not be able to flow into the digestive tract and would build up, increasing bilirubin levels in the blood. If many red blood cells were lysed, as in choice (B), then bilirubin levels would rise in accordance with the increased hemoglobin release. If liver failure occurred, as in choice (D), then it would be unable to produce bile, and bilirubin would again build up. Choice (C) refers to a pathology in the stomach—the key word given here is rugae, which are the folds in the stomach wall. Lack of gastric function would have no effect on bilirubin levels, making this the correct choice.
+Question: 131
+ Which of the following correctly pairs the molecule with its primary site of absorption?
+
+<li>A. Chylomicrons—lacteals</li>
+<li>B. Amino acids—large intestine</li>
+<li>C. Vitamins A and E—stomach</li>
+<li>D. Cholesterol—ascending colon</li>
+
+Correct Answer:
+ A
+Explanation:
+Chylomicrons contain triacylglycerols, cholesteryl esters, and fat-soluble vitamins and are secreted by intestinal cells into lacteals. Amino acids, fat-soluble vitamins (like vitamins A and E), and cholesterol are all absorbed in the small intestine.
+Question: 132
+ Starch is hydrolyzed into maltose by enzymes from the:
+
+<li>A. I only</li>
+<li>B. I and III only</li>
+<li>C. II and III only</li>
+<li>D. I, II, and III</li>
+
+Correct Answer:
+salivary glands.
+Explanation:
+pancreas.
+Question: 133
+ Which of the following biomolecules does NOT drain to the liver before arriving at the right side of the heart?
+
+<li>A. Cholecalciferol (Vitamin D)</li>
+<li>B. Threonine (an amino acid)</li>
+<li>C. Fructose (a monosaccharide)</li>
+<li>D. Pantothenic acid (vitamin B<sub>5</sub>)</li>
+
+Correct Answer:
+ A
+Explanation:
+While the capillaries from the intestine come together to form the portal vein, which drains to the liver, the lacteals come together to form the thoracic duct, which drains directly into the left subclavian vein. Therefore, fat-soluble compounds do not pass through the liver before reaching the right heart. Only choice (A), vitamin D, is fat-soluble.
+Question: 134
+ Which of the following hormones increases feeding behavior?
+
+<li>A. Leptin</li>
+<li>B. Cholecystokinin</li>
+<li>C. Ghrelin</li>
+<li>D. Gastrin</li>
+
+Correct Answer:
+ C
+Explanation:
+Ghrelin promotes a sensation of hunger, increasing feeding behavior. Both leptin and cholecystokinin promote satiety, decreasing feeding behavior—eliminating choices (A) and (B). Gastrin increases acid production and gastric motility, but does not have any significant relationship with feeding behavior, eliminating choice (D).
+Question: 135
+ Which of the following is likely to be seen in a patient with liver failure?
+
+<li>A. High concentrations of urea in the blood</li>
+<li>B. High concentrations of albumin in the blood</li>
+<li>C. Low concentrations of ammonia in the blood</li>
+<li>D. Low concentrations of clotting factors in the blood</li>
+
+Correct Answer:
+ D
+Explanation:
+The liver serves many functions, including metabolic processes (glycogenesis and glycogenolysis, fat storage, and gluconeogenesis), detoxification or activation of medications, and synthesis of bile. Germane to this question are the roles of converting ammonia into urea through the urea cycle and synthesis of proteins, including albumin and clotting factors. A patient with liver failure would thus not be able to convert ammonia into urea and would have high concentrations of ammonia and low concentrations of urea in the blood, eliminating choices (A) and (C). With decreased synthetic activity, both albumin and clotting factor concentrations would be low, eliminating choice (B) and making choice (D) the correct answer.
+Question: 136
+ Which of the following would most likely be filtered through the glomerulus into Bowman's space?
+
+<li>A. Erythrocytes</li>
+<li>B. Monosaccharides</li>
+<li>C. Platelets</li>
+<li>D. Proteins</li>
+
+Correct Answer:
+ B
+Explanation:
+The glomerulus functions like a sieve; small molecules dissolved in the fluid will pass through the glomerulus, including glucose, which is later reabsorbed. Large molecules, such as proteins, and cells, such as erythrocytes and platelets, will not be able to pass through the glomerular filter.
+Question: 137
+ In which of the following segments of the nephron is sodium NOT actively transported out of the nephron?
+
+<li>A. Proximal convoluted tubule</li>
+<li>B. Thin portion of the ascending limb of the loop of Henle</li>
+<li>C. Distal convoluted tubule</li>
+<li>D. Thick portion of the ascending limb of the loop of Henle</li>
+
+Correct Answer:
+ B
+Explanation:
+Sodium is actively transported out of the nephron in the proximal and distal convoluted tubules, where the concentration of sodium outside of the nephron is higher than inside; thus, energy is required to transport the sodium molecules against their concentration gradient, eliminating choices (A) and (C). In the inner medulla, however, sodium and other ions (such as chloride) diffuse passively down their concentration gradients from the thin ascending limb of the loop of Henle, making choice (B) the correct answer. The thick ascending limb of the loop of Henle is thick because its cells contain many mitochondria—which produce the ATP needed for active transport of sodium and chloride out of the filtrate, eliminating choice (D).
+Question: 138
+ Which region of the kidney has the lowest solute concentration under normal physiological circumstances?
+
+<li>A. Cortex</li>
+<li>B. Outer medulla</li>
+<li>C. Inner medulla</li>
+<li>D. Renal pelvis</li>
+
+Correct Answer:
+ A
+Explanation:
+The region of the kidney that has the lowest solute concentration is the cortex, where the proximal convoluted tubule and a part of the distal convoluted tubule are found. The solute concentration increases as one descends into the medulla, and concentrated urine can be found in the renal pelvis.
+Question: 139
+ Which of the following sequences correctly shows the passage of blood through the vessels of the kidney?
+
+<li>A. Renal artery → afferent arterioles → glomerulus → efferent arterioles → vasa recta → renal vein</li>
+<li>B. Afferent arterioles → renal artery → glomerulus → vasa recta → renal vein → efferent arterioles</li>
+<li>C. Glomerulus → renal artery → afferent arterioles → efferent arterioles → renal vein → vasa recta</li>
+<li>D. Renal vein → efferent arterioles → glomerulus → afferent arterioles → vasa recta → renal artery</li>
+
+Correct Answer:
+ A
+Explanation:
+Blood enters the kidney through the renal artery, which divides into many afferent arterioles that run through the medulla and into the cortex. Each afferent arteriole branches into a convoluted network of capillaries called a glomerulus. Rather than converging directly into a vein, the capillaries converge into an efferent arteriole, which divides into a fine capillary network known as the vasa recta. The vasa recta capillaries enmesh the nephron tubule, where they reabsorb various ions, and then converge into the renal vein. This arrangement of tandem capillary beds is known as a portal system.
+Question: 140
+ Which of the following statements is FALSE?
+
+<li>A. ADH increases water reabsorption in the kidney.</li>
+<li>B. Aldosterone indirectly increases water reabsorption in the kidney.</li>
+<li>C. ADH acts directly on the proximal convoluted tubule.</li>
+<li>D. Aldosterone stimulates reabsorption of sodium from the collecting duct.</li>
+
+Correct Answer:
+ C
+Explanation:
+All of the answer choices describe ADH or aldosterone. These two hormones ultimately act to increase water reabsorption in the kidney; their respective mechanisms of action, however, are different. ADH increases water reabsorption by increasing the permeability of the collecting duct to water, whereas aldosterone stimulates reabsorption of sodium from the distal convoluted tubule and collecting duct. Using this knowledge, we can now attack the answer choices. Choice (C) is the correct answer because ADH does not act on the proximal convoluted tubule, but rather the collecting duct.
+Question: 141
+ In the nephron, amino acids enter the vasa recta via the process of:
+
+<li>A. filtration.</li>
+<li>B. secretion.</li>
+<li>C. excretion.</li>
+<li>D. reabsorption.</li>
+
+Correct Answer:
+ D
+Explanation:
+Essential substances, such as glucose, salts, amino acids, and water, are reabsorbed from the filtrate and returned to the blood in the vasa recta. In general, reabsorption refers to the movement of solutes from the filtrate back into the blood.
+Question: 142
+ On a very cold day, a man waits for over an hour at the bus stop. Which of the following structures helps his body set and maintain a normal temperature?
+
+<li>A. Hypothalamus</li>
+<li>B. Kidneys</li>
+<li>C. Posterior pituitary</li>
+<li>D. Brain stem</li>
+
+Correct Answer:
+ A
+Explanation:
+The hypothalamus functions as a thermostat that regulates body temperature. When it's cold outside, nervous stimulation to the blood vessels in the skin is increased, causing the vessels to constrict. This constriction diminishes blood flow to the skin surface and prevents heat loss. Sweat glands are turned off to prevent heat loss through evaporation. Skeletal muscles are stimulated to shiver (rapidly contract), which increases the metabolic rate and produces heat. The hypothalamus is also involved in other processes, including the release of endocrine hormones, regulation of appetite, and circadian rhythms.
+Question: 143
+ Glucose reabsorption in the nephron occurs in the:
+
+<li>A. loop of Henle.</li>
+<li>B. distal convoluted tubule.</li>
+<li>C. proximal convoluted tubule.</li>
+<li>D. collecting duct.</li>
+
+Correct Answer:
+ C
+Explanation:
+The filtrate enters Bowman's capsule and then flows into the proximal convoluted tubule, where virtually all glucose, amino acids, and other important organic molecules are reabsorbed via active transport.
+Question: 144
+ Under normal physiological circumstances, the primary function of the nephron is to create urine that is:
+
+<li>A. hypertonic to the blood.</li>
+<li>B. hypotonic to the blood.</li>
+<li>C. isotonic to the filtrate.</li>
+<li>D. hypotonic to the vasa recta.</li>
+
+Correct Answer:
+ A
+Explanation:
+The kidneys function to eliminate wastes such as urea, while reabsorbing various important substances such as glucose and amino acids for reuse by the body. Generation of a solute concentration gradient from the cortex to the medulla allows a considerable amount of water to be reabsorbed. Excretion of concentrated urine serves to limit water losses from the body and helps to preserve blood volume. Thus, the primary function of the nephron is to create urine that is hypertonic to the blood, making choice (A) the correct answer and eliminating choices (B) and (D). Water should be reabsorbed from the filtrate, so urine should be hypertonic to the filtrate, eliminating choice (C).
+Question: 145
+ Diabetic nephropathy is commonly detected by finding protein in the urine of a patient. In such a disease, where is the likely defect in the nephron?
+
+<li>A. Glomerulus</li>
+<li>B. Proximal convoluted tubule</li>
+<li>C. Loop of Henle</li>
+<li>D. Collecting duct</li>
+
+Correct Answer:
+ A
+Explanation:
+The glomerulus is the most likely location of pathology if large proteins are detected in the urine. This is because large proteins should not be able to pass through the filter of the glomerulus in the first place. Once large proteins are in the filtrate, no other nephron structure can reabsorb them. Thus, the only likely source of protein in the urine is glomerular pathology.
+Question: 146
+ A laceration cuts down into a layer of loose connective tissue in the skin. Which layer of the skin is this?
+
+<li>A. Stratum corneum</li>
+<li>B. Stratum lucidum</li>
+<li>C. Papillary layer</li>
+<li>D. Reticular layer</li>
+
+Correct Answer:
+ C
+Explanation:
+The layer of the skin that is predominantly loose connective tissue is the papillary layer of the dermis. The stratum corneum and stratum lucidum, choices (A) and (B), contain dead keratinocytes, while the reticular layer, choice (D), consists of dense connective tissue.
+Question: 147
+ When the pH of the blood is high, which substance is likely to be excreted in larger quantities in the urine?
+
+<li>A. Urea</li>
+<li>B. Ammonia</li>
+<li>C. Hydrogen ions</li>
+<li>D. Bicarbonate ions</li>
+
+Correct Answer:
+ D
+Explanation:
+When the pH of the blood is high, this indicates that the blood is alkalemic. In order to correct the pH of the blood, the kidney will increase the excretion of a base, namely bicarbonate. Excretion of urea would have little effect on the pH, eliminating choice (A). While ammonia is a base, it is quite toxic and is generally converted to urea before excretion, eliminating choice (B). Excretion of hydrogen ions would result in exacerbation of the alkalemia, eliminating choice (C).
+Question: 148
+ In which layer of the skin can the stem cells of keratinocytes be found?
+
+<li>A. Stratum lucidum</li>
+<li>B. Stratum granulosum</li>
+<li>C. Stratum basale</li>
+<li>D. Stratum corneum</li>
+
+Correct Answer:
+ C
+Explanation:
+The stratum basale contains the stem cells that proliferate to form keratinocytes, which then ascend through the other layers of skin until they are shed from the stratum corneum.
+Question: 149
+ A drug is used that prevents the conversion of angiotensin I to angiotensin II. What is a likely effect of this drug?
+
+<li>A. Increased sodium reabsorption</li>
+<li>B. Increased potassium reabsorption</li>
+<li>C. Increased blood pressure</li>
+<li>D. Increased blood pH</li>
+
+Correct Answer:
+ B
+Explanation:
+Normally, angiotensin II causes secretion of aldosterone from the adrenal cortex. Aldosterone serves to increase reabsorption of sodium, while promoting excretion of potassium and hydrogen ions. Thus, blocking the release of aldosterone should result in decreased reabsorption of sodium, while decreasing excretion of potassium and hydrogen ions. This eliminates choices (A) and (D) and makes choice (B) the correct answer. In the absence of aldosterone, less water reabsorption will occur, eliminating choice (C).
+Question: 150
+ Sarin is a potent organophosphate that can be used in chemical warfare. As an inhibitor of acetylcholinesterase, sarin causes excessive buildup of acetylcholine in all synapses where it is the neurotransmitter. Which of the following symptoms would be most likely to be seen in an individual with sarin poisoning?
+
+<li>A. Increased urination and increased sweating</li>
+<li>B. Increased urination and decreased sweating</li>
+<li>C. Decreased urination and increased sweating</li>
+<li>D. Decreased urination and decreased sweating</li>
+
+Correct Answer:
+ A
+Explanation:
+An excess of acetylcholine will lead to activation of all parasympathetic neurons, preganglionic sympathetic neurons, and the postganglionic sympathetic neurons that innervate sweat glands. Because the parasympathetic nervous system causes contractions of the bladder, one would expect increased urination. The increased activation of sweat glands would lead to increased sweating as well.
+Question: 151
+ <img src="/images/mcat/biology/1/00144.jpeg">
+
+<li>A. 1 only</li>
+<li>B. 1 and 2 only</li>
+<li>C. 3 and 4 only</li>
+<li>D. 2, 3, and 4 only</li>
+
+Correct Answer:
+During muscle contraction, which of the following regions decrease(s) in length?
+Explanation:
+<strong>Explanation:</strong>
+Question: 152
+ <img src="/images/mcat/biology/1/00144.jpeg">
+
+<li>A. the thick filaments only.</li>
+<li>B. the thin filaments only.</li>
+<li>C. the A-band.</li>
+<li>D. the I-band.</li>
+
+Correct Answer:
+Region 1 refers to:
+Explanation:
+<strong>Explanation:</strong>
+Question: 153
+ <img src="/images/mcat/biology/1/00144.jpeg">
+
+<li>A. 1</li>
+<li>B. 2</li>
+<li>C. 3</li>
+<li>D. 4</li>
+
+Correct Answer:
+Which region represents one sarcomere?
+Explanation:
+<strong>Explanation:</strong>
+Question: 154
+ With which of the following molecules does Ca<sup>2+</sup> bind after its release from the sarcoplasmic reticulum to regulate muscle contraction?
+
+<li>A. Myosin</li>
+<li>B. Actin</li>
+<li>C. Troponin</li>
+<li>D. Tropomyosin</li>
+
+Correct Answer:
+ C
+Explanation:
+Calcium is released from the sarcoplasmic reticulum into the sarcoplasm. It binds the troponin molecules on the thin filaments, causing the strands of tropomyosin to shift, thereby exposing the myosin-binding sites on the filaments.
+Question: 155
+ Which of the following cells is correctly coupled with its definition?
+
+<li>A. Osteoblasts—bone cells involved in the secretion of bone matrix</li>
+<li>B. Osteoclasts—immature bone cells</li>
+<li>C. Osteocytes—polynucleated cells actively involved in bone resorption</li>
+<li>D. Chondrocytes—undifferentiated bone marrow cells</li>
+
+Correct Answer:
+ A
+Explanation:
+Let's quickly define each one of the four cells discussed in the answer choices. Osteoblasts are bone cells involved in the secretion of bone matrix, as choice (A) states. Osteoclasts are large, polynucleated cells involved in bone resorption. Osteocytes are mature bone cells that eventually become surrounded by their matrix; their primary role is bone maintenance. Finally, chondrocytes are cells that secrete chondrin, an elastic matrix that makes up cartilage.
+Question: 156
+ An X-ray of the right femur in a child shows that it is shorter than the opposite femur, and below the average length for a child of this age. Which region of the bone is most likely to have an abnormality?
+
+<li>A. Diaphysis</li>
+<li>B. Metaphysis</li>
+<li>C. Epiphysis</li>
+<li>D. Periosteum</li>
+
+Correct Answer:
+ C
+Explanation:
+This question is essentially asking where longitudinal growth occurs in bones. The most likely site of abnormalities in this child's femur is the epiphyseal plate, a disk of cartilaginous cells at the internal border of the epiphysis, because the epiphyseal plate is the site of longitudinal growth. Damage to the epiphysis (with or without metaphysis involvement) can imply damage to the epiphyseal plate.
+Question: 157
+ Which of the following INCORRECTLY pairs a type of muscle fiber with a characteristic of that fiber?
+
+<li>A. Red fibers—rich in mitochondria</li>
+<li>B. Red fibers—high levels of myoglobin</li>
+<li>C. White fibers—fast-twitching</li>
+<li>D. White fibers—predominantly uses aerobic respiration</li>
+
+Correct Answer:
+ D
+Explanation:
+Red fibers are slow-twitching fibers that have high levels of myoglobin and many mitochondria. They derive their energy from aerobic respiration and are capable of sustained vigorous activity. This eliminates choices (A) and (B). White fibers, on the other hand, are fast-twitching fibers and contain lower levels of myoglobin and fewer mitochondria. Because of their composition, they derive more of their energy anaerobically and fatigue more easily. This eliminates choice (C) and makes choice (D) the correct answer.
+Question: 158
+ When the knee moves back and forth during walking, what prevents the surfaces of the leg bones from rubbing against each other?
+
+<li>A. Articular cartilage</li>
+<li>B. Epiphyses</li>
+<li>C. Synovial fluid</li>
+<li>D. Smooth muscle</li>
+
+Correct Answer:
+ A
+Explanation:
+The articular surfaces of the bones are covered with a layer of smooth articular cartilage. The epiphysis is a portion of the bone itself, eliminating choice (B). Synovial fluid lubricates the movement in the joint space, but does not stop the bones from contacting one another; this is the job of articular cartilage, eliminating choice (C). There is no appreciable function for smooth muscle in the joint space, eliminating choice (D).
+Question: 159
+ Which type(s) of muscle is/are always multinucleated?
+
+<li>A. I only</li>
+<li>B. II only</li>
+<li>C. III only</li>
+<li>D. I and II only</li>
+
+Correct Answer:
+I. Cardiac muscle
+Explanation:
+III. Smooth muscle
+Question: 160
+ Which type(s) of muscle has/have myogenic activity?
+
+<li>A. I only</li>
+<li>B. II only</li>
+<li>C. III only</li>
+<li>D. I and III only</li>
+
+Correct Answer:
+I. Cardiac muscle
+Explanation:
+III. Smooth muscle
+Question: 161
+ Red bone marrow is involved in erythrocyte formation. In contrast, yellow bone marrow:
+
+<li>A. is involved in leukocyte formation.</li>
+<li>B. is responsible for drainage of lymph.</li>
+<li>C. causes the formation of spicules.</li>
+<li>D. contains predominantly adipose tissue.</li>
+
+Correct Answer:
+ D
+Explanation:
+Yellow marrow is largely inactive and is infiltrated by adipose tissue, making choice (D) the correct answer.
+Question: 162
+ Which of the following statements regarding the periosteum is INCORRECT?
+
+<li>A. The periosteum serves as a site of attachment of bone to muscle.</li>
+<li>B. Cells of the periosteum may differentiate into osteoblasts.</li>
+<li>C. The periosteum is a fibrous sheath that surrounds long bones.</li>
+<li>D. The periosteum secretes fluid into the joint cavity.</li>
+
+Correct Answer:
+ D
+Explanation:
+The periosteum, a fibrous sheath that surrounds long bones, is the site of attachment to muscle tissue. Some periosteum cells are capable of differentiating into bone-forming cells called osteoblasts. This eliminates choices (A), (B), and (C). It is the synovium that secretes fluid into the joint cavity (joint space), not the periosteum, making choice (D) the correct answer.
+Question: 163
+ Which of the following bones is NOT a part of the appendicular skeleton?
+
+<li>A. The triquetrum, one of the carpal bones</li>
+<li>B. The calcaneus, which forms the heel</li>
+<li>C. The ischium, one of the fused pelvic bones</li>
+<li>D. The sternum, or breastbone</li>
+
+Correct Answer:
+ D
+Explanation:
+The axial skeleton consists of the skull, vertebral column, rib cage, and hyoid bone. The sternum is a point of attachment of the rib cage and is thus a part of the axial, not appendicular, skeleton. The limb bones, pectoral girdle, and pelvis are all part of the appendicular skeleton.
+Question: 164
+ To facilitate the process of birth, an infant's head is somewhat flexible. This flexibility is given in part by the two fontanelles, which are soft spots of connective tissue in the infant's skull. With time, the fontanelles will close through a process known as:
+
+<li>A. endochondral ossification.</li>
+<li>B. intramembranous ossification.</li>
+<li>C. bone resorption.</li>
+<li>D. longitudinal growth.</li>
+
+Correct Answer:
+ B
+Explanation:
+Bones form in one of two ways: endochondral ossification and intramembranous ossification. Endochondral ossification is the replacement of a cartilaginous skeleton with bone and occurs mostly in long bones, eliminating choice (A). Intramembranous ossification is the formation of bone from undifferentiated connective tissue cells (mesenchyme) and occurs mostly in the skull, making choice (B) the correct answer. Bone resorption is the breakdown of bone, not its formation, eliminating choice (C). Longitudinal growth occurs in long bones and is responsible for increasing height over time, but does not play a role in fontanelle ossification, eliminating choice (D).
+Question: 165
+ A young woman presents to the emergency room with a broken hip. She denies any recent history of trauma to the joint. Blood tests reveal a calcium concentration of <img <img="" src="/images/mcat/biology/1/00145.gif"> (normal: 8.4–10.2). Which tissue is likely responsible for these findings?
+
+<li>A. Thyroid</li>
+<li>B. Cartilage</li>
+<li>C. Parathyroid</li>
+<li>D. Smooth muscle</li>
+
+Correct Answer:
+ C
+Explanation:
+An unprovoked fracture of the hip is not a normal finding in a young woman. Given that she has a high calcium level, it is likely that she has an increased level of bone resorption that is causing her bones to be more fragile. Parathyroid hormone causes calcium release from bones. If this woman had an overactive parathyroid gland—or even cancer in this gland—then it is likely that calcium could still be resorbed from her bones even though her blood calcium levels are already high.
+Question: 166
+ What is the gene order of linked genes M, N, O, and P, given the following recombination frequencies?
+
+<li>A. MOPN</li>
+<li>B. NPMO</li>
+<li>C. ONPM</li>
+<li>D. PNMO</li>
+
+Correct Answer:
+MN: 6% NO: 18%
+Explanation:
+MP: 5% OP: 17%
+Question: 167
+ Suppose that in humans, the allele for black hair (B) is dominant to the allele for brown hair (b), and the allele for curly hair (C) is dominant to the allele for straight hair (c). When a person of unknown genotype is crossed against a person with straight, brown hair, the phenotypic ratio is as follows:
+
+<li>A. BbCC</li>
+<li>B. bbCc</li>
+<li>C. Bbcc</li>
+<li>D. BbCc</li>
+
+Correct Answer:
+25% curly black hair
+Explanation:
+25% curly brown hair
+Question: 168
+ If a male with hemophilia (X<sub>hch
+</sub>
+
+<li>A. 0%</li>
+<li>B. 25%</li>
+<li>C. 50%</li>
+<li>D. 100%</li>
+
+Correct Answer:
+ C
+Explanation:
+The female in this example is a carrier of two sex-linked traits; based on her genotype, the affected alleles are found on different X chromosomes. Drawing out a Punnett square, we see that 25% of the offspring will be female hemophiliacs (X<sub>h</sub>X<sub>h</sub>) and 25% will be female carriers of both alleles (X<sub>c</sub>X<sub>h</sub>). This question is asking what percentage of females will have a normal phenotype, which would be half of the females (those who are carriers for both traits).
+Question: 169
+ If a test cross on a species of plants reveals the appearance of a recessive phenotype in the offspring, what must be true of the phenotypically dominant parent?
+
+<li>A. It must be genotypically heterozygous.</li>
+<li>B. It must be genotypically homozygous.</li>
+<li>C. It could be either genotypically heterozygous or homozygous.</li>
+<li>D. It must have the same genotype as the test cross control parent.</li>
+
+Correct Answer:
+ A
+Explanation:
+The control parent in a test cross is always recessive. Therefore, if the test parent is phenotypically dominant, yet can provide a recessive allele (as evidenced by the presence of recessive children), then the parent must have both a dominant and recessive allele. Therefore, this test parent must by heterozygous.
+Question: 170
+ Which of the following definitions is FALSE?
+
+<li>A. Penetrance—the percentage of individuals in the population carrying the allele who actually express the phenotype associated with it</li>
+<li>B. Expressivity—the percentage of individuals in the population carrying the allele who do not express the phenotype associated with it</li>
+<li>C. Incomplete dominance—occurs when the phenotype of the heterozygote is an intermediate of the phenotypes of the homozygotes</li>
+<li>D. Codominance—occurs when multiple alleles exist for a given gene and more than one of them is dominant</li>
+
+Correct Answer:
+ B
+Explanation:
+The definition given here for expressivity is a much better match for defining penetrance (or, really, one minus the penetrance). Expressivity refers to the variable manifestations of a given genotype as different phenotypes; the degree to which various phenotypes are expressed. All of the other definitions given are accurate.
+Question: 171
+ In a species of plant, a homozygous red flower (RR) is crossed with a homozygous yellow flower (rr). If the F<sub>1</sub>2
+
+
+<li>A. Codominance</li>
+<li>B. Incomplete dominance</li>
+<li>C. Penetrance</li>
+<li>D. Expressivity</li>
+
+Correct Answer:
+ B
+Explanation:
+Some progeny in the second generation are apparently blends of the parental phenotypes. The orange color is the result of the combined effects of the red and yellow alleles. An allele is incompletely dominant if the phenotype of the heterozygotes is an intermediate of the phenotypes of the homozygotes.
+Question: 172
+ Which of the following statements is INCORRECT regarding inheritance of traits according to the modern synthesis model?
+
+<li>A. A mutation due to excessive amounts of ultraviolet light occurs in an unfertilized egg; this will affect the child who is born from that egg.</li>
+<li>B. The muscular strength gained by a weight lifter during his lifetime is inherited by his children.</li>
+<li>C. A green-feathered bird that survived all of the predators in the forest will pass on the green feather genes to its offspring.</li>
+<li>D. A flower with a tasty nectar eaten by a butterfly is more likely to pass on its genes through the pollen spread by the butterfly then a flower with less desirable nectar.</li>
+
+Correct Answer:
+ B
+Explanation:
+To find the correct answer, we have to read each choice and eliminate the ones that fit with the modern-day theories of inheritance, which state that the genes that make an organism most fit for its environment will be passed to offspring. This can be seen in <b>choice (C)</b> and <b>(D)</b>, both of which demonstrate that an organism with improved fitness will pass those genes to offspring. <b>Choice (A)</b> mentions a gamete being exposed to mutagens; a zygote created from this gamete would contain any mutations in the egg and would be affected by them. Thus, <b>choice (B)</b> must be the correct answer: indeed, acquired characteristics not encoded in the genome should not be passed to offspring according to the modern synthesis model.
+Question: 173
+ Which of the following statements is FALSE based on Darwin's theory of evolution?
+
+<li>A. Natural selection is the driving force for evolution.</li>
+<li>B. Favorable genetic variations become more and more common in individuals throughout their lives.</li>
+<li>C. Natural selection can drive organisms living in groups to ultimately become distinct species.</li>
+<li>D. Fitness is measured by reproductive success.</li>
+
+Correct Answer:
+ B
+Explanation:
+Darwin's theory of natural selection argues that chance variations between organisms can help certain organisms survive to reproductive age and produce many offspring, transmitting their variations to the next generation. Thus, natural selection would drive the process of evolution forward, enabling the survival of characteristics that impart an advantage in the environment, eliminating <b>choice (A)</b>. In Darwin's theory, fitness is measured in terms of reproductive success, as <b>choice (D)</b> states. Through natural selection, organisms may be separated in groups depending on environmental pressures, and these groups can eventually separate to the point of becoming distinct species, eliminating <b>choice (C)</b>. <b>Choice (B)</b> is the correct answer because the theory of natural selection applies to a population of organisms, not to a particular individual. As such, favorable genetic variations become more and more common from generation to generation, not during the lifetime of an individual.
+Question: 174
+ Which of the following is NOT a necessary condition for Hardy–Weinberg equilibrium?
+
+<li>A. Large population size</li>
+<li>B. No mutations</li>
+<li>C. Monogamous mating partners</li>
+<li>D. No migration into or out of the population</li>
+
+Correct Answer:
+ C
+Explanation:
+Hardy–Weinberg equilibrium exists in certain ideal conditions that, when satisfied, allow one to calculate the gene frequencies within a population. The Hardy–Weinberg equation can be applied only under these five conditions: (1) the population is very large; (2) there are no mutations that affect the gene pool; (3) mating between individuals in the population is random; (4) there is no migration of individuals into or out of the population; (5) the genes in the population are all equally successful at reproduction. Thus, from the given choices, only <b>choice (C)</b> is false: monogamy is not a necessary condition for the Hardy–Weinberg equations to be applied.
+Question: 175
+ As the climate became colder during the Ice Age, a particular species of mammal evolved a thicker layer of fur. What kind of selection occurred in this population?
+
+<li>A. Stabilizing selection</li>
+<li>B. Directional selection</li>
+<li>C. Disruptive selection</li>
+<li>D. Speciation selection</li>
+
+Correct Answer:
+ B
+Explanation:
+The situation described in the question stem is an example of directional selection. In directional selection, the phenotypic norm of a particular species shifts toward an extreme to adapt to a selective pressure, such as an increasingly colder environment. Only those individuals with a thicker layer of fur were able to survive during the Ice Age, thus shifting the phenotypic norm.
+Question: 176
+ At what point are two populations descended from the same ancestral stock considered to be separate species?
+
+<li>A. When they can no longer produce viable, fertile offspring.</li>
+<li>B. When they look significantly different from each other.</li>
+<li>C. When they can interbreed successfully and produce offspring.</li>
+<li>D. When their habitats are separated by a significantly large distance so that they cannot meet.</li>
+
+Correct Answer:
+ A
+Explanation:
+A species is defined as the largest group of organisms that can interbreed to produce viable, fertile offspring. Therefore, two populations are considered separate species when they can no longer do so.
+Question: 177
+ In a nonevolving population, there are two alleles, R and r, which code for the same trait. The frequency of R is 30 percent. What are the frequencies of all the possible genotypes?
+
+<li>A. 49% RR, 42% Rr, 9% rr</li>
+<li>B. 30% RR, 21% Rr, 49% rr</li>
+<li>C. 0.09% RR, 0.42% Rr, 0.49% rr</li>
+<li>D. 9% RR, 42% Rr, 49% rr</li>
+
+Correct Answer:
+ D
+Explanation:
+Let's use the information provided by the question stem to set up our equations. We are told that the frequency of R equals 30%, and as such, <i>p</i> = 0.30. The frequency of the recessive gene r = 100% – 30% = 70%; thus, <i>q</i> = 0.70. The frequency of the genotypes, according to the Hardy–Weinberg equilibrium, are given by <i>p</i><sup>2</sup> = RR, 2<i>pq</i> = Rr, and <i>q</i><sup>2</sup> = rr. Therefore, the frequency of the genotypes are (0.3)<sup>2</sup> = 0.09 = 9% RR, 2 × 0.3 × 0.7 = 0.42 = 42% Rr, and (0.7)<sup>2</sup> = 0.49 = 49% rr.
+Question: 178
+ In a particular Hardy–Weinberg population, there are only two eye colors: brown and blue. Of the population, 36% have blue eyes, the recessive trait. What percentage of the population is heterozygous?
+
+<li>A. 24%</li>
+<li>B. 48%</li>
+<li>C. 60%</li>
+<li>D. 64%</li>
+
+Correct Answer:
+ B
+Explanation:
+Using the information given in the question stem, we can determine that the percentage of the population with blue eyes (genotype bb) = 36% = 0.36 = <i>q</i><sup>2</sup>; therefore, <i>q</i> = 0.6. Because this is a Hardy–Weinberg population, we can assume that <i>p</i> + <i>q</i> = 1, so <i>p</i> = 1 – 0.6 = 0.4. The frequency of heterozygous brown eyes is therefore 2<i>pq</i> = 2 × 0.4 × 0.6 = 0.48 = 48%.
+Question: 179
+ Which of the following was NOT a belief of Darwin's?
+
+<li>A. Evolution of species occurs gradually and evenly over time.</li>
+<li>B. There is a struggle for survival among organisms.</li>
+<li>C. Genetic recombination and mutation are the driving forces of evolution.</li>
+<li>D. Those individuals with fitter variations will survive and reproduce.</li>
+
+Correct Answer:
+ C
+Explanation:
+Darwin's main argument was that natural selection is the driving force for evolution. Darwin did not consider the role of genetic mutation and recombination, which were unknown at the time. These aspects were added to Darwin's theory as part of the modern synthesis model, which did not occur until significantly after Darwin's time.
