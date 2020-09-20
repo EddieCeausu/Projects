@@ -1,7 +1,7 @@
 var canvas = document.getElementById("myCanvas");
 var tool = canvas.getContext("2d");
 
-var gravity = 1;
+var gravity = 9.8;
 var sq = { x: canvas.width/2, y: 550, width: 20, height: 20 };
 var plat = { x: 100, y: 600, width: 1000, height: 30 }
 
