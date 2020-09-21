@@ -16,8 +16,9 @@ token.pickle
 .metadata
 .recommenders
 
+# ============== #
 # Java #
-
+# ============== #
 # Compiled class file
 *.class
 
@@ -96,8 +97,10 @@ weka/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-
+# ============== #
 # Haskell Files #
+# ============== #
+
 dist
 dist-*
 cabal-dev
@@ -127,14 +130,17 @@ node_modules
 *.pyc
 __pycache__/
 
+# ============== #
 # Unity Files #
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-[Uu]ser[Ss]ettings/
+# ============== #
+
+/Unity\ Project/ITSI\ 331/**/[Ll]ibrary/
+/Unity\ Project/ITSI\ 331/**/[Tt]emp/
+/Unity\ Project/ITSI\ 331/**/[Oo]bj/
+/Unity\ Project/ITSI\ 331/**/[Bb]uild/
+/Unity\ Project/ITSI\ 331/**/[Bb]uilds/
+/Unity\ Project/ITSI\ 331/**/[Ll]ogs/
+/Unity\ Project/ITSI\ 331/**/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
