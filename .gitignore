@@ -134,14 +134,8 @@ __pycache__/
 # Unity Files #
 # ============== #
 
-/Unity\ Project/ITSI\ 331/**/[Ll]ibrary/
-/Unity\ Project/ITSI\ 331/**/[Tt]emp/
-/Unity\ Project/ITSI\ 331/**/[Oo]bj/
-/Unity\ Project/ITSI\ 331/**/[Bb]uild/
-/Unity\ Project/ITSI\ 331/**/[Bb]uilds/
-/Unity\ Project/ITSI\ 331/**/[Ll]ogs/
-/Unity\ Project/ITSI\ 331/**/[Uu]ser[Ss]ettings/
-
+/Unity\ Projects/ITSI\ 331/**/Library/
+/Unity\ Projects/ITSI\ 331/**/Logs/ 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
@@ -178,6 +172,7 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.dwlt
 
 # Unity3D generated meta files
 *.pidb.meta
