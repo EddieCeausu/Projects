@@ -24,6 +24,7 @@ public class DNAtoProtienSeq {
     do {
       System.out.println("Enter your sequence: ");
       seq = new Scanner(System.in).nextLine();
+      seq.toUpperCase();
       seq.replaceAll("\\s","").replaceAll("[^A-Za-z0-9]","").toLowerCase();
       if(Pattern.compile("[ATCG]").matcher(seq.toString()).find()) {
         //if(seq.length() % 3 == 0)
